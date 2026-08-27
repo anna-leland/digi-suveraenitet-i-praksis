@@ -80,5 +80,5 @@ Sitet vil blandt andet indeholde:
 
 ---
 
-*Projektet er licenseret i henhold til [LICENSE](LICENSE) | Kontakt: [@anna-leland](https://github.com/anna-leland)*
+*Projektet er licenseret under [CC BY-SA 4.0](./LICENSE.md). | Kontakt: [@anna-leland](https://github.com/anna-leland)*
 
