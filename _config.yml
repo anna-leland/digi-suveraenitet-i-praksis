@@ -14,3 +14,7 @@ defaults:
     values:
       layout: "default"
       has_toc: false   # fjerner overordnet "Table of contents". Sæt til true her eller i headeren på de enkelte sider.
+
+exclude:
+  - docs/os2forloeb2026/Interviews/
+  - docs/os2forloeb2026/Onboardingmoeder/
