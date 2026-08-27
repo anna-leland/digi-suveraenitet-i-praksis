@@ -10,40 +10,75 @@
 > *That's it! You are now set up, and your documentation site is live!*
 
 
-# [Replace with Project Title]
-> Replace this subtitle section with a clear statement defining the mission and goals of your project in a few simple terms.
+# Digital suverænitet i praksis
+### Specialeforberedende forløb hos OS2 2026
 
-[How It Works](#🧭-how-it-works) | [Architecture](#architecture) | [ How to Install and Run](#▶️-how-to-install-and-run)
+Dette site dokumenterer mit specialeforberedende forløb hos **OS2** som en del af kandidatuddannelsen i Informationsvidenskab på Aarhus Universitet.
 
-## 🧭 How It Works
-> Replace with a brief, clear explanation of how the codebase works to achieve the stated mission objectives.
+Formålet er at samle og formidle analyser, observationer og løbende resultater fra mit arbejde med **digital suverænitet, open source-governance og selvevalueringer af OS2's produkter** med henblik på et efterfølgende specialesamarbejde med OS2 i foråret 2027.
 
-#### Architecture
+[Hvordan det fungerer](#-hvordan-det-fungerer) | [Indhold](#centralt-indhold) | [Om projektet](#-om-projektet)
 
-> Replace with a Brief introduction to the project's high-level architecture. Link to the architecture documentation with a diagram preferably in mermaid syntax.
-[ARCHITECTURE.MD](./docs/ARCHITECTURE.MD)
+## 🧭 Hvordan det fungerer
 
-#### Key Features
+Sitet fungerer som den formidlede del af mit specialeforberedende arbejde hos OS2. Materialet bygger på analyser, observationer, møder og praktisk arbejde i OS2-sekretariatet.
 
-> Replace this with a brief explaination of the main features or functionalities of your project.
+Arbejdet dokumenteres løbende i Git og GitHub, og udvalgte dele publiceres her i en mere tilgængelig og struktureret form.
 
-## ▶️ How to Install and Run
-> Replace with clear, concise instructions on how to install and run the codebase for development, test and production setups. Link to repositories containing deployment templates that automates deployment
+### Struktur
 
-#### Setting up a development enviroment
-> Describe how to get a development enviroment up and running
+Dokumentationen er skrevet i Markdown og publiceres som et statisk website gennem GitHub Pages og Just the Docs.
 
-#### Deploying to production
-> Describe the different deployment methods for the project. Please adhere to the deployment standards recommended by OS2 when describing how to get the project running in production.
+Indholdet organiseres tematisk omkring blandt andet:
 
-#### 
+- digital suverænitet
+- open source-governance
+- selvevaluering af OS2's produkter
+- organisatoriske udfordringer ved implementering af open source
+- løbende analyser og resultater fra forløbet
 
-## :star: Examples
+### Centralt indhold
 
-> Replace with examples demonstrating key functionality, code-snippets such as command-line usage, API calls or if needed screendumps
+I efteråret 2026 arbejder jeg blandt andet med:
+
+- Facilitering og analyse af OS2's governance-selvevalueringer af deres it-produkter samt understøttelse af sekretariatets præsentation til bestyrelsen.
+- Identifikation af problemområder, potentialer for automatisering, behov for kompetenceløft og en mere standardiseret metode til kravsopfyldelse i selvevalueringerne.
+- Analyse af organisatoriske udfordringer ved implementering af open source-governance og digital suverænitet.
+- Dokumentation og formidling af analyser, observationer og løbende resultater.
+
+## 🔎 Forskningsinteresser
+
+Projektet tager især udgangspunkt i følgende faglige interesser:
+
+- Big Techs magt i den moderne verden, herunder overvågningskapitalisme og opmærksomhedsøkonomi.
+- Dansk og europæisk frigørelse fra amerikansk Big Tech gennem digital suverænitet og open source.
+- Humanistisk teknologiudvikling og etiske og filosofiske overvejelser i teknologidesign.
+
+## 🎓 Foreløbige specialetemaer
+
+Det empiriske arbejde i forløbet forventes at danne grundlag for et speciale om blandt andet:
+
+- digital suverænitet
+- open source-governance
+- organisatoriske udfordringer ved implementering af open source i den offentlige sektor
+- *Public Money, Public Code*
+
+## ▶️ Om projektet
+
+Dette repository indeholder dokumentationen bag websitet.
+
+Materialet skrives lokalt i Markdown, versionsstyres med Git og publiceres via GitHub Pages. Repositoryet og websitet udvikles løbende gennem det specialeforberedende forløb.
+
+## ⭐ Eksempler på indhold
+
+Sitet vil blandt andet indeholde:
+
+- analyser og refleksioner fra arbejdet med OS2's selvevalueringer
+- formidling af metoder og arbejdsgange
+- observationer om governance og digital suverænitet
+- løbende resultater og materiale med relevans for specialesamarbejdet i 2027
 
 ---
 
-*This project is licensed under the terms of the [LICENSE.md](LICENSE.md) | For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) | Contact: [maintainer usernames]()*
-
+*Projektet er licenseret i henhold til [LICENSE](LICENSE) | Kontakt: [@anna-leland](https://github.com/anna-leland)*
 
