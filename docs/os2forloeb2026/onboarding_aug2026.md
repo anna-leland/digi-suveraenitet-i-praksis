@@ -1,6 +1,6 @@
 ---
 title: Tidslinje
-nav_order: 2
+nav_order: 4
 parent: OS2-forløb 2026
 ---
 

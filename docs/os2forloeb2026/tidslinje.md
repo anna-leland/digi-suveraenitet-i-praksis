@@ -1,10 +1,10 @@
 ---
 title: Tidslinje
-nav_order: 2
+nav_order: 5
 parent: OS2-forløb 2026
 ---
 
-# Tidslinje
+# Tidslinje 2026-2027
 
 ```mermaid
 gantt
