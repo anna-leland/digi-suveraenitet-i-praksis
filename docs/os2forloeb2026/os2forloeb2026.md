@@ -1,5 +1,6 @@
 ---
-title: OS2-forløb 2026
+title: Specialeforberedende forløb hos OS2 2026
 nav_order: 2
 has_children: true
+has_toc: true
 ---
