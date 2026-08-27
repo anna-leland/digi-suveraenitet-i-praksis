@@ -1,10 +1,10 @@
 ---
-title: Onboarding august
+title: Onboarding august 2026
 nav_order: 4
 parent: OS2-forløb 2026
 ---
 
-# Annas Onboarding august 2026
+# Annas onboarding august 2026
 
 ## Gameplans uge for uge
 
