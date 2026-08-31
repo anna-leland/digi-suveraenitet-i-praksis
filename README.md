@@ -18,7 +18,9 @@ GitHub-repositoriet fungerer som den samlede dokumentation for projektet og inde
 
 Materialet skrives i Markdown og versionsstyres med Git.
 
-**Ikke alt indhold på GitHub publiceres på websitet.** Udvalgte analyser, resultater og formidlede materialer publiceres gennem **GitHub Pages og Just the Docs**, mens fx rå interview- og mødenoter kun opbevares i repositoryet.
+Udvalgte analyser, resultater og formidlede materialer publiceres gennem **GitHub Pages og Just the Docs**, mens fx rå interview- og mødenoter kun opbevares i repositoryet.
+
+[Find websitet her](https://anna-leland.github.io/digi-suveraenitet-i-praksis/)
 
 ## 💼 Specialeforberedende forløb 2026
 
