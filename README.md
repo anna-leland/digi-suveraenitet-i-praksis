@@ -1,4 +1,3 @@
-# README.md
 # Digital suverænitet i praksis
 ### Specialeforberedende forløb hos OS2 2026 og specialesamarbejde i 2027
 
