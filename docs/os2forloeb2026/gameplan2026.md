@@ -1,7 +1,7 @@
 ---
 title: Gameplan 2026
 nav_order: 3
-parent: OS2-forløb 2026
+parent: Specialeforberedende forløb hos OS2 2026
 ---
 
 
