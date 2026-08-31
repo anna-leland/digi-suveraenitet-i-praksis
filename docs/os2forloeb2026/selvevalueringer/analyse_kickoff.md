@@ -9,7 +9,8 @@ Fagligt
 * \[ ] Rasmus’ opgaver til mig omkring selv-evalueringer - har AL hørt noget ?
 * \[ ] Gennemgå findings fra interview m Jakob [link til noter fra interview](https://github.com/anna-leland/digi-suveraenitet-i-praksis/blob/main/docs/os2forloeb2026/Interviews/noter_interview-med-jakob-thøtt-nørby-selvevaluering-af-os2aiheatcontrol.md)
 * \[ ] Genbesøg punkter fra gameplan - balance mellem interviews og dokumentanalyse?
-* \[ ] Status på min uni-opgave #1 
+* \[ ] Status på min uni-opgave #1
+*  mere? 
 
 Praktisk
 
