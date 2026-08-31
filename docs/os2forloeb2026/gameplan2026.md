@@ -5,7 +5,7 @@ parent: Specialeforberedende forløb hos OS2 2026
 ---
 
 
-#### Specialeforberedende forløb hos OS2 i 2026
+# Gameplan for specialeforberedende forløb hos OS2 i 2026
 
 ```mermaid
 %% Help: Milestones are displayed using Mermaid timeline syntax. Please include a section for each milestone and identify all tasks releated to reaching the goal.
