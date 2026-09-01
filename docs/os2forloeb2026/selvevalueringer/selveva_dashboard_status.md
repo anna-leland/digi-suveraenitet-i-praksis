@@ -1,8 +1,7 @@
 # Proces status på selvevalueringer 
 
+Note til data i tabel: Har pt udfyldt for de 8 rapporter som per d.1 sept er uploadet på [audit.os2.eu](audit.os2.eu) + for OS2opendata, da deres status står i [loggen](https://audit.os2.eu/docs/log/log.html).
 ### OS2 produkter 
-
-Note til data i tabel: Har pt udfyldt for de 8 rapporter som per d.1 sept er uploadet på [audit.os2.eu](audit.os2.eu) + for OS2opendata, da deres status står i [loggen](https://audit.os2.eu/docs/log/log.html)
 | # | Produkt | Introduktion til produktkoordinator/styregruppe | Selvevaulering | Sekretariatets vurdering | Publicering | Andet/note |
 |---|--|-----------|-----------|-----------|-----------|-----------|
 | 1 | OS2autoproces |            |           |           |           |           |
@@ -12,7 +11,7 @@ Note til data i tabel: Har pt udfyldt for de 8 rapporter som per d.1 sept er upl
 | 5 | OS2dagsorden |           |           |           |           |           |
 | 6 | OS2display |           |           |           |           |           |
 | 7 | OS2faktor |      Email sendt 11/06/26     |      Kladde udfyldt 12/05/26      |           |           |           |
-| 8 | OS2FleetOptimiser |      Email sendt 11/06/26     |      Udfyldt 12/06/26     |           |           |           |
+| 8 | OS2FleetOptimiser |      Email sendt 11/06/26     |      Udfyldt 12/06/26     |      Ikke påbegyndt     |           |           |
 | 9 | OS2flytjord |           |           |           |           |           |
 | 10 | OS2forms |           |           |           |           |           |
 | 11 | OS2indberetning |           |           |           |           |           |
