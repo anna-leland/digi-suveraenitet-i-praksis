@@ -1,8 +1,3 @@
----
-title: Tidslinje
-nav_order: 5
-parent: Specialeforberedende forløb hos OS2 2026
----
 
 # Tidslinje 2026-2027
 
