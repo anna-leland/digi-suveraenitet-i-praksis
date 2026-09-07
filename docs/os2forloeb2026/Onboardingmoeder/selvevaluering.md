@@ -20,7 +20,7 @@ tidslinje: marts/april 2026 første besked, deadline 30. juli
     - lidt uoverskueligt og som 'endnu' en opgave i de frivillige styregruppe+koordinationsgruppe og de pressede produktionkoordinatore/forvaltede som har meget at se til 
 
 - Hvor langt er I med at evaluere?
-    - halvdelen har svaret her 13. aug 
+    - halvdelen har svaret her 13. aug – men kan kun se 8 rapporter på audit.os2.eu?
 - Hvornår skal sekretariaetet vurdere udfaldet af selvevalueringerne?
     - løs frist, ikke besluttet endnu 
 - Hvornår skal den præsenteres for bestyrelsen?

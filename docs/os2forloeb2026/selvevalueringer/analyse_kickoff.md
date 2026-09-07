@@ -58,7 +58,7 @@ Anna-Lis udstikker mig pt disse opgaver ifbm. selvevaluerings-arbejdet:
     - Hvordan følger vi op på dem der ikke er vendt retur endnu - skal jeg kontakte dem for uddybende?
         * så vent med at gennemgå interview m Jakob, dette bliver indholdsmæssig gennemgang 
 
-![community building - møde m Sisse ](../images/analyse_kickoff_anna-lis.JPG)
+![analyse_kickoff_anna-lis](../images/analyse_kickoff_anna-lis.JPG)
 - uddybning af billede:
     - under intro: "har de fået tilsendt selv eva, har de holdt møde med Rasmus"
     -  ..nhed = **modenhed**: strategisk, forvaltningsmæssigt men ≠ikke teknisk noget selv-eva kan måle
