@@ -7,7 +7,7 @@
 
 ### Skal resultere i 4 forskellige analyser: 
 1. **Selvevaluerings formular-analyse:**
-    - forslag til revidering af de #43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
+    - forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
         - "skal barren sættes ned?"- R
     - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens 
 
@@ -23,12 +23,13 @@
 
 
 Data indsamling 
-### 1. Selvskabt empiri 
+### A. Selvskabt empiri 
    - gennemgå selvevalueringen selv, og notere 'hvad er uklart ift. hvordan og hvad man skal svare'
+   - dokument analyse af de 7 indkomne analyser
    - UI-analyse af audit.os2.eu sitet
    - undersøg sekretariatets 'vurderings'-skabelon og lav et udspil til en forbedret version - fx skal der tilføjes to kolonner og slettes en (slet rød/gul/grøn i midten og tilføj yderst til højre: vurdering og anbefaling)
 
-### 3. Indsamlet empiri fra produktforvaltere mfl. 
+### B. Indsamlet empiri fra produktforvaltere mfl. 
 x
     - kvalitative interviews med forskellige profiler af produktforvaltere; blandet udvalg af nye/gamle produktkoordinatorer, projektledere, nogen der har udfyldt og andre som er i process
     - udspørge til problemer i udfyldningen af selv-eva med selve formularen
