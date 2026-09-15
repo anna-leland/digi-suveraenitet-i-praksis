@@ -42,6 +42,7 @@ x
         - forms (flue hos Anna-Lis)
         - valhalla og iot (Lisbeth) 
         - OpenDataDK (Agenete)
+        - Nordjurs – hvem?
 
 ### Faciliter/foreslå forslag til en reframing af audit-processen:
 - Det er et krav, men må helst ikke føles som en pligt
