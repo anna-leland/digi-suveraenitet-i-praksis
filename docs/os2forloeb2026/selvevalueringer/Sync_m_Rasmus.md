@@ -43,6 +43,18 @@ x
         - valhalla og iot (Lisbeth) 
         - OpenDataDK (Agenete)
         - Nordjurs – hvem?
+        - Jan?
+Ideen med at interviewe Jan: han fortæller mig, at der kommer til at være huller i min analyse omkring leverandørsiden af formularen. 
+Hvad oplever de når de udfylder (tit får den oversendt fra PK) - men alle produkterne udfylder de tekniske spørgsmål forskelligt - han studser over flere af de tekniske punkter, hvor der virkelig er noget galt med wordingen:
+- fx "hvad betyder 'aktivt' i F1 - hvordan dokumenteres det?", og "den med containers er der også problemer med (hvilket krav?)" og "F12 - hvis der kun er en main version, må man så ik fork eller kopiere repo?" 
+det er en black box hvad PK siger til Lev. Jan sidder med at lave guides til PK/lev'er med forskellige videnskompetencer, som han skal hjælpe uden at han overtager at udfylde selv-eva for dem. 
+bekymring: økonomiske motivationer for at svare at en leverandør måske ikke lever op, så at man kan tilbyde en ny service $$$ 
+
+dialogværktøj og ikke et revisionsværktøj - siger Rasmus 
+
+F21 - Rasmus uddyber:  hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
+Jan siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
+skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
 
 ### Faciliter/foreslå forslag til en reframing af audit-processen:
 - Det er et krav, men må helst ikke føles som en pligt

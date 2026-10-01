@@ -98,4 +98,9 @@ har man en 'leverance-model', en issuetracker, -- det kræver løn at organisere
 
 ting opstår ved ildsjæle, men det kommer ingen steder hvis ikke de 'interesserede' griber den og bygger videre (her er os2 sat i verden for at  understøtte og videreudvikle), få det gjort så godt at andre har lyst til at bruge det i hverdagen (altså skifter vaner)
 
+--- 
+tilføjelse lavet d.1 okt, efter det var nævnt på et team møde
+der ligger implicit i OS2 en solidaritetsmodel og på grund af opsætningen i økonomien, som ligger ude i produkterne:
+* de bredeste skuldre løfter
+* dem der vil sætte ting i gang må selv spæde til
 
