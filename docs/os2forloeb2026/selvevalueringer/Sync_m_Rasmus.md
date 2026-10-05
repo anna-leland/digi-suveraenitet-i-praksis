@@ -9,18 +9,40 @@
 1. **Selvevaluerings formular-analyse:**
     - forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
         - "skal barren sættes ned?"- R
-    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens 
+    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens
+Format: .md-fil
+[Skal indholde:]{.underline}
+- [Kort introduktion]{.underline}: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problemmatiske. Nævn de brugte koder i dokuanalysen:
+|                  Koder                  |                                                                     Betydning                                                                     |
+| :--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| K1 Fortolk-variation               | Svarene tyder på, at kravet forstås forskelligt på tværs af produkter.                                                                  |
+| K2 Mangl. Vejledning               | Kravet mangler definition, eksempel eller forklaring på, hvad/hvordan man forventes at svare.                                           |
+| K3 Uklart dokumentationskrav       | Det er uklart, hvilken evidens, dokumentation eller hvilke links der forventes.                                                         |
+| K4 Uhensigtsmæssigt svarformat     | Fritekst fungerer dårligt; spørgsmålet kunne fx egne sig bedre til dropdown, ja/nej, separat linkfelt eller faste svarmuligheder.       |
+| K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
+| K6 Overlap/redundans               | Kravet overlapper andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder.                                 |
+
+-[ formular findings ]{.underline} nedslag - slag-i-slag af de 20 punkter som har indikation på problemer 
+opsætning overvejes stadig - evt hiv tabellen ind med de 20 rækkers findings 
+Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres. 
+  
+- [Konklusion:]{.underline} opsumer 
 
 2.  **UI-hjemmeside analyse:**
    - forslag til ny sideopsætning på audit.os2.eu, som gør det nemmere at navigere rundt
-   - omarrangering af undersider, forsiden, overskrifter, beskrivelser etc 
+   - omarrangering af undersider, forsiden, overskrifter, beskrivelser etc
+   - kunne en illu på figma være brugbar?
+   - ellers brug en form for Ai til at illustrere hvordan navnene og siderne skal laves om/flyttes  
 
 3. **Process-analyse:**
    - forslag til ændringer i evaluerings-flowet fra start til slut, som vil understøtte og løfte dem, der udfylder (produktforvaltere) og dem der vurderer (sekretariatet)
+   - uddrag pointer fra interviews om årshjul og deres opfattelser af næste skridt 
+- [empiri: følelser og praksis omkring formularen:]{.underline}
+datadrevet, udledt fra interviews hvilke store/gennemgående temaer (sekundære koder), der siger noget der rager udover formular kravene, men som vil hjælpe på praksis 
 
 4. **Vurderings-formular analyse:**
     - undersøg sekretariatets 'vurderings'-skabelon og lav et udspil til en forbedret version - fx skal der tilføjes to kolonner og slettes en (slet rød/gul/grøn i midten og tilføj yderst til højre: vurdering og anbefaling)
-
+- i tvivl hvor meget jeg skal gøre her… fordi Rasmus allerede er gået igang med vurderingsformularen. 
 
 Data indsamling 
 ### A. Selvskabt empiri 
