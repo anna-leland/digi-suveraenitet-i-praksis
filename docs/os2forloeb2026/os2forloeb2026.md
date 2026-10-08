@@ -60,79 +60,110 @@ Gør den manuelle udfyldning af formulering mere effektiv med en analysegennemga
 ### Konkretiseres igennem 4 forskellige analyser: 
 Format: .md-fil til posting på Justthedocs 
 
-1. **Selvevaluerings formular-analyse:**
-    - forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
-        - "skal barren sættes ned?"- R
-    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ?
-[Skal indholde:]{.underline}
-- [Kort introduktion]{.underline}: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. Nævn de brugte koder i doku-analysen:
-|                  Koder                  |                                                                     Betydning                                                                     |
-| :--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| K1 Fortolk-variation               | Svarene tyder på, at kravet forstås forskelligt på tværs af produkter.                                                                  |
-| K2 Mangl. Vejledning               | Kravet mangler definition, eksempel eller forklaring på, hvad/hvordan man forventes at svare.                                           |
-| K3 Uklart dokumentationskrav       | Det er uklart, hvilken evidens, dokumentation eller hvilke links der forventes.                                                         |
-| K4 Uhensigtsmæssigt svarformat     | Fritekst fungerer dårligt; spørgsmålet kunne fx egne sig bedre til dropdown, ja/nej, separat linkfelt eller faste svarmuligheder.       |
-| K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
-| K6 Overlap/redundans               | Kravet overlapper andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder.                                 |
 
--[ formular findings ]{.underline} nedslag - slag-i-slag af de 20 punkter som har indikation på problemer 
-opsætning overvejes stadig - evt hiv tabellen ind med de 20 rækkers findings 
-Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres. 
-- i[nterview-findings:]{.underline} uddybning af specifikke formularpunkter fra interviews 
-  
-- [Konklusion:]{.underline} opsumer 
 
-2.  **UI-hjemmeside analyse:**
-   - forslag til ny sideopsætning på audit.os2.eu, som gør det nemmere at navigere rundt
-   - lav en bedre skelnen mellem det brugerrettede og 'backend' generator, som ligger åbent for åbentheden skyld, men man er i tvivl om man skal orientere sig i.
-   - omarrangering af undersider, forsiden, overskrifter, beskrivelser etc
-   - kunne en illu på figma være brugbar?
-   - ellers brug en form for Ai til at illustrere hvordan navnene og siderne skal laves om/flyttes
-   - empiri: UX-walkthrough analyse m Mathias 
+# Retænkning af governanceprocessen omkring selvevalueringer i OS2
 
-3. **Process-analyse:**
-   - forslag til ændringer i evaluerings-flowet fra start til slut, som vil understøtte og løfte dem, der udfylder (produktforvaltere) og dem der vurderer (sekretariatet)
-   - uddrag pointer fra interviews om årshjul og deres opfattelser af næste skridt (særligt hvor ofte den skal ligge samt timingen heraf)
-   - input til publicering på hjemmesiden (heri også hvordan de bedst vil forstå evalueringen fra sekretariatet (analyse 4))
-   - tag fat i modellen og udpeg dét, som ikke giver mening (henvis til int m Mette, der prøvede at afkode den)
-   - tag fat i emailen de fik første gang; wordingen og link-henvisningen til blot selv-eva formularen 
-- [empiri: følelser og praksis omkring formularen:]{.underline}
-datadrevet, udledt fra interviews hvilke store/gennemgående temaer (sekundære koder), der siger noget der rager udover formular kravene, men som vil hjælpe på praksis 
+### Specialeforberedende forløb hos OS2 · efteråret 2026
 
-4. **Vurderings-formular analyse:**
-    - undersøg sekretariatets 'vurderings'-skabelon og lav et udspil til en forbedret version - fx skal der tilføjes to kolonner og slettes en (slet rød/gul/grøn i midten og tilføj yderst til højre: vurdering og anbefaling) 
-- i tvivl hvor meget jeg skal gøre her… fordi Rasmus allerede er gået igang med vurderingsformularen.  -> træk input ind fra Mettes interview om hvordan det var at modtage vurderingen.
-- interview input: hvordan de bedst vil forstå/har forstået evalueringen fra sekretariatet (analyse 4)) (mest Mette)
+Mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for alle i fællesskabet. Det gælder produktkoordinatorer, styregrupper, koordinationsgrupper, sekretariatet, bestyrelsen, leverandører og anvendere. 
 
-### Data indsamling 
-### A. Selvskabt empiri 
-   - gennemgå selvevalueringen selv, og notere 'hvad er uklart i formularing ift. hvordan og hvad man skal svare'
-   - dokument analyse af de 7 indkomne analyser
-   - UI-analyse af audit.os2.eu sitet
-   - undersøg sekretariatets 'vurderings'-skabelon og lav et udspil til en forbedret version - fx skal der tilføjes to kolonner og slettes en (slet rød/gul/grøn i midten og tilføj yderst til højre: vurdering og anbefaling)
+Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med konkrete forslag til forbedringer.
 
-### B. Indsamlet empiri fra produktforvaltere mfl. 
-x
-    - kvalitative interviews med forskellige profiler af produktforvaltere; blandet udvalg af nye/gamle produktkoordinatorer, projektledere, nogen der har udfyldt og andre som er i process
-|                            INTERVIEWOVERSIGT                           |                 |       |               |                          |                      |                                                      |    |    |    |
-| :---------------------------------------------------- | :-------------- | :---- | :------------ | :----------------------- | :------------------- | :--------------------------------------------------- | :- | :- | :- |
-| **Har udfyldt selv-evalueringen:&#xA0;**              |                 |       |               |                          |                      |                                                      |    |    |    |
-| produkt/projekt                                       | status          | dato  | fysisk/online | person                   | rolle                | note                                                 |    |    |    |
-| OS2aiheatcontrol                                      | interviewet     | 28/8  | online        | Jakob Thøtt Nørby        | ekstern projektleder | ekstern og ikke kommune kendt, men vandt til audits  |    |    |    |
-| OS2fleetoptimizer                                     | interviewet     | 28/9  | online        | Sofie Buhl               | produktkoordinator   | har godt styr på det                                 |    |    |    |
-| OS2rollekatalog                                       | interviewet     | 6/10  | fysisk        | Mette Valbjørn           | produktkoordinator   | havde mange spørgsmål i formularen                   |    |    |    |
-| OS2iot & OS2valghalla                                 | interviewet     | 2/10  | fysisk        | Lisbeth W Lorentzen      | produktkoordinator   | har to produkter                                     |    |    |    |
-|                                                       |                 |       |               |                          |                      |                                                      |    |    |    |
-| **Har endnu ikke udfyldt selv-evaluringen:**          |                 |       |               |                          |                      |                                                      |    |    |    |
-| OS2sofd                                               | aftalt dato     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          | R fornemmer struktureret til værks, gode input       |    |    |    |
-| OS2ai                                                 | aftalt dato    |    23/10   | fysisk        | Mathias Schütte          | product owner        | meget upcoming                                       |    |    |    |
-|                                                    |  |       |         |                          |                      |                                                      |    |    |    |
-|                                                       |                 |       |               |                          |                      |                                                      |    |    |    |
-| **EVT – wildcards**                                   |                 |       |               |                          |                      |                                                      |    |    |    |
-|                     Jan*                     |         ik aftalt endnu        |       |     fysisk    |         |    |                          |    |    |    |
-| OS2OpenDataDK                                         |                 |       | fysisk        | Agnete Sig Petersen      | produktkoordinator   | igang m omlægning af styregruppe                     |    |    |    |
-| evt andre fra syddjurs - Michelle fra korrespondence? |                 |       |               |                          |                      |                                                      |    |    |    |
-| OS2forms                                              |                 |       |               |                          |                      | igang m overlevering                                 |    |    |    |
+---
+
+## Baggrund
+
+OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. Trods OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016 har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra polistisk hold stilles der nu større krav til, at governance omkring produkterne i OS2 er dokumenteret.
+
+Derfor har OS2-sekretariatet skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gemmengå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveav (sandkasse, niveau 1, 2 eller 2) og årligt opdatere rapporten som produktet udvikler sig. De enkelte vurderinger for produkter og projekters skal ligge åbent på hjemmesiden os2.eu.
+
+==Betragtninger om hvordan det er blevet modtaget og hvorfor jeg er blevet bedt om at revidere processen.==
+
+Målet er, at selvevalueringen ikke alene opleves som et kontrolkrav, men fungerer som et **løbende styrings- og dialogværktøj**, der skaber værdi for alle aktører i OS2-fællesskabet; særligt produktkoordinatorer og sekretariatet. 
+
+---
+
+# Annas fire analyser
+
+## 1. Selvevalueringsformularen
+
+Analyse af de **43 krav og tilhørende vejledninger** med fokus på, hvor formularen skaber uklarhed, fortolkningsvariation eller uhensigtsmæssige svar.
+
+Analysen munder ud i forslag til blandt andet tydeligere formuleringer, bedre vejledninger, udybede dokumentationskrav og (==evt) svarformater.==
+
+**[Læs analysen →](./selvevalueringer/1-analyse-selv-eva-formular.md)**
+
+---
+
+## 2. UI og hjemmeside
+
+Analyse af **audit.os2.eu** med fokus på hvordan forløbet formidles med forslag til ændring i struktur og navigation, så sitet bliver mere overskueligt. 
+
+Der ses blandt andet på skellet mellem brugerrettet indhold og den mere tekniske backend/generator samt organiseringen af sider, overskrifter og beskrivelser.
+
+**[Læs analysen →](./selvevalueringer/2-analyse-UI-audit-sitet.md)**
+
+---
+
+## 3. Evalueringsprocessen
+
+Analyse af det samlede **evalueringsflow fra udsendelse og udfyldelse til vurdering og publicering**.
+
+Fokus er på, hvordan processen bedre kan understøtte både de personer, der udfylder selvevalueringen, og sekretariatet, der efterfølgende vurderer den.
+
+**[Læs analysen →](./selvevalueringer/3-analyse-gov-processen.md)**
+
+---
+
+## 4. Vurderingsformularen
+
+Analyse af sekretariatets skabelon til vurdering af de indkomne selvevalueringer.
+
+Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles mere klart, herunder hvordan produktkoordinatorerne bedst kan forstå sekretariatets vurdering og anbefalinger.
+
+**[Læs analysen →](./selvevalueringer/4-analyse-vurdering-fra-sek.md)**
+
+---
+
+# Dataindsamling
+
+Analyserne bygger på flere typer empiri.
+
+### Selvskabt empiri
+
+- eget walkthrough af selvevalueringsformularen
+- dokumentanalyse af de indkomne 7 selvevalueringer
+- UI-walkthrough af audit.os2.eu
+- gennemgang af sekretariatets vurderingsskabelon
+
+### Interviews
+
+Jeg gennemfører kvalitative interviews med forskellige profiler af produktforvaltere i OS2; et blandet udvalg af produktkoordinatorer og projektledere på både nye og gamle produkter; nogle der allerede har udfyldt selvevalueringen og andre som er i proces. 
+
+
+---
+
+## Interviewoverblik
+
+| Har udfyldt selv-evalueringen:              |  |                 |       |               |                          |                      |
+| :---------------------------------------------------- |--| :-------------- | :---- | :------------ | :----------------------- | :------------------- |
+| produkt/projekt titel                                       | produkt/projekt  | status          | dato  | fysisk/online | person                   | rolle                |
+| OS2aiheatcontrol                                      | projekt | interviewet     | 28/8  | online        | Jakob Thøtt Nørby        | ekstern projektleder |
+| OS2fleetoptimizer                                     | produkt | interviewet     | 28/9  | online        | Sofie Buhl               | produktkoordinator   |
+| OS2rollekatalog                                       | produkt | interviewet     | 6/10  | fysisk        | Mette Valbjørn           | produktkoordinator   |
+| OS2iot & OS2valghalla                                 | produkter | interviewet     | 2/10  | fysisk        | Lisbeth W Lorentzen      | produktkoordinator   |
+|                                                       |  |                 |       |               |                          |                      |
+| **Har endnu ikke udfyldt selv-evaluringen:**          |  |                 |       |               |                          |                      |
+| OS2sofd                                               | produkt | aftalt dato     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          |
+| OS2ai                                                 | projekt | aftalt dato    |    23/10   | fysisk        | Mathias Schütte          | product owner        |
+|                                                    |  |  |       |         |                          |                      |
+|                                                       |  |                 |       |               |                          |                      |
+| **EVT – wildcards**                                   |  |                 |       |               |                          |                      |
+|                     Jan*                     |  |         ik aftalt endnu        |       |     fysisk    |         |    |
+| OS2OpenDataDK                                         |  |                 |       | fysisk        | Agnete Sig Petersen      | produktkoordinator   |
+| evt andre fra syddjurs - Michelle fra korrespondence? |  |                 |       |               |                          |                      |
+| OS2forms                                              |  |                 |       |               |                          |                      |
 
         
 
@@ -145,9 +176,7 @@ x
 
  
 
-F21 - Rasmus uddyber:  hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
-Jan siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
-skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
+
 
 
 
