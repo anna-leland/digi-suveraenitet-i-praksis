@@ -9,13 +9,13 @@ nav_order: 1
 ### Specialeforberedende forløb i 2026 og specialesamarbejde i 2027
 
 
-Dette site dokumenterer mit forløb hos **OS2 - Offentligt digitaliseringsfællesskab**, som en del af mit projektorienterede forløb på kandidatuddannelsen i Informationsvidenskab på Aarhus Universitet.
+Dette site dokumenterer mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** som en del af mit projektorienterede forløb på kandidatuddannelsen i Informationsvidenskab på Aarhus Universitet.
 
 ## 🧭 Formålet med sitet
 
-Sitet fungerer som den formidlede del af mit specialeforberedende arbejde hos OS2 i efteråret 2026 og selve specialesamarbejdet i foråret 2027.
+Sitet fungerer som den formidlede del af arbejdet og samler i open source-ånden åbent analyser og løbende resultater om **digital suverænitet, open source-governance og selvevalueringer af OS2’s produkter** i efteråret 2026.
 
-I open source ånden samles og formidles analyser, observationer og løbende resultater fra mit arbejde med **digital suverænitet, open source-governance og selvevalueringer af OS2's produkter** i efteråret 2026 med henblik på det efterfølgende speciale i 2027.
+Arbejdet danner samtidig grundlag for mit efterfølgende specialesamarbejde med OS2 i 2027.
 
 
 # 💼 Specialeforberedende forløb i efteråret 2026
