@@ -1,5 +1,5 @@
 ---
 title: 4. Analyse - Vurderingsrapporten fra sekretariatet
-nav_order: 4
+nav_order: 8
 parent: Specialeforberedende forløb hos OS2 2026
 ---
