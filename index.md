@@ -28,7 +28,7 @@ I efteråret 2026 arbejder jeg med følgende opgaver, som jeg løbende vil udgiv
 - Dokumentation og formidling af analyser, observationer og løbende resultater.
 
 ### Se planer for mit 2026 forløb her:
-- [Specialeforberedende forløb hos OS2 2026](./docs/os2forloeb2026/)
+[Specialeforberedende forløb hos OS2 2026](./docs/os2forloeb2026/os2forloeb2026.html)
   - [Gameplan 2026](./docs/os2forloeb2026/gameplan2026.html)
   - [Onboarding august 2026](./docs/os2forloeb2026/onboarding_aug2026.html)
   - Milestones for 2026 fremhævet [på GitHub](https://github.com/anna-leland/digi-suveraenitet-i-praksis/milestones)
