@@ -37,7 +37,7 @@ Udarbejdet af Rasmus og Anna d.13. august på mødet ["Indføring i selvevalueri
     - dialogværktøj og ikke et revisionsværktøj - siger Rasmus
 
 
-### Hvordan gøres det? 
+### Rasmus' ønsker til mine analyser:
 Hvordan jeg skaber mest værdi:
 - Kom med forslag til en reframing af audit-processen:
     - analysere og komme med bud til hvordan selve formularen kan forberes, men også dokumentationen af 'just the docs' sitet, og på sigt også udpegning af automatiseringer 
@@ -50,7 +50,7 @@ Gør den manuelle udfyldning af formulering mere effektiv med en analysegennemga
     - nem og hurtigt at udfylde
     - skal være tydeligt hvad og hvorfor 
 
-### Udføres igennem 4 forskellige analyser: 
+### Konkretiseres igennem 4 forskellige analyser: 
 Format: .md-fil til posting på Justthedocs 
 
 1. **Selvevaluerings formular-analyse:**

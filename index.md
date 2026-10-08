@@ -13,15 +13,9 @@ Dette site dokumenterer mit forløb hos **OS2 - Offentligt digitaliseringsfælle
 
 ## 🧭 Formålet med sitet
 
-Sitet fungerer som den formidlede del af mit specialeforberedende arbejde hos OS2 i efteråret 2026. 
+Sitet fungerer som den formidlede del af mit specialeforberedende arbejde hos OS2 i efteråret 2026 og selve specialesamarbejdet i foråret 2027.
 
-Formålet er at samle og formidle analyser, observationer og løbende resultater fra mit arbejde med **digital suverænitet, open source-governance og selvevalueringer af OS2's produkter** med henblik på et efterfølgende **specialesamarbejde med OS2 i foråret 2027.**
-
-
-### 🗒️ Struktur
-
-Dokumentationen er skrevet i Markdown og publiceres som et statisk website gennem GitHub Pages og Just the Docs. Mit GitHub repository [findes her.](https://github.com/anna-leland/digi-suveraenitet-i-praksis) 
-
+I open source ånden samles og formidles analyser, observationer og løbende resultater fra mit arbejde med **digital suverænitet, open source-governance og selvevalueringer af OS2's produkter** i efteråret 2026 med henblik på det efterfølgende speciale i 2027.
 
 
 # 💼 Specialeforberedende forløb i efteråret 2026
@@ -33,11 +27,12 @@ I efteråret 2026 arbejder jeg med følgende opgaver, som jeg løbende vil udgiv
 - Analyse af organisatoriske udfordringer ved implementering af open source-governance og digital suverænitet.
 - Dokumentation og formidling af analyser, observationer og løbende resultater.
 
-### Se planer for mit forløb her:
+### Se planer for mit 2026 forløb her:
 - [Specialeforberedende forløb hos OS2 2026](./docs/os2forloeb2026/)
   - [Gameplan 2026](./docs/os2forloeb2026/gameplan2026.html)
   - [Onboarding august 2026](./docs/os2forloeb2026/onboarding_aug2026.html)
-  - [Tidslinje](./docs/os2forloeb2026/tidslinje.html)
+  - Milestones for 2026 fremhævet [på GitHub](https://github.com/anna-leland/digi-suveraenitet-i-praksis/milestones)
+  - En kalenderoversigt for efteråret 2026 i et [project på GitHub](https://github.com/users/anna-leland/projects/1)
 
 
 # 📚 Specialesamarbejde i foråret 2027
@@ -57,6 +52,12 @@ Det empiriske arbejde i forløbet forventes at danne grundlag for et speciale om
 - open source-governance
 - organisatoriske udfordringer ved implementering af open source i den offentlige sektor
 - *Public Money, Public Code*
+
+
+
+### 🗒️ Struktur
+
+Dokumentationen er skrevet i Markdown og publiceres som et statisk website gennem GitHub Pages og Just the Docs. Mit GitHub repository [findes her.](https://github.com/anna-leland/digi-suveraenitet-i-praksis) 
 
 ---
 
