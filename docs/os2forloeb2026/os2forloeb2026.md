@@ -52,9 +52,10 @@ Der ses blandt andet på skellet mellem brugerrettet indhold og den mere teknisk
 
 ## 3. Evalueringsprocessen
 
-Analyse af det samlede **evalueringsflow fra udsendelse og udfyldelse til vurdering og publicering**.
+Analyse af det samlede **evalueringsflow fra udsendelse og udfyldelse til vurdering og publicering**, med udgangspunkt i et walkthrough af den nuværende proces samt interviewdata om, hvordan processen opleves i praksis.
 
-Fokus er på, hvordan processen bedre kan understøtte både de personer, der udfylder selvevalueringen, og sekretariatet, der efterfølgende vurderer den.
+Fokus er på, hvor processen skaber uklarhed, og hvordan den bedre kan understøtte både dem, der udfylder selvevalueringen, og sekretariatet, der efterfølgende vurderer den.
+
 
 **[Læs analysen →](./selvevalueringer/3-analyse-gov-processen.md)**
 
@@ -64,27 +65,32 @@ Fokus er på, hvordan processen bedre kan understøtte både de personer, der ud
 
 Analyse af sekretariatets skabelon til vurdering af de indkomne selvevalueringer.
 
-Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles mere klart, herunder hvordan produktkoordinatorerne bedst kan forstå sekretariatets vurdering og anbefalinger.
+Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles mere klart, herunder hvordan der bedst kommunikeres så produktkoordinatorerne kan forstå sekretariatets vurdering og anbefalinger.
 
 **[Læs analysen →](./selvevalueringer/4-analyse-vurdering-fra-sek.md)**
 
 ---
 
-# Dataindsamling
+# Datagrundlag og metode
 
-Analyserne bygger på flere typer empiri.
+Analyserne bygger på flere typer empiri og analytiske gennemgange.
 
-### Selvskabt empiri
+## Dokumentanalyse
+
+- dokumentanalyse af de 7 indkomne selvevalueringer
+
+## Walkthroughs
 
 - eget walkthrough af selvevalueringsformularen
-- dokumentanalyse af de indkomne 7 selvevalueringer
 - UI-walkthrough af audit.os2.eu
-- gennemgang af sekretariatets vurderingsskabelon
+- walkthrough af sekretariatets vurderingsskabelon
+- walkthrough af den samlede evalueringsproces fra udsendelse og udfyldelse til vurdering og publicering
 
-### Interviews
+## Interviews
 
-Jeg gennemfører kvalitative interviews med forskellige profiler af produktforvaltere i OS2; et blandet udvalg af produktkoordinatorer og projektledere på både nye og gamle produkter; nogle der allerede har udfyldt selvevalueringen og andre som er i proces. 
+Jeg gennemfører kvalitative interviews med forskellige profiler omkring OS2-produkterne, herunder produktkoordinatorer og projektledere på både nyere og ældre produkter; nogle der allerede har udfyldt selvevalueringen, og andre som fortsat er i proces.
 
+Interviewene bruges både til at belyse konkrete problemer i selve formularen og bredere erfaringer med evalueringsprocessen, vurderingen fra sekretariatet og governancearbejdet omkring produkterne.
 
 ---
 
@@ -104,19 +110,12 @@ Jeg gennemfører kvalitative interviews med forskellige profiler af produktforva
 |                                                    |  |  |       |         |                          |                      |
 |                                                       |  |                 |       |               |                          |                      |
 | **EVT – wildcards**                                   |  |                 |       |               |                          |                      |
-|                     Jan*                     |  |         ik aftalt endnu        |       |     fysisk    |         |    |
 | OS2OpenDataDK                                         |  |                 |       | fysisk        | Agnete Sig Petersen      | produktkoordinator   |
 | evt andre fra syddjurs - Michelle fra korrespondence? |  |                 |       |               |                          |                      |
 | OS2forms                                              |  |                 |       |               |                          |                      |
 
         
 
-***Ideen med at interviewe Jan**: - eller en/flere leverandør -> teknisk indsigt 
-- han fortæller mig, at der kommer til at være huller i min analyse omkring leverandørsiden af formularen.
-- Hvad oplever leverandøren når de udfylder (tit får den oversendt fra PK) - men alle produkterne udfylder de tekniske spørgsmål forskelligt - han studser over flere af de tekniske punkter, hvor der virkelig er noget galt med wordingen:
-- fx "hvad betyder 'aktivt' i F1 - hvordan dokumenteres det?", og "den med containers er der også problemer med (hvilket krav?)" og "F12 - hvis der kun er en main version, må man så ik fork eller kopiere repo?"
-- det er en black box hvad PK siger til Lev. Jan sidder med at lave guides til PK/lev'er med forskellige videnskompetencer, som han skal hjælpe uden at han overtager at udfylde selv-eva for dem.
-- bekymring: økonomiske motivationer for at svare at en leverandør måske ikke lever op, så at man kan tilbyde en ny service $$$ 
 
  
 
