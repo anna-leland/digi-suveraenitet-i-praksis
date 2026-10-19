@@ -62,7 +62,7 @@ _Kodet som: K1 Fortolkningsvariation (5), K2 Manglende vejledning (1), K3 Uklart
 Ingen har formel dokumentation på accept udover få, som bruger antallet af tilslutningsaftaler som bevis på accept, men er i tvivl om det er hvad der efterspørges. Andre forstår ikke hvorfor accept fra lokal linjeledelse er afgørende.\
 Uddyb derfor hvorfor det er afgørende, så man kan undgå personbundne projekter der falder til jorden. Skriv at tilslutningsaftale udgør tilstrækkelig dokumentation.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -77,7 +77,7 @@ _Kodet som: K1 Fortolkningsvariation (4), K3 Uklart dokumentationskrav (1)._
 
 Flere bekræfter, at løsningen bruges på tværs af kommuner/myndigheder, men fortæller ikke hvordan. Kom derfor med eksempler på, hvordan løsningen kan bruges på tværs af myndigheder.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -92,7 +92,7 @@ _Kodet som: K2 Manglende vejledning (4), K3 Uklart dokumentationskrav (1)._
 
 Der henvises med links til strategier, men det forklares ikke, HVORDAN produkterne understøtter strategien. Kom derfor med eksempler på, hvordan løsningen understøtter strategien.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -108,7 +108,7 @@ _Kodet som: K1 Fortolkningsvariation (2)._
 Flere skriver ikke, hvad deres licens er, men bekræfter bare, at de har én, og at den er OSI-godkendt.\
 Henvis derfor evt. med link til OSI's licenstjekker <https://opensource.org/licenses>. Klargør, om en henvisning til hvilken licens man bruger er nok, eller om man skal lave et review på, om koden nu også overholder den licens.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -124,7 +124,7 @@ _Kodet som: K2 Manglende vejledning (2)._
 Der efterspørges forklaringsnotat/retningslinjer og vejledning til at overholde journaliseringspligten.\
 Nævn derfor den generelle vejledning der pt. udarbejdes, og giv eksempler på hvilke henvisninger man kan lave: aftalegrundlag, udbud, rammeaftale, kontrakt, indkøbsbeslutning eller et kort beslutningsnotat.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -138,7 +138,7 @@ _Ingen indikationer på formularproblem (0/7)._
 
 Nævn evt. også, at hjemmeside kan bruges som eksempel på dokumentation.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -154,7 +154,7 @@ _Kodet som: K2 Manglende vejledning (1), K3 Uklart dokumentationskrav (2), K4 Uh
 Alt for mange spørgsmål i én boks – ingen svarer på det hele. Tyder på det er for uoverskueligt. Finansieringsdelen skal skæres ud i pap – pt svarer flere blot "finansieres via tilslutningsaftaler" og ikke mere specifikt end det. I kravet står der "det er beskrevet", som om man bare kan henvise til en beskrivelse. I vejledningen står der "redegør for xyz".\
 Beslut derfor: Hvad vil dette krav? Bede om at bekræfte at en beskrivelse findes et sted eller beskrive det her i formularen? Hvis sidstnævnte, del evt. spørgsmålet op i flere dele og kald dem A, B, C + nævn en forventning om at alle dele besvares.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -170,7 +170,7 @@ _Kodet som: K2 Manglende vejledning (5), K3 Uklart dokumentationskrav (1)._
 6/7 forstår ikke, hvad "fællesoffentlig rammearkitektur" betyder, og kan derfor ikke svare. Og den ene, som hævder at vide det, forklarer ikke, hvordan deres følger den.\
 Uddyb derfor hvad "fællesoffentlig rammearkitektur" betyder, eller henvis til en forklaring – henvis evt. til de 8 principper hos Digitaliseringsstyrelsen: <https://arkitektur.digst.dk/principper-og-regler> eller hos KL: <https://rammearkitektur.kl.dk/maal-og-principper/faelleskommunale-arkitekturprincipper-og-regler#download-principperne-og-reglerne-i-pdf-udgave-c5>
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -186,7 +186,7 @@ _Kodet som: K2 Manglende vejledning (3), K6 Overlap/redundans (3)._
 Få forstår hvad det er. Nogen forveksler med F15 om best practice for implementering i organisationen og ikke driftsimplementering.\
 Skal nok skæres ud i pap hvorfor der bør laves en procesplan + henvis til guide om hvordan den laves/bruges? Tydeliggør at "implementeringsplan" er anderledes end F15.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -201,7 +201,7 @@ _Kodet som: K1 Fortolkningsvariation (1), K2 Manglende vejledning (1), K6 Overla
 
 Sætningen "Er tværoffentlige behov, deling og fællesskab." virker lidt tilfældig; Henvis med link til OS2s strategi. Kan finde et 2022-slideshow: <https://boks.os2.eu/s/MmWeim6cDFaHjK2?dir=/&editing=false&openfile=true> og strategipunkter for 2026: <https://www.os2.eu/os2s-vision-og-mission>. Er dette strategier for sekretariatet, eller produkternes?
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -217,7 +217,7 @@ _Kodet som: K2 Manglende vejledning (1), K6 Overlap/redundans (4)._
 Der opleves et stort overlap/redundans med S1-3.\
 Slet derfor "strategi" for ikke at gøre S1 redundant. Henvis med link til OS2s mission og vision.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -233,7 +233,7 @@ _Kodet som: K6 Overlap/redundans (7)._
 Mere overlap/redundans med S1-4.\
 Evt. slet denne.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -248,7 +248,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4)._
 
 Hvis der ønskes konkret dokumentation, skal det tydeliggøres – fjern "evt". Nogen skriver et interval af møder ind og andre skriver bare "ja".
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -263,7 +263,7 @@ _Kodet som: K3 Uklart dokumentationskrav (3)._
 
 Nogen mangler navn på vedkommende, andre mangler arbejdsopgaver. Hvis det er vigtigt skal det nok præciseres. PS er det "Navngiv" rollen eller medarbejderens navn?
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -278,7 +278,7 @@ _Kodet som: K3 Uklart dokumentationskrav (7)._
 
 De er i tvivl om, om det er dem der skal orientere bestyrelsen og hvordan sådan en dokumentation skulle se ud. Flere spørger om sekretariatet ikke står for det? Flere skriver "Produktet har bestået i OS2 i mange år, og bestyrelsen er bekendt med produktet".
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -293,7 +293,7 @@ _Kodet som: K6 Overlap/redundans (7)._
 
 Samme problemer som ovenstående krav #G4.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -309,7 +309,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4)._
 Valhalla svarer bedst ved at linke til beskrivelser af styregruppemedlemmer og opgaver. Alle de andre beskrivelser er vague.\
 Så vejledningen skal nok tydeliggøres, hvis man ønsker navne og konkrete opgaver beskrevet.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -324,7 +324,7 @@ _Kodet som: K3 Uklart dokumentationskrav (1), K5 Problem med relevans/kravniveau
 
 Flere af produkterne har ikke koordinationsgrupper da det er sammenfaldende med styregruppen… ved ikke om der behøves laves noget om.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -340,7 +340,7 @@ _Kodet som: K2 Manglende vejledning (1)._
 Forstår det som kun relevant for projekter – er det tiltænkt en arbejdsmodel for generelt arbejde i produktet eller kun når man er projekt?\
 Præcisér.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -356,7 +356,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4), K6 Overlap/redundans (3)._
 Samme problemer som ovenstående krav #G4.\
 Man kunne overveje at præcisere hvordan det skal dokumenteres – flere har ikke vedlagt den eller skrevet en henvisning.
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 ***
 
@@ -372,7 +372,7 @@ _Kodet som: K2 Manglende vejledning (3)._
 Forvirring om tilslutningsaftalerne+takstblade er tilstrækkelig som "finansieringsaftale"? – derudover, tror flere Sandkasse-N2 produkter føler sig nødsaget til at gøre dette, selvom det ikke er relevant for dem…\
 Måske det skal præciseres, om dette er udover den almindelige økonomi til produktet som finansieres igennem tilslutninger? Udoglær beskriver det meget godt: "Der foreligger ikke en særskilt finansieringsaftale, som sikrer økonomi til koordinering og videreudvikling. Det økonomiske grundlag understøttes dog af de tilsluttede organisationers betaling via tilslutningserklæringen."
 
-Link til GH-issue: (jeg indsætter selv link)
+Link til GH-issue: 
 
 
 
