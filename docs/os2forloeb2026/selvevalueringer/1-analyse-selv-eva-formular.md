@@ -25,16 +25,15 @@ Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/gover
 
 
 
-F21 - Rasmus uddyber:  hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
+F21 - Rasmus uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
 Jan siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
 skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
 
 
 
 
-- Kort introduktion:
-Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en
-samlet en tværgående analyse, er jeg kommet frem at 20 (?) ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 20 krav og deres tilhørende vejledninger.
+**Kort introduktion:**
+Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 20 (?) ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 20 krav og deres tilhørende vejledninger.
 
 Jeg har analyseret rapporterne ud fra følgende koder:
 |              **Koder**              |                                                     **Uddybning af koden**                                                     |
@@ -46,15 +45,15 @@ Jeg har analyseret rapporterne ud fra følgende koder:
 | K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
 |        K6 Overlap/redundans        |                 Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder.                 |
 
-Jeg kommer blot med forslag til ændringer af vejledninger, men det kan overvejes om kravene også bør ændres i nogle tilfælde. 
+
+Jeg kommer med forslag til ændringer af vejledningerne, men det kan overvejes om selve kravene også bør ændres i nogle tilfælde. 
 
 
-
-## R2 – Accepteret af lokallinjeledelse
+### R2 – Accepteret af lokallinjeledelse
 
 | Før                                                                                       | -> Nyt forslag                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Beskriv eller henvis til en formel accept fra ledelse hos initiativtagerne til løsningen. | Beskriv eller henvis til en formel accept fra ledelse hos initiativtagerne til løsningen eller henvis til antallet af tilslutningsaftaler. Vigtigt for at undgå produkter, der er personbundne eller falder til jorden. |
+| Beskriv eller henvis til en formel accept fra ledelse hos initiativtagerne til løsningen. | Beskriv eller henvis til en formel accept fra ledelse hos initiativtagerne til løsningen eller henvis til antallet af tilslutningsaftaler. Vigtigt for at undgå at produkter er personbundne eller falder til jorden. |
 
 _7/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K1 Fortolkningsvariation (5), K2 Manglende vejledning (1), K3 Uklart dokumentationskrav (1)._
@@ -62,26 +61,26 @@ _Kodet som: K1 Fortolkningsvariation (5), K2 Manglende vejledning (1), K3 Uklart
 Ingen har formel dokumentation på accept udover få, som bruger antallet af tilslutningsaftaler som bevis på accept, men er i tvivl om det er hvad der efterspørges. Andre forstår ikke hvorfor accept fra lokal linjeledelse er afgørende.\
 Uddyb derfor hvorfor det er afgørende, så man kan undgå personbundne projekter der falder til jorden. Skriv at tilslutningsaftale udgør tilstrækkelig dokumentation.
 
-Link til GH-issue: 
+Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 
 ***
 
-## R3 – Løsningen har fælles offentligt potentiale
+### R3 – Løsningen har fælles offentligt potentiale
 
 | Før                                                                                            | -> Nyt forslag                                                              |
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Redegør for hvordan løsningen kan bruges på tværs af kommuner og/eller offentlige myndigheder. | Kom med eksempler på, hvordan løsningen kan bruges på tværs af myndigheder. |
+| Redegør for hvordan løsningen kan bruges på tværs af kommuner og/eller offentlige myndigheder. | Kom med eksempler på, hvordan løsningen kan bruges på tværs af kommuner og/eller offentlige myndigheder. |
 
 _5/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K1 Fortolkningsvariation (4), K3 Uklart dokumentationskrav (1)._
 
-Flere bekræfter, at løsningen bruges på tværs af kommuner/myndigheder, men fortæller ikke hvordan. Kom derfor med eksempler på, hvordan løsningen kan bruges på tværs af myndigheder.
-
-Link til GH-issue: 
+Flere bekræfter, at løsningen bruges på tværs af kommuner/myndigheder, men fortæller ikke **hvordan**. Opforder derfor tydeligere til at komme med eksempler på, hvordan løsningen kan bruges på tværs af myndigheder uden væsentlig lokal tilpasning.
+          
+Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 
 ***
 
-## R4 – Ophæng til nationale strategier er til stede
+### R4 – Ophæng til nationale strategier er til stede
 
 | Før                                                                              | -> Nyt forslag                                                                                      |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -90,45 +89,46 @@ Link til GH-issue:
 _5/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K2 Manglende vejledning (4), K3 Uklart dokumentationskrav (1)._
 
-Der henvises med links til strategier, men det forklares ikke, HVORDAN produkterne understøtter strategien. Kom derfor med eksempler på, hvordan løsningen understøtter strategien.
+Der henvises med links til strategier, men det forklares ikke, **hvordan** produkterne understøtter strategien. Bed derfor tydeligt om eksempler på, hvordan løsningen understøtter strategien.
 
-Link til GH-issue: 
+Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 
 ***
 
-## F2 – Open Source licenskriterier overholdes
+### F2 – Open Source licenskriterier overholdes
 
 | Før                                                                            | -> Nyt forslag                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Angiv hvilken OSI-godkendt licens projektet bruger. OS2-standarden er MPL 2.0. | Angiv hvilken OSI-godkendt licens projektet bruger (OS2-standarden er MPL 2.0), og henvis med link til OSI's licenstjekker: <https://opensource.org/licenses>. Klargør, om en henvisning til licensen er nok, eller om der skal laves et review af, om koden overholder licensen. |
+| Angiv hvilken OSI-godkendt licens projektet bruger. OS2-standarden er MPL 2.0. | Angiv hvilken OSI-godkendt licens projektet bruger (OS2-standarden er MPL 2.0). OSI-licenstjekker: <https://opensource.org/licenses>. |
 
 _2/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K1 Fortolkningsvariation (2)._
 
 Flere skriver ikke, hvad deres licens er, men bekræfter bare, at de har én, og at den er OSI-godkendt.\
-Henvis derfor evt. med link til OSI's licenstjekker <https://opensource.org/licenses>. Klargør, om en henvisning til hvilken licens man bruger er nok, eller om man skal lave et review på, om koden nu også overholder den licens.
+Henvis derfor evt. med link til OSI's licenstjekker <https://opensource.org/licenses>.\
+Tydeliggør evt. om en henvisning til hvilken licens man bruger er nok, eller om man skal lave et review på, om koden nu også overholder den licens.
 
-Link til GH-issue: 
+Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 
 ***
 
-## F3 – Udbudsregler og alm. lovformlighed er overholdt
+### F3 – Udbudsregler og alm. lovformlighed er overholdt
 
 | Før                                                                                             | -> Nyt forslag                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Vedlæg evt. beslutningsnotat. | Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Nævn den generelle vejledning, der pt. udarbejdes, og giv eksempler på henvisninger, man kan lave: aftalegrundlag, udbud, rammeaftale, kontrakt, indkøbsbeslutning eller et kort beslutningsnotat. |
+| Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Vedlæg evt. beslutningsnotat. | Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Vedlæg eller henvis til fx aftalegrundlag, udbud, rammeaftale, kontrakt, indkøbsbeslutning eller et beslutningsnotat. |
 
 _2/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K2 Manglende vejledning (2)._
 
 Der efterspørges forklaringsnotat/retningslinjer og vejledning til at overholde journaliseringspligten.\
-Nævn derfor den generelle vejledning der pt. udarbejdes, og giv eksempler på hvilke henvisninger man kan lave: aftalegrundlag, udbud, rammeaftale, kontrakt, indkøbsbeslutning eller et kort beslutningsnotat.
+Slet 'evt' hvis dokumentation er obligatorisk. Giv flere eksempler på hvilken dokumentation man kan henvise til: aftalegrundlag, udbud, rammeaftale, kontrakt, indkøbsbeslutning eller et beslutningsnotat. Der findes også allerede et issue, som nævner at der pt. arbejdes på en generel vejledning, der kan hjælpe med at understøtte udfyldelse af kravet. 
 
-Link til GH-issue: 
+Link til GH-issue: https://github.com/OS2offdig/governance_report_template/issues/89 
 
 ***
 
-## F5 – Løsningens formål og værdi er beskrevet
+### F5 – Løsningens formål og værdi er beskrevet
 
 | Før                                                                         | -> Nyt forslag                                                                               |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -138,11 +138,29 @@ _Ingen indikationer på formularproblem (0/7)._
 
 Nævn evt. også, at hjemmeside kan bruges som eksempel på dokumentation.
 
+Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+
+***
+
+
+### F16 – Teknisk dokumentation indeholder best practice for kodestandarder i forhold til de anvendte teknologier
+
+| Før                                                                                                                                                                                                                                                                                                                   | -> Nyt forslag                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Beskriv Hvilke kodestandarder projektet følger. Evt. med links til eksterne guides og supplerende retningslinjer. |  |
+
+_6/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
+_Kodet som: K3 Uklart dokumentationskrav (6).
+
+For uspecifikt hvilken slags kodestandarder der henvises til. Ret ‘H’ i 'hvilke'. Og kom evt med eksempler på kodestandarder.
+
+
 Link til GH-issue: 
 
 ***
 
-## F17 – Drifts- og vedligeholdelses-setup er beskrevet
+
+### F17 – Drifts- og vedligeholdelses-setup er beskrevet
 
 | Før                                                                                                                                                                                                                                                                                                                   | -> Nyt forslag                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -158,7 +176,7 @@ Link til GH-issue:
 
 ***
 
-## F18 – Rammearkitekturen og standarder er fulgt og afvigelser er forklaret
+### F18 – Rammearkitekturen og standarder er fulgt og afvigelser er forklaret
 
 | Før                                                                                               | -> Nyt forslag                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -174,7 +192,7 @@ Link til GH-issue:
 
 ***
 
-## F22 – Procesplan + procesansvar for driftsimplementering er udarbejdet
+### F22 – Procesplan + procesansvar for driftsimplementering er udarbejdet
 
 | Før                                                        | -> Nyt forslag                                                                                                                                                                                                                          |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -190,7 +208,7 @@ Link til GH-issue:
 
 ***
 
-## S1 – Produktet har en kobling til OS2's strategi
+### S1 – Produktet har en kobling til OS2's strategi
 
 | Før                                                                                | -> Nyt forslag                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -205,7 +223,7 @@ Link til GH-issue:
 
 ***
 
-## S3 – Produktets (forventelige) kobling til OS2's mission, vision og strategi er beskrevet
+### S3 – Produktets (forventelige) kobling til OS2's mission, vision og strategi er beskrevet
 
 | Før                                                         | -> Nyt forslag                                                                                 |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -221,7 +239,7 @@ Link til GH-issue:
 
 ***
 
-## S5 – Produktets kobling til og overensstemmelse med OS2's vision og strategi er til stede og beskrevet
+### S5 – Produktets kobling til og overensstemmelse med OS2's vision og strategi er til stede og beskrevet
 
 | Før                                                                            | -> Nyt forslag        |
 | ------------------------------------------------------------------------------ | --------------------- |
@@ -237,7 +255,7 @@ Link til GH-issue:
 
 ***
 
-## G2 – Der koordineres løbende med OS2-sekretariatet
+### G2 – Der koordineres løbende med OS2-sekretariatet
 
 | Før                                                      | -> Nyt forslag                                                                                                                        |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -252,7 +270,7 @@ Link til GH-issue:
 
 ***
 
-## G3 – Der er udpeget en projektleder/tovholder
+### G3 – Der er udpeget en projektleder/tovholder
 
 | Før                                  | -> Nyt forslag                                                                                                                          |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -267,7 +285,7 @@ Link til GH-issue:
 
 ***
 
-## G4 – Bestyrelsen er orienteret
+### G4 – Bestyrelsen er orienteret
 
 | Før                                   | -> Nyt forslag                                                                                                                        |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -282,7 +300,7 @@ Link til GH-issue:
 
 ***
 
-## G5 – Bestyrelsen har godkendt produktet
+### G5 – Bestyrelsen har godkendt produktet
 
 | Før                                   | -> Nyt forslag                                                         |
 | ------------------------------------- | ---------------------------------------------------------------------- |
@@ -297,7 +315,7 @@ Link til GH-issue:
 
 ***
 
-## G6 – Der er nedsat en styregruppe
+### G6 – Der er nedsat en styregruppe
 
 | Før                                                   | -> Nyt forslag                                                                                                                                   |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -313,7 +331,7 @@ Link til GH-issue:
 
 ***
 
-## G7 – Der er nedsat en koordinationsgruppe (anbefaling)
+### G7 – Der er nedsat en koordinationsgruppe (anbefaling)
 
 | Før                                                           | -> Nyt forslag |
 | ------------------------------------------------------------- | -------------- |
@@ -328,7 +346,7 @@ Link til GH-issue:
 
 ***
 
-## G8 – En projektmodel anvendes og er dokumenteret (anbefaling)
+### G8 – En projektmodel anvendes og er dokumenteret (anbefaling)
 
 | Før                                             | -> Nyt forslag                                                                                                      |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -344,7 +362,7 @@ Link til GH-issue:
 
 ***
 
-## G11 – Bestyrelsen har godkendt styregruppen
+### G11 – Bestyrelsen har godkendt styregruppen
 
 | Før                                  | -> Nyt forslag                                                                                                     |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -360,7 +378,7 @@ Link til GH-issue:
 
 ***
 
-## G13 – Der foreligger en aftale der sikrer økonomi til koordinering og videreudvikling
+### G13 – Der foreligger en aftale der sikrer økonomi til koordinering og videreudvikling
 
 | Før                                        | -> Nyt forslag                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
