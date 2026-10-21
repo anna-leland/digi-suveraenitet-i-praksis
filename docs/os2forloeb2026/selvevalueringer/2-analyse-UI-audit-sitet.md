@@ -10,4 +10,6 @@ parent: Specialeforberedende forløb hos OS2 2026
    - omarrangering af undersider, forsiden, overskrifter, beskrivelser etc
    - kunne en illu på figma være brugbar?
    - ellers brug en form for Ai til at illustrere hvordan navnene og siderne skal laves om/flyttes
-   - empiri: UX-walkthrough analyse m Mathias
+   - empiri: UX-walkthrough analyse m MS
+
+teori: Norman, "the design of everyday things" og Davis "Affordances of artifacts"

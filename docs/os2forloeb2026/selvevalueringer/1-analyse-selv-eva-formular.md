@@ -19,14 +19,15 @@ Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/gover
   
 - Konklusion: opsumer
 
-
+Input fra portfolioopgave fra uni: brug indledningen 
+Teori: Midas studier om spørgeskemaer 
 
 * Der mangler punkter F8 og F9, den springer direkte fra F7 til F10 
 
 
 
-F21 - Rasmus uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
-Jan siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
+F21 - R uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
+J siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
 skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
 
 
