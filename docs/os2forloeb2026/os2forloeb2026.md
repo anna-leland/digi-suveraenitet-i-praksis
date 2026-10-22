@@ -105,7 +105,7 @@ Interviewene bruges både til at belyse konkrete problemer i selve formularen og
 | OS2iot & OS2valghalla                                 | produkter | interviewet     | 2/10  | fysisk        | Lisbeth W Lorentzen      | produktkoordinator   |
 |                                                       |  |                 |       |               |                          |                      |
 | **Har endnu ikke udfyldt selv-evaluringen:**          |  |                 |       |               |                          |                      |
-| OS2sofd                                               | produkt | aftalt dato     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          |
+| OS2sofd                                               | produkt | interviewet     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          |
 | OS2ai                                                 | projekt | aftalt dato    |    23/10   | fysisk        | Mathias Schütte          | product owner        |
 |                                                    |  |  |       |         |                          |                      |
 |                                                       |  |                 |       |               |                          |                      |

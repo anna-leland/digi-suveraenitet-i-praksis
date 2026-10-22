@@ -87,39 +87,5 @@ datadrevet, udledt fra interviews hvilke store/gennemgående temaer (sekundære 
 ### B. Indsamlet empiri fra produktforvaltere mfl. 
 x
     - kvalitative interviews med forskellige profiler af produktforvaltere; blandet udvalg af nye/gamle produktkoordinatorer, projektledere, nogen der har udfyldt og andre som er i process
-|                            INTERVIEWOVERSIGT                           |                 |       |               |                          |                      |                                                      |    |    |    |
-| :---------------------------------------------------- | :-------------- | :---- | :------------ | :----------------------- | :------------------- | :--------------------------------------------------- | :- | :- | :- |
-| **Har udfyldt selv-evalueringen:&#xA0;**              |                 |       |               |                          |                      |                                                      |    |    |    |
-| produkt/projekt                                       | status          | dato  | fysisk/online | person                   | rolle                | note                                                 |    |    |    |
-| OS2aiheatcontrol                                      | interviewet     | 28/8  | online        | Jakob Thøtt Nørby        | ekstern projektleder | ekstern og ikke kommune kendt, men vandt til audits  |    |    |    |
-| OS2fleetoptimizer                                     | interviewet     | 28/9  | online        | Sofie Buhl               | produktkoordinator   | har godt styr på det                                 |    |    |    |
-| OS2rollekatalog                                       | interviewet     | 6/10  | fysisk        | Mette Valbjørn           | produktkoordinator   | havde mange spørgsmål i formularen                   |    |    |    |
-| OS2iot & OS2valghalla                                 | interviewet     | 2/10  | fysisk        | Lisbeth W Lorentzen      | produktkoordinator   | har to produkter                                     |    |    |    |
-|                                                       |                 |       |               |                          |                      |                                                      |    |    |    |
-| **Har endnu ikke udfyldt selv-evaluringen:**          |                 |       |               |                          |                      |                                                      |    |    |    |
-| OS2sofd                                               | aftalt dato     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          | R fornemmer struktureret til værks, gode input       |    |    |    |
-| OS2ai                                                 | aftalt dato    |    23/10   | fysisk        | Mathias Schütte          | product owner        | meget upcoming                                       |    |    |    |
-|                                                    |  |       |         |                          |                      |                                                      |    |    |    |
-|                                                       |                 |       |               |                          |                      |                                                      |    |    |    |
-| **EVT – wildcards**                                   |                 |       |               |                          |                      |                                                      |    |    |    |
-|                     Jan*                     |         ik aftalt endnu        |       |     fysisk    |         |    |                          |    |    |    |
-| OS2OpenDataDK                                         |                 |       | fysisk        | Agnete Sig Petersen      | produktkoordinator   | igang m omlægning af styregruppe                     |    |    |    |
-| evt andre fra syddjurs - Michelle fra korrespondence? |                 |       |               |                          |                      |                                                      |    |    |    |
-| OS2forms                                              |                 |       |               |                          |                      | igang m overlevering                                 |    |    |    |
-
-        
-
-***Ideen med at interviewe Jan**: - eller en/flere leverandør -> teknisk indsigt 
-- han fortæller mig, at der kommer til at være huller i min analyse omkring leverandørsiden af formularen.
-- Hvad oplever leverandøren når de udfylder (tit får den oversendt fra PK) - men alle produkterne udfylder de tekniske spørgsmål forskelligt - han studser over flere af de tekniske punkter, hvor der virkelig er noget galt med wordingen:
-- fx "hvad betyder 'aktivt' i F1 - hvordan dokumenteres det?", og "den med containers er der også problemer med (hvilket krav?)" og "F12 - hvis der kun er en main version, må man så ik fork eller kopiere repo?"
-- det er en black box hvad PK siger til Lev. Jan sidder med at lave guides til PK/lev'er med forskellige videnskompetencer, som han skal hjælpe uden at han overtager at udfylde selv-eva for dem.
-- bekymring: økonomiske motivationer for at svare at en leverandør måske ikke lever op, så at man kan tilbyde en ny service $$$ 
-
- 
-
-F21 - Rasmus uddyber:  hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
-Jan siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
-skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
-
+    
 
