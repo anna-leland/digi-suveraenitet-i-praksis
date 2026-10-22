@@ -20,7 +20,7 @@ Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/gover
 - Konklusion: opsumer
 
 Input fra portfolioopgave fra uni: brug indledningen 
-Teori: Midas studier om spørgeskemaer 
+Teori: Midas studier om surveys 
 
 * Der mangler punkter F8 og F9, den springer direkte fra F7 til F10 
 
@@ -59,7 +59,7 @@ Jeg kommer med forslag til ændringer af vejledningerne, men det kan overvejes o
 _7/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K1 Fortolkningsvariation (5), K2 Manglende vejledning (1), K3 Uklart dokumentationskrav (1)._
 
-Ingen har formel dokumentation på accept udover få, som bruger antallet af tilslutningsaftaler som bevis på accept, men er i tvivl om det er hvad der efterspørges. Andre forstår ikke hvorfor accept fra lokal linjeledelse er afgørende.\
+Ingen har formel dokumentation på accept udover få, som bruger antallet af tilslutningsaftaler som bevis på accept, men er i tvivl om det er hvad der efterspørges. Andre forstår ikke hvorfor accept fra lokal linjeledelse er afgørende. Forvirringen fremgår både i formularsvarene og i flere interviews.\
 Uddyb derfor hvorfor det er afgørende, så man kan undgå personbundne projekter der falder til jorden. Skriv at tilslutningsaftale udgør tilstrækkelig dokumentation.
 
 Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
@@ -90,7 +90,7 @@ Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 _5/7 svar indikerer, at der er problemer med hvordan kravet/vejledningen er formuleret._\
 _Kodet som: K2 Manglende vejledning (4), K3 Uklart dokumentationskrav (1)._
 
-Der henvises med links til strategier, men det forklares ikke, **hvordan** produkterne understøtter strategien. Bed derfor tydeligt om eksempler på, hvordan løsningen understøtter strategien.
+Der henvises i flere svar med links til strategier, men det forklares ikke, **hvordan** produkterne understøtter strategien. Bed derfor tydeligt om eksempler på, hvordan løsningen understøtter strategien.
 
 Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
 
