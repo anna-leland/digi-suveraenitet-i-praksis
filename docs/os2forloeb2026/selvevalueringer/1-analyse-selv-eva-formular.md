@@ -37,15 +37,15 @@ skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk rel
 Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 20 (?) ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 20 krav og deres tilhørende vejledninger.
 
 Jeg har analyseret rapporterne ud fra følgende koder:
-|              **Koder**              |                                                     **Uddybning af koden**                                                     |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-|        K1 Fortolk-variation        |                                  Svarene tyder på, at kravet forstås forskelligt på tværs af produkter.                                 |
-|        K2 Mangl. Vejledning        |                      Kravet mangler definition, eksempel eller forklaring på, hvad/hvordan man forventes at svare.                      |
-|    K3 Uklart dokumentationskrav    |                             Det er uklart, hvilken evidens, dokumentation eller hvilke links der forventes.                             |
-|   K4 Uhensigtsmæssigt svarformat   |    Fritekst fungerer dårligt; spørgsmålet kunne fx egne sig bedre til dropdown, ja/nej, separat linkfelt eller faste svarmuligheder.    |
-| K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
-|        K6 Overlap/redundans        |                 Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder.                 |
 
+| **Koder** | **Uddybning af koden** |
+| --- | --- |
+| K1 Fortolk-variation | Svarene tyder på, at kravet forstås forskelligt på tværs af produkter. |
+| K2 Mangl. Vejledning | Kravet mangler definition, eksempel eller forklaring på, hvad/hvordan man forventes at svare. |
+| K3 Uklart dokumentationskrav | Det er uklart, hvilken evidens, dokumentation eller hvilke links der forventes. |
+| K4 Uhensigtsmæssigt svarformat | Fritekst fungerer dårligt; spørgsmålet kunne fx egne sig bedre til dropdown, ja/nej, separat linkfelt eller faste svarmuligheder. |
+| K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
+| K6 Overlap/redundans | Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder. |
 
 Jeg kommer med forslag til ændringer af vejledningerne, men det kan overvejes om selve kravene også bør ændres i nogle tilfælde. 
 
