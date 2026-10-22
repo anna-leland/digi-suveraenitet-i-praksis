@@ -38,7 +38,7 @@ Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter 
 
 Jeg har analyseret rapporterne ud fra følgende koder:
 |              **Koder**              |                                                     **Uddybning af koden**                                                     |
-| :--------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 |        K1 Fortolk-variation        |                                  Svarene tyder på, at kravet forstås forskelligt på tværs af produkter.                                 |
 |        K2 Mangl. Vejledning        |                      Kravet mangler definition, eksempel eller forklaring på, hvad/hvordan man forventes at svare.                      |
 |    K3 Uklart dokumentationskrav    |                             Det er uklart, hvilken evidens, dokumentation eller hvilke links der forventes.                             |
