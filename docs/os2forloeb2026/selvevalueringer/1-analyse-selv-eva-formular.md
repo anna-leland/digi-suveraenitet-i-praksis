@@ -394,7 +394,8 @@ Teori: bl.a. Midas' studier om surveys
 
 F21 - R uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
 J siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
-skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
+skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant"?
+
 
 
 
