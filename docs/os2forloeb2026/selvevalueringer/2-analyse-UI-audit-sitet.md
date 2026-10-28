@@ -13,3 +13,5 @@ parent: Specialeforberedende forløb hos OS2 2026
    - empiri: UX-walkthrough analyse m MS
 
 teori: Norman, "the design of everyday things" og Davis "Affordances of artifacts"
+
+
