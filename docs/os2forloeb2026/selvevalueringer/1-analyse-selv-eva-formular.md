@@ -6,35 +6,10 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 
 1. **Selvevaluerings formular-analyse:**
-    - forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
-        - "skal barren sættes ned?"- R
-    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ?
-Skal indholde:
-- Kort introduktion: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. **Nævn de brugte koder i doku-analysen.**
-
--formular findings nedslag - slag-i-slag af de 20 punkter som har indikation på problemer 
-opsætning overvejes stadig - evt hiv tabellen ind med de 20 rækkers findings 
-Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres. 
-- interview-findings: uddybning af specifikke formularpunkter fra interviews 
-  
-- Konklusion: opsumer
-
-Input fra portfolioopgave fra uni: brug indledningen 
-Teori: Midas studier om surveys 
-
-* Der mangler punkter F8 og F9, den springer direkte fra F7 til F10 
-
-
-
-F21 - R uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
-J siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
-skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
-
-
-
+   
 
 **Kort introduktion:**
-Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 20 (?) ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 20 kravs-vejledninger.
+Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 22 kravs-vejledninger.
 
 Jeg har analyseret rapporterne ud fra følgende koder:
 
@@ -48,8 +23,9 @@ Jeg har analyseret rapporterne ud fra følgende koder:
 | K6 Overlap/redundans | Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder. |
 
 **Overordnede konklusioner:**
-Det er 
+(ikke færdige)
 
+har 27 okt færddiggjort de første 10 ud af 22 forslag
 
 ### R2 – Accepteret af lokallinjeledelse
 
@@ -393,6 +369,32 @@ Måske det skal præciseres, om dette er udover den almindelige økonomi til pro
 
 Link til GH-issue:
 
+
+
+noter:
+
+- forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
+        - "skal barren sættes ned?"- R
+    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ?
+Skal indholde:
+- Kort introduktion: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. **Nævn de brugte koder i doku-analysen.**
+
+-formular findings nedslag - slag-i-slag af de 22 punkter som har indikation på problemer 
+opsætning overvejes stadig - evt hiv tabellen ind med de 22 rækkers findings 
+Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres. 
+- interview-findings: uddybning af specifikke formularpunkter fra interviews 
+  
+
+Input fra portfolioopgave fra uni: brug indledningen 
+Teori: bl.a. Midas' studier om surveys 
+
+* Der mangler punkter F8 og F9, den springer direkte fra F7 til F10 
+
+
+
+F21 - R uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
+J siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
+skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant" ?
 
 
 
