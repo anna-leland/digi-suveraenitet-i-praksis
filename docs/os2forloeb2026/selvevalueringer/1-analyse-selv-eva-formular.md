@@ -8,7 +8,7 @@ parent: Specialeforberedende forløb hos OS2 2026
 1. **Selvevaluerings formular-analyse:**
    
 
-**Kort introduktion:**
+**Introduktion:**
 Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 22 kravs-vejledninger.
 
 Jeg har analyseret rapporterne ud fra følgende koder:
