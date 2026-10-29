@@ -5,13 +5,21 @@ parent: Specialeforberedende forløb hos OS2 2026
 ---
 
 
-1. **Selvevaluerings formular-analyse:**
-   
+# 1. **Analyse af selvevalueringsformularen:**
 
-**Introduktion:**
-Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg gennemlæst og analyseret de 7 rapporter som hidtil er afleveret. Gennem dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos udfylderne. Med udgangspunkt i data fra de 7 udfyldte analyser, kommer jeg ligeledes med forslag til revidering/forberedning/rettelser af de 22 kravs-vejledninger.
+### **HVAD:**
+Denne del-rapport omhandler selve selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde. 
 
-Jeg har analyseret rapporterne ud fra følgende koder:
+### **HVORDAN**:
+For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg læst og analyseret de 7 rapporter som hidtil er afleveret. Derudover har jeg interviewet 6 produktforvaltere, der repræsenterer både nyere og ældre projekter og produkter; nogle har allerede udfyldt selvevalueringen, og andre er fortsat i proces. De stemmer derfor ikke 1:1 overens med de 7 produkter, der hidtil har afleveret selvevalueringer. De interviewede omtales med alias som PV1-PV6.
+
+Bag analysen ligger teori om spørgeskemadesign fra Krosnick & Presser (2010), som jeg har ladet mig guide af, når jeg har vurderet hvorfor et krav eller vejledningen dertil misforstås - og hvordan et forslag på en reformulering ser ud. Ifølge deres teori, gennemgår en respondent fire kognitive trin, når et spørgsmål besvares:
+* First, they must interpret the question and deduce its intent. → “Hvad mener de med dette governancekrav?”
+* Next, they must search their memories for relevant information, → “Hvilken dokumentation har vi?”
+* and then integrate whatever information comes to mind into a single judgment. → “Lever produktet faktisk op til kravet?”
+* Finally, they must translate the judgment into a response → “Hvordan skal jeg formulere/dokumentere det i formularen?”
+
+Jeg har analyseret rapporterne ud fra følgende koder, der er udledt af mine data, og valgt med udgangspunkt i Krosnick & Pressers (2010) anbefalinger og faldgrupper i spørgsmålsdesign:
 
 | **Koder** | **Uddybning af koden** |
 | --- | --- |
@@ -22,10 +30,33 @@ Jeg har analyseret rapporterne ud fra følgende koder:
 | K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
 | K6 Overlap/redundans | Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder. |
 
-**Overordnede konklusioner:**
-(ikke færdige)
+### **MINE FUND - OG HVAD JEG FORSLÅR ÆNDRES:**
+Gennem interviews, dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos produktforvalterne, der har udfyldt formularer. Denne rapport giver først et overblik over generelle tværgående fund, og kommer derefter med konkrete forslag til reformulering af de 22 kravs-vejledninger.
 
-har 27 okt færddiggjort de første 10 ud af 22 forslag
+De 22 forslag nedenfor kommer med forslag til at rette konkrete formuleringer, men de vigtigste observationer fra mit materiale går på tværs af kravene. De kan forklare, hvorfor de modtagne selvevalueringer kan opleves som mindre fyldestgørende, end man havde håbet fra sekretariatets side, og peger på hvad der kan gøres ved det i et re-design af formularen.
+
+### **Overordnede fund i interviews og dokumentanalyser:**
+
+Ifølge Krosnick & Pressers forskning om survey design (2010, s. 265) bestemmes kvaliteten af et svar af tre forhold: hvor svær opgaven er, hvor god respondenten er til den, og hvor motiveret vedkommende er. Når en af de tre halter, begynder udfylderen at "satisfice" – altså at nøjes med svar, der er gode nok, i stedet for de mest præcise. For sekretariatet betyder det, at en del af de "tynde" svar måske ikke skyldes manglende ambition hos produktforvalterne, men at opgaven er for svær at fortolke og dokumentere – især for dem uden teknisk baggrund – og at motivationen så til gengæld falder, når formularen føles meningsløs at gå til. 
+
+**Opgavens sværhedsgrad**
+Governance-kravene kan fremstå er abstrakte; én produktforvalter oplevede ordlyden som hentet ned fra "et europæisk tjuhej", der var lige oversat (PV2). Det er ikke en facilitetsbrist hos udfylderen, men en indikation på, at fortolkningstrinet er for ukonkret.
+
+**Evnen til at udfylde**
+Den tekniske viden varierer markant blandt produktforvalterne. PV3, der selv siger, at de udfyldte "gjorde det så godt, de kunne", men fordi de ikke har den tekniske baggrund, ryger de lettere i de overfladiske svar, når kravene kræver større teknisk forståelse.
+
+**Motivationen**
+Produktforvalteren kan være stærkt motiveret, fordi selvevalueringen er obligatorisk og har betydning for produktets governance. 
+Dog kan frygten for hvilke konsekvenser ens selvevaluering vil få, være en så stærk faktor at den modarbejder processen. Flere produktforvaltere oplever, at der er meget på spil: PV1 og PV3 var fx nervøse for, om vurderingen de ville modtage er et øjebliksbillede, eller om de kan blive "straffet" med et dyk i niveau. Det var særligt de trafiklys-farverne og de røde kryds samt negative formuleringer som "Kriteriet er IKKE opfyldt" de blev skærmt af. Når en besvarelse føles endelig, er der ifølge Krosnick & Pressers teori risiko for, at man overdriver i den ønskværdige retning (social desirability bias, s. 285) – som når PV5 hellere prøver at udfordre selve kravet end at svare nej, fordi de tænker det kunne få dårlige konsekvenser for produktet. Denne unødige frygt kan resultere i, at produktforvalterne forbinder governance-processen med et revisionsværktøj, som de skal frygte og rette ind efter i første forsøg – hvilket jo er ærgeligt, når det fra sekretariatets side er tiltænkt som et dialogværktøj der, efter flere runder feedback, skal være med til at dokumentere ens governance niveau.
+
+Men motivationen til overhovedet at udfylde formularen kan samtidig falde, hvis formularen virker uoverskuelig, irrelevant eller som administrativt merarbejde i en allerede høj arbejdsbunke. PV2 er fx overbevist om, at der "ikke sker noget" efter afleveringen, og spørgsmålet om, hvorvidt besvarelsen fører til noget nyttigt, hænger direkte sammen med, hvor meget man orker at sætte ind i den. PV4, der ikke har megen tid, beskriver selv, at de holder sig til korte svar og "undgår lange romaner" – det er eksempel på satisficing, når motivationen bukker under for tidspresset. De fleste interviewpersoner indrømmer, at de ikke er klar over hvad næste skridt er i processen, og mens flere ikke vidste at governance rapporten af deres produkt skulle lægge offentligt, fandt andre produktforvaltere åbenheden implicit. Disse forventninger er fx med til at styre om en produktforvalter henviser direkte til code reviews eller ikke tør, men frygt for at eksponere produktets sårbarheder.
+
+### **Derfor vil min anbefaling være:** 
+Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og få så fyldestgørende og dokumenterede svar som muligt. Motivationen til at gøre sig umage eller at turde at være ærlig om mangler, uden at frygte for konsekvenserne, bliver også i høj grad styret af forventningen til, hvad resultatet skal bruges til. Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som klader: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau – og datakvaliteten i svarerene stiger forhåbentlig. Helt konkret, bør forløbet skitseres både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes.
+
+
+
+## Konkrete forslag til reformulering af 22 kravs-vejledninger:
 
 ### R2 – Accepteret af lokallinjeledelse
 
