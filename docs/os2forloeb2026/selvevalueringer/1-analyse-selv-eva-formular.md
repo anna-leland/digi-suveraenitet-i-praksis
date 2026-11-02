@@ -7,7 +7,9 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 # 1. **Analyse af selvevalueringsformularen:**
 
-## **HVAD:**
+~ Intro som kort ridser hvad, hvordan, hvilke fund og ændringsforslag ~
+
+## **HVAD UNDERSØGES:**
 Denne del-rapport omhandler hvordan governance selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde, kan forbedres.
 
 ## **HVORDAN**:
@@ -33,7 +35,7 @@ Jeg har analyseret rapporterne ud fra følgende koder, der er udledt af mine dat
 **Reference:**\
 Krosnick, J. A., & Presser, S. (2010). Question and questionnaire design. In P. V. Marsden & J. D. Wright (Eds.), _Handbook of survey research_ (2nd ed., pp. 263–313). Emerald Group Publishing.
 
-## **MINE FUND - OG HVAD JEG FORSLÅR ÆNDRES:**
+## **MINE FUND - OG HVAD JEG FORESLÅR ÆNDRES:**
 Gennem interviews, dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos produktforvalterne, der har udfyldt formularer. Denne rapport giver først et overblik over generelle tværgående fund, og kommer derefter med konkrete forslag til reformulering af de 22 kravs-vejledninger.
 
 De 22 forslag nedenfor kommer med forslag til at rette konkrete formuleringer, men de vigtigste observationer fra mit materiale går på tværs af kravene. De kan forklare, hvorfor de modtagne selvevalueringer kan opleves som mindre fyldestgørende, end man havde håbet fra sekretariatets side, og peger på hvad der kan gøres ved det i et re-design af formularen.
@@ -46,23 +48,23 @@ Ifølge Krosnick & Pressers forskning om survey design (2010, s. 265) bestemmes 
 Governance-kravene kan fremstå er abstrakte, og kan forekomme indforståede, hvorfor produktforvalterne tit manglede eksempler på hvad de skulle dokumentere eller en simpel forklaring på, hvorfor et krav var vigtigt, især hvis det var et de ikke havde opfyldt endnu. 
 
 **Evnen til at udfylde**\
-Den tekniske viden varierer markant blandt produktforvalterne. PV3, der selv siger, at de udfyldte "gjorde det så godt, de kunne", men fordi de ikke har den tekniske baggrund, ryger de lettere i de overfladiske svar, når kravene kræver større teknisk forståelse. At formularen behandles i JSON volder også problemer for flere produktforvaltere, hvilket tyder på der mangler en mere udførlig guide.
+Den tekniske viden varierer markant blandt produktforvalterne. PV3, der selv siger, at de "gjorde det så godt, de kunne", men fordi de ikke har den tekniske baggrund, ryger de lettere i de overfladiske svar, når kravene kræver større teknisk forståelse. At formularen behandles i JSON volder også problemer for flere produktforvaltere, hvilket tyder på der mangler en mere udførlig guide.
 
 **Motivationen**\
 Produktforvalteren kan være stærkt motiveret, fordi selvevalueringen er obligatorisk og har betydning for produktets governance. 
 
 Dog kan frygten for hvilke konsekvenser ens selvevaluering vil få, være en så stærk faktor at den modarbejder processen. Flere produktforvaltere oplever, at der er meget på spil: PV1 og PV3 var fx nervøse for, om vurderingen de ville modtage er et øjebliksbillede, eller om de kan blive "straffet" med et dyk i niveau. Det var særligt de trafiklys-farverne og de røde kryds samt negative formuleringer som "Kriteriet er IKKE opfyldt" de blev skærmt af.\
-Når en besvarelse føles endelig, er der ifølge Krosnick & Pressers teori risiko for, at man overdriver i den ønskværdige retning (social desirability bias, s. 285) – som når PV5 hellere prøver at udfordre selve kravet end at svare nej, fordi de tænker det kunne få dårlige konsekvenser for produktet. Denne unødige frygt kan resultere i, at produktforvalterne forbinder governance-processen med et revisionsværktøj, som de skal frygte og rette ind efter i første forsøg – hvilket jo er ærgeligt, når det fra sekretariatets side er tiltænkt som et dialogværktøj der, efter flere runder feedback, skal være med til at dokumentere ens governance niveau.
+Når en besvarelse føles endelig, er der ifølge Krosnick & Pressers teori risiko for, at man overdriver i den ønskværdige retning (social desirability bias, s. 285) – som når PV5 hellere prøver at udfordre selve kravet end at svare nej, fordi de tænker det kunne få dårlige konsekvenser for produktet. Denne frygt tyder på , at produktforvalterne forbinder governance-processen med et revisionsværktøj, som de skal frygte og rette ind efter i første forsøg for at undgå en 'straf' – hvilket jo er ærgeligt, når det fra sekretariatets side er tiltænkt som et dialogværktøj der, efter flere runder feedback, skal være med til at dokumentere ens governance niveau.
 
 Men motivationen til overhovedet at udfylde formularen kan samtidig falde, hvis formularen virker uoverskuelig, irrelevant eller som administrativt merarbejde i en allerede høj arbejdsbunke. PV2 er fx overbevist om, at der "ikke sker noget" efter afleveringen, og spørgsmålet om, hvorvidt besvarelsen fører til noget nyttigt, hænger direkte sammen med, hvor meget man orker at sætte ind i den. PV4, der ikke har megen tid, beskriver selv, at de holder sig til korte svar og "undgår lange romaner" – det er eksempel på satisficing, når motivationen bukker under for tidspresset.
 
 De fleste interviewpersoner indrømmer, at de ikke er klar over hvad næste skridt er i processen, og mens flere ikke vidste at governance rapporten af deres produkt skulle lægge offentligt, fandt andre produktforvaltere åbenheden implicit. Disse forventninger er fx med til at styre om en produktforvalter henviser direkte til code reviews eller ikke tør, men frygt for at eksponere produktets sårbarheder.
 
 ### **Derfor vil min anbefaling være:** 
-Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og få så fyldestgørende og dokumenterede svar som muligt.\
+Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og for at få så fyldestgørende og dokumenterede svar som muligt.\
 Motivationen til at gøre sig umage eller at turde at være ærlig om mangler, uden at frygte for konsekvenserne, bliver også i høj grad styret af forventningen til, hvad resultatet skal bruges til.\
 Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som klader: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau – og datakvaliteten i svarerene stiger forhåbentlig.\
-Helt konkret, bør forløbet skitseres både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes. Hvordan kommunikationen om processen kan forbedres bliver også udfoldet i [del-analyse 3: Processen om goverance i OS2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
+Helt konkret, bør forløbet skitseres konkret både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes. Hvordan kommunikationen om processen kan forbedres bliver også udfoldet i [del-analyse 3: Processen om goverance i OS2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
 
 
 
@@ -423,6 +425,21 @@ Flere er fovirrede over, om 'finansieringsaftalen' er udover den almindelige øk
 
 Link til GH-issue: der findes ikke et endnu, bør jeg oprette et? 
 
+
+OPsamling fra kodebog - hvad mangler at komme med?
+-
+Uddybning af analysen med fund/koder fra kodebog: 
+sværhedsgrad: 
+- svar muligheder/dropdown/fritekst
+- eksempler på hvordan det svar kunne se ud
+evnen til at udfylde - automatisering:
+- ville være en hjælp, men også en risiko for at miste føling - sætter høje krav til doku - en balance
+motivation:
+- tolkninger: hvem er den for? inddrag koder fra kodebog og lad det tale ind i motivationen
+* evt flere koder, som skal med? 
+
+Uddybning af anbefalinger:
+lav 3 underppunkter hvor de skæres ud i pap - motivationen er godt dækket af, men de andre to mangler at blive uddybet )
 
 
 noter:
