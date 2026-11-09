@@ -182,7 +182,7 @@ Forsiden skal ikke gentage hele navigationsmenuen i en separat liste.
 
 ***
 
-## Her starter du
+## Start her
 
 Siden skal besvare:
 
