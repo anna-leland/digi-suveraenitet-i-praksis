@@ -143,4 +143,5 @@ Jeg har samtidig gjort diagrammet **horisontalt og mere lineært**, så process
 
 **Forslag til opdatering af proces-diagram**
 
-![forslag-til-opdatering-proces-diagram](../images/forslag-til-opdatering-proces-diagram.png)
+
+![Forslag til opdatering af procesdiagram](../images/forslag-til-opdatering-proces-diagram-uden-titel.svg) 
