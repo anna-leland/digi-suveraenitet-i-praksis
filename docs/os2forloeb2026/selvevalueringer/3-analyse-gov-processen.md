@@ -121,3 +121,36 @@ Det bør også være meget tydeligt i diagrammet, hvornår noget stadig er **in
 
 forslag til diagram
 - 
+
+## Procesdiagrammet bør skitsere forløbet tydeligere
+
+Interviewene og brugertesten viser, at procesforløbet ikke bliver forstået ens, og at det oprindelige diagram er svært at aflæse som et samlet forløb. Med udgangspunkt i usability-testen (Hertzum, 2020) og walkthrough-analysen (Light et al., 2018) har jeg derfor lavet et forslag, der tydeliggør rækkefølge, ansvar og overgangen fra internt arbejde til offentlig vurdering og samtidig gør diagrammet mere overskueligt visuelt.
+
+Det oprindelige procesdiagram giver et fint overblik over, at både styregruppe og bestyrelse indgår i processen, men flere af overgangene er svære at forstå. Styregruppen kommer først tydeligt ind efter sekretariatets evaluering, selv om styregruppen og produktforvalteren allerede har ansvar for selvevalueringen fra starten. Samtidig er det uklart, hvad “dialog med sekretariatet” dækker over, og hvornår processen går fra første aflevering til feedback, rettelser og endelig vurdering.
+
+Bestyrelsessporet er også svært at aflæse. Det fremgår ikke tydeligt, hvad “generelle tiltag” betyder, eller hvad pilene mellem styregruppe- og bestyrelsessporet viser. Sekretariatet optræder samtidig flere steder i begge spor, selv om sekretariatet i praksis har sin egen rolle mellem produktet og bestyrelsen.
+
+I mit forslag har jeg derfor lavet **tre tydelige spor for styregruppe, sekretariat og bestyrelse**. Det gør det lettere at se, hvem der har ansvar hvornår, og gør feedbackforløbet mere tydeligt: første aflevering → sekretariatets feedback → eventuelle rettelser → endelig vurdering. Jeg har også markeret det interne arbejds- og dialogforløb særskilt fra offentliggørelsen, så det bliver tydeligt, hvornår processen går fra intern behandling til et offentligt resultat.
+
+Jeg har samtidig gjort diagrammet **horisontalt og mere lineært**, så processen læses fra venstre mod højre. Det var også noget Mathias efterspurgte i brugertesten, hvor han oplevede det oprindelige diagram som lidt overvældende, især da man ikke kunne overskue det i ét browser vindue, fordi det var så langt. For at udnytte 'dead space' på siden har jeg lavet mit forslag horisontalt.
+
+**Retning:** Behold overblikket over rollerne, men gør selve procesforløbet mere lineært og tydeligt, så det hurtigt kan aflæses, hvem der gør hvad, hvornår der kan rettes til, og hvornår vurderingen bliver endelig og offentlig.
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div style="width: 50%;">
+    <img src="../images/nuvaerende-proces-diagram.png" alt="Nuværende procesdiagram" style="width: 100%;">
+    <p><em>Nuværende procesdiagram</em></p>
+  </div>
+
+  <div style="width: 50%;">
+    <img src="../images/forslag-til-opdatering-proces-diagram.png" alt="Forslag til opdateret procesdiagram" style="width: 100%;">
+    <p><em>Forslag til opdateret procesdiagram</em></p>
+  </div>
+</div> 
+
+
+
+
+![nuvaerende-proces-diagram](../images/nuvaerende-proces-diagram.png)
+
+![forslag-til-opdatering-proces-diagram](../images/forslag-til-opdatering-proces-diagram.png)

@@ -28,11 +28,11 @@ For en detaljeret gennemgang af, hvordan sitet opleves af en produktforvalter, h
 Som analytisk blik på brugerfladen inddrager jeg Davis’ affordancebegreb. Frem for blot at spørge, _hvad_ en teknologi muliggør, foreslår Davis at undersøge, _hvordan_ den guider, muliggør eller begrænser bestemte handlinger. I analysen har jeg især brugt begreberne **perception** og **dexterity** som linse: om brugeren kan gennemskue, hvilke funktioner og handlemuligheder sitet tilbyder, og om brugeren har de nødvendige kompetencer til at benytte dem. Dermed bliver det relevant at undersøge, hvordan audit.os2.eu fungerer for produktforvaltere med forskellige grader af teknisk erfaring. Fra de 6 interviews har jeg netop spurgt produktforvalterne til deres kendskab til sitet og hvordan det opleves at navigere der; interviewempirien indgår som baggrund for, hvordan jeg forestiller mig sitet opleves.
 
 Referencer: 
-Light, B., Burgess, J., & Duguay, S. (2018). The walkthrough method: An approach to the study of apps. _New Media & Society, 20_(3), 881–900. https://doi.org/10.1177/1461444816675438](https://doi.org/10.1177/1461444816675438)**
+Light, B., Burgess, J., & Duguay, S. (2018). The walkthrough method: An approach to the study of apps. _New Media & Society, 20_(3), 881–900. https://doi.org/10.1177/1461444816675438
 
 Hertzum, M. (2020). _Usability testing: A practitioner's guide to evaluating the user experience_. Morgan & Claypool. https://doi.org/10.1007/978-3-031-02227-2
 
-Davis, J. L. (2020). _How artifacts afford: The power and politics of everyday things_. MIT Press. [https://doi.org/10.7551/mitpress/11967.001.0001](https://doi.org/10.7551/mitpress/11967.001.0001?utm_source=chatgpt.com)
+Davis, J. L. (2020). _How artifacts afford: The power and politics of everyday things_. MIT Press. https://doi.org/10.7551/mitpress/11967.001.0001
 
 
 **Gennemgangsvilkår:**
@@ -75,7 +75,8 @@ Derfor bør sproget på sitet tydeligere understøtte, at selvevalueringen har k
 En tydeligere opdeling kunne derfor være at omtale sekretariatets første tilbagemelding som **feedback**, mens **(endelig) vurdering** først bruges efter dialogen og muligheden for at rette til. Dermed bliver det lettere at se forskel på produktets selvevaluering, sekretariatets feedback og den efterfølgende vurdering.
 
 OS2 bruger allerede andre steder en "Vidste du?"-boks til at forklare forskellen på beslægtede governancebegreber (indsæt link). En lignende tilgang kunne være relevant her.
-![Skærmbillede 2026-11-06 kl. 10.34.02.png](../../../../../Desktop/Skærmbillede 2026-11-06 kl. 10.34.02.png) 
+
+![vidste-du-ordforklaring-eksempel](../images/vidste-du-ordforklaring-eksempel.png)
 
 **Retning:** Forklar det centrale begrebsapparat og brug betegnelserne mere konsekvent gennem processen. Gør samtidig tydeligt, at selvevalueringen er et arbejds- og dialogværktøj frem for en endelig vurdering. Overvej at bruge _feedback_ om sekretariatets første tilbagemelding og reservere _(endelig) vurdering_ til det tidspunkt, hvor produktet har haft mulighed for dialog og rettelser.
 
@@ -85,7 +86,7 @@ Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder mege
 
 Det samme problem opstod i brugertesten. Da Mathias skulle finde procesbeskrivelsen uden at bruge det direkte link på forsiden, begyndte han under "Evalueringer" og måtte gætte sig frem, før han fandt "Processen" under "Vurderingsgrundlag". Sidens placering var ikke intuitiv for ham.
 
-![Skærmbillede 2026-11-06 kl. 09.53.53.png](../../../../../Desktop/Skærmbillede 2026-11-06 kl. 09.53.53.png)
+![nuvaerende-nav-på-audit-sitet](../images/nuvaerende-nav-på-audit-sitet.png)
 
 Forsidens egen oversigt matcher heller ikke navigationens betegnelser særlig godt. Det, der på forsiden kaldes "checkliste til selvevaluering" og "checkliste til evaluering", findes i menuen under _Vurderingsgrundlag_ som henholdsvis _Governancerapporten_ og _Evalueringsrapporten_. "Procesbeskrivelse" hedder i menuen _Processen_, mens "formular" bliver til _Selvevaluering (formular)_. De to sidste punkter beskrives på forsiden som muligheder for at generere henholdsvis en kladde til evalueringsrapporten og en governancerapport, men optræder i menuen som _Evalueringsrapport (generator)_ og _Governancerapport (generator)_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold. Og det er især svært at gøre, når man ikke kender forskellen på de forskellige begreber.
 
@@ -159,7 +160,7 @@ ______
 
 Forslag til ny navigation på audit.os2.eu. Herunder konkrete forslag til hvordan indholdet kunne omstruktureres til de enkelte undersider.
 
-![audit-navigationsmenu.png](../../../../../Downloads/audit-navigationsmenu.png)
+![forslag-ny-nav-på-audit-site](../images/forslag-ny-nav-på-audit-site.png)
 
 ## Forside
 
