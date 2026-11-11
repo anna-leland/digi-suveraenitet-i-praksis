@@ -136,21 +136,11 @@ Jeg har samtidig gjort diagrammet **horisontalt og mere lineært**, så process
 
 **Retning:** Behold overblikket over rollerne, men gør selve procesforløbet mere lineært og tydeligt, så det hurtigt kan aflæses, hvem der gør hvad, hvornår der kan rettes til, og hvornår vurderingen bliver endelig og offentlig.
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="width: 50%;">
-    <img src="../images/nuvaerende-proces-diagram.png" alt="Nuværende procesdiagram" style="width: 100%;">
-    <p><em>Nuværende procesdiagram</em></p>
-  </div>
 
-  <div style="width: 50%;">
-    <img src="../images/forslag-til-opdatering-proces-diagram.png" alt="Forslag til opdateret procesdiagram" style="width: 100%;">
-    <p><em>Forslag til opdateret procesdiagram</em></p>
-  </div>
-</div> 
-
-
-
+**Nuværende proces-diagram**
 
 ![nuvaerende-proces-diagram](../images/nuvaerende-proces-diagram.png)
+
+**Forslag til opdatering af proces-diagram**
 
 ![forslag-til-opdatering-proces-diagram](../images/forslag-til-opdatering-proces-diagram.png)
