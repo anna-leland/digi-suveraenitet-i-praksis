@@ -265,6 +265,8 @@ Her bør stå:
 
 Siden skal ikke samtidig gennemgå hele evalueringsprocessen.
 
+Man kunne med fordel også linke til Sisses [håndbog til styringsmodellen](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Arrangementer/OS2%20Community-meetup/OS2%20Community-meetup%20%231_2025/Governance-rapport%20workshop&editing=false&openfile=true).
+Og så henvise til [styringsmodellen formuleret af Strand og Donslund](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true), til dem der gerne vil helt ned i materien. 
 ***
 
 ## Selvevaluering af governance
@@ -289,15 +291,15 @@ Her ligger selve formularen.
 
 Øverst bør det fremgå tydeligt:
 
-* at første besvarelse er intern
+* at første besvarelse er intern og ikke offentliggøres i denne form
 
 * at den bruges som udgangspunkt for feedback og dialog
 
-* at den ikke offentliggøres i denne form
-
 * at produktet får mulighed for at opdatere efter sekretariatets feedback
 
-Derefter følger krav, vejledning, status og dokumentation samt mulighed for at gemme eller importere en kladde.
+* hvordan filen hentes ned, i hvilke fil-formater den kan behandles i og hvordan man løbende gemmer
+
+
 
 ### Aflevering og hjælp
 
@@ -307,15 +309,7 @@ Siden skal besvare:
 
 Her bør stå:
 
-* hvordan selvevalueringen afleveres
-
-* JSON forklaret i almindeligt sprog
-
-* hvordan filen gemmes og sendes
-
-* GitHub som mulighed, hvis det fortsat understøttes
-
-* hvad man gør, hvis man ikke bruger GitHub
+* hvordan selvevalueringen afleveres som JSON fil
 
 * hvordan en eksisterende selvevaluering genoptages og opdateres
 
@@ -347,7 +341,7 @@ Her bør stå:
 
 * hvordan en ny aflevering foregår
 
-* dialogen mellem sekretariatet og produktet/styregruppen
+* hvordan dialogen mellem sekretariatet og produktet/styregruppen foregår - emails, online- eller fysiske møder
 
 ### Endelig vurdering og offentliggørelse
 
@@ -395,8 +389,6 @@ En vurderingsrapport kan indeholde:
 
 * produktniveau
 
-* dato
-
 Den endelige vurderingsrapport er det dokument, en udenforstående skal orientere sig i.
 
 ### Beslutningslog
@@ -428,10 +420,6 @@ Siden samler væsentlige aktiviteter i evalueringsarbejdet, eksempelvis:
 * andre væsentlige aktiviteter i evalueringen
 
 * dato og eventuelt ansvarlig
-
-**Aktivitetsloggen viser, hvad der er sket. Beslutningsloggen viser, hvad der er besluttet.**
-
-
 
 
 
