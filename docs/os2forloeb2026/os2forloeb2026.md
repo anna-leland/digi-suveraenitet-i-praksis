@@ -6,11 +6,11 @@ has_toc: true
 ---
 
 ### Annas opgave i efteråret 2026:
-# Retænkning af governanceprocessen omkring selvevalueringer i OS2 
+# Analyse af governanceprocessen omkring selvevalueringer i OS2 
 
 ### Specialeforberedende forløb hos OS2 · efteråret 2026
 
-Mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for alle i fællesskabet. Det gælder produktkoordinatorer, styregrupper, koordinationsgrupper, sekretariatet, bestyrelsen, leverandører og anvendere. 
+Mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for alle i fællesskabet. Det gælder produktkoordinatorer, styregrupper, koordinationsgrupper, sekretariatet, bestyrelsen, leverandører og anvendere.
 
 Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med konkrete forslag til forbedringer.
 
@@ -20,9 +20,37 @@ Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance
 
 OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. Trods OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016 har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra polistisk hold stilles der nu større krav til, at governance omkring produkterne i OS2 er dokumenteret.
 
-Derfor har OS2-sekretariatet skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gemmengå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveav (sandkasse, niveau 1, 2 eller 2) og årligt opdatere rapporten som produktet udvikler sig. De enkelte vurderinger for produkter og projekters skal ligge åbent på hjemmesiden os2.eu.
+Derfor har OS2-sekretariatet med mandat fra bestyrelsen skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gemmengå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveav (sandkasse, niveau 1, 2 eller 3) og halvårligt opdatere rapporten som projektet/produktet udvikler sig. De enkelte vurderinger for produkter og projekter skal på sigt ligge åbent på hjemmesiden os2.eu.
 
-==Betragtninger om hvordan det er blevet modtaget og hvorfor jeg er blevet bedt om at revidere processen.==
+
+==Betragtninger om hvordan det er blevet modtaget==
+
+
+- Hvordan er den blevet meldt ud, hvordan er den modtaget?
+tidslinje: 11 maj 2026 første besked, deadline 30. juli
+    - måske med lidt blandede følelser virker det som om? 
+    - lidt uoverskueligt og som 'endnu' en opgave i de frivillige styregruppe+koordinationsgruppe og de pressede produktionkoordinatore/forvaltede som har meget at se til
+    - 
+Ifølge sekretariatsleder Rasmus har processen været stejl og allerede synliggjort steder, hvor krav og vejledninger i selvevalueringsformularen har været vanskelige at forstå eller besvare. (Denne feedback dokumenteres bl.a. som issues i GitHub og kan bruges i videreudviklingen af processen.)
+
+
+==hvorfor jeg er blevet bedt om at revidere processen.==
+
+som informationsvidenskaber, der har haft fokus på organisationsetnografi i CWSW og de etnografiske metoder kommunikation og governance inden for GDPR, 
+og som speciale emne har digital suverænitet i praksis som fokus, er en gennemgang af selvevalueringsprocessen et konkret eksempel på hvordan governance bliver udøvet i praksis 
+
+Hvordan jeg skaber mest værdi:
+- Kom med forslag til en reframing af audit-processen:
+    - analysere og komme med bud til hvordan selve formularen kan forberes, men også dokumentationen af 'just the docs' sitet, og på sigt også udpegning af automatiseringer 
+- Gør processen det mere operationaliserbar
+    - kig på skitseringen af processen (diagram i vurderingsgrundlag) -> gør dokumentationen her tydligere, så der var mindre fortolkning 
+Gør den manuelle udfyldning af formulering mere effektiv med en analysegennemgang af selvevalueringen
+- gøre 'krav' og 'retningslinjernene' tydligere beskrevet, bedre vejledninger -  kom med eksempler
+- understøt med data der siger at noget skal ændres, omformuleringer, tages ud, tilføjes -> munde ud i et forslag til en modernisering , og i fremtiden at den har: 
+    - højere automatisering (først formuleres menneskeligt og kodes)
+    - nem og hurtigt at udfylde
+    - skal være tydeligt hvad og hvorfor 
+
 
 Målet er, at selvevalueringen ikke alene opleves som et kontrolkrav, men fungerer som et **løbende styrings- og dialogværktøj**, der skaber værdi for alle aktører i OS2-fællesskabet; særligt produktkoordinatorer og sekretariatet. 
 
@@ -71,20 +99,20 @@ Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles me
 
 ---
 
-# Datagrundlag og metode
+# Datagrundlag og metoder
 
 Analyserne bygger på flere typer empiri og analytiske gennemgange.
 
 ## Dokumentanalyse
 
-- dokumentanalyse af de 7 indkomne selvevalueringer
+- af de første 7 selvevalueringer, der var afleveret 1. september 2026
+- af emailen, der orienterede OS2s produktforvaltere og styregrupper om selvevalueringerne tilbage 11. maj 2026
+- 
 
 ## Walkthroughs
 
 - eget walkthrough af selvevalueringsformularen
 - UI-walkthrough af audit.os2.eu
-- walkthrough af sekretariatets vurderingsskabelon
-- walkthrough af den samlede evalueringsproces fra udsendelse og udfyldelse til vurdering og publicering
 
 ## Interviews
 
@@ -95,26 +123,20 @@ Interviewene bruges både til at belyse konkrete problemer i selve formularen og
 ---
 
 ## Interviewoverblik
+| Har udfyldt selvevalueringen: | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Produkt/projekt titel** | **Produkt/projekt** | **Dato** | **Fysisk/online** | **Person** | **Rolle** |
+| OS2aiheatcontrol | projekt | 28/8 | online | Jakob Thøtt Nørby | ekstern projektleder |
+| OS2fleetoptimizer | produkt | 28/9 | online | Sofie Buhl | produktkoordinator |
+| OS2rollekatalog | produkt | 6/10 | fysisk | Mette Valbjørn | produktkoordinator |
+| OS2iot & OS2valghalla | produkter | 2/10 | fysisk | Lisbeth W Lorentzen | produktkoordinator |
+| | | | | | |
+| **Har endnu ikke udfyldt selvevalueringen:** | | | | | |
+| OS2sofd | produkt | 20/10 | online | Erling Haunstrup Poulsen | koordinator |
+| OS2ai | projekt | 23/10 | fysisk | Mathias Schütte | product owner |
 
-| Har udfyldt selv-evalueringen:              |  |                 |       |               |                          |                      |
-| :---------------------------------------------------- |--| :-------------- | :---- | :------------ | :----------------------- | :------------------- |
-| produkt/projekt titel                                       | produkt/projekt  | status          | dato  | fysisk/online | person                   | rolle                |
-| OS2aiheatcontrol                                      | projekt | interviewet     | 28/8  | online        | Jakob Thøtt Nørby        | ekstern projektleder |
-| OS2fleetoptimizer                                     | produkt | interviewet     | 28/9  | online        | Sofie Buhl               | produktkoordinator   |
-| OS2rollekatalog                                       | produkt | interviewet     | 6/10  | fysisk        | Mette Valbjørn           | produktkoordinator   |
-| OS2iot & OS2valghalla                                 | produkter | interviewet     | 2/10  | fysisk        | Lisbeth W Lorentzen      | produktkoordinator   |
-|                                                       |  |                 |       |               |                          |                      |
-| **Har endnu ikke udfyldt selv-evaluringen:**          |  |                 |       |               |                          |                      |
-| OS2sofd                                               | produkt | interviewet     | 20/10 | online        | Erling Haunstrup Poulsen | koordinator          |
-| OS2ai                                                 | projekt | aftalt dato    |    23/10   | fysisk        | Mathias Schütte          | product owner        |
-|                                                    |  |  |       |         |                          |                      |
-|                                                       |  |                 |       |               |                          |                      |
-| **EVT – wildcards**                                   |  |                 |       |               |                          |                      |
-| OS2OpenDataDK                                         |  |                 |       | fysisk        | Agnete Sig Petersen      | produktkoordinator   |
-| evt andre fra syddjurs - Michelle fra korrespondence? |  |                 |       |               |                          |                      |
-| OS2forms                                              |  |                 |       |               |                          |                      |
 
-        
+ ## Teori fra Informationsvidenskab 
 
 
  

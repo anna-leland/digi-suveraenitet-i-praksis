@@ -85,7 +85,7 @@ Jeg har også markeret det interne arbejds- og dialogforløb særskilt fra offen
 
 Jeg har samtidig gjort diagrammet **horisontalt og mere lineært**, så processen læses fra venstre mod højre. Det var også noget Mathias efterspurgte i brugertesten, hvor han oplevede det oprindelige diagram som overvældende, især da man ikke kunne overskue det i ét browser vindue, fordi det var så langt. For at udnytte 'dead space' på siden har jeg lavet mit forslag horisontalt. 
 
-**En note om formater**: Det er mit indtryk, at formuleringerne i tekstboksene til dels er skyld i manglende overblik i diagrammet, men det virker også til, at selve Mermaids-diagram struktur er med til at spænde ben. Jeg har derfor tegnet mit diagram i Figma, men downloadet det som en SVG-fil, så den kan lægges ind i .md-filer og trods man giver afkald på versionsstyringen i Git som Mermaid tilbyder, vil SVG-filen kunne hentes ned og nemt redigeres i fx. Figma og lægges op igen uden at miste kvaliteten, som hvis det havde været et PNG.
+**En note om formater**: Det er mit indtryk, at formuleringerne i tekstboksene til dels er skyld i manglende overblik i diagrammet, men det virker også til, at selve Mermaids-diagram struktur er med til at spænde ben. Jeg har derfor tegnet mit diagram i Figma, men downloadet det som en SVG-fil, så den kan lægges ind i .md-filer og trods man giver afkald på versionsstyringen i Git som Mermaid tilbyder, vil SVG-filen kunne hentes ned og nemt redigeres i fx. Figma og lægges op igen uden at miste kvaliteten, som hvis det havde været fx et PNG.
 
 **Nuværende proces-diagram**
 

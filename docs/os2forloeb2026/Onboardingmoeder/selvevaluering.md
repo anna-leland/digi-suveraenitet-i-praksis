@@ -15,7 +15,7 @@ Beskrevet herinde: https://audit.os2.eu/docs/vurderingsgrundlag/processen.html
     - Ryger indigennem et rul fra 'selv-evaluering' -> 'governance rapport' -> som sekretariatet vurderer og bliver til en 'governance evaluering(-rapport)'
 
 - Hvordan er den blevet meldt ud, hvordan er den modtaget?
-tidslinje: marts/april 2026 første besked, deadline 30. juli
+tidslinje: 11 maj 2026 første besked, deadline 30. juli
     - måske med lidt blandede følelser virker det som om? 
     - lidt uoverskueligt og som 'endnu' en opgave i de frivillige styregruppe+koordinationsgruppe og de pressede produktionkoordinatore/forvaltede som har meget at se til 
 
@@ -26,7 +26,7 @@ tidslinje: marts/april 2026 første besked, deadline 30. juli
 - Hvornår skal den præsenteres for bestyrelsen?
     - -ii-
 - Hvad skal frekvensen være for selvevalueringer fremadrettet? (årligt?)
-    - yes, årligt
+    - yes, årligt - men der står halvårligt på hjemmesiden?
 - Hvad fungerer og hvad fungerer ikke?
     - stort spørgsmål, - meget fungerer, og en del gør ikke. Der er givet feedback på de punkter som udfylderne ikke har kunne svare på, som Rasmus har lagt ind som 'issues' i github for at dokumentere hvad der halter pt 
 - Hvordan ser du potentialet for automatisering af udfyldning af formularen?

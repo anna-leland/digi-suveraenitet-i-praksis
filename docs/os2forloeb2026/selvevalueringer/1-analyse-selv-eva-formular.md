@@ -7,7 +7,7 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 # 1. **Analyse af selvevalueringsformularen:**
 
-~ Intro som kort ridser hvad, hvordan, hvilke fund og ændringsforslag ~
+~ Intro som kort ridser hvad, hvordan, hvilke fund og ændringsforslag  + se noterne i bunden og lad 'data-drevetø indgå ~
 
 ## **HVAD UNDERSØGES:**
 Denne del-rapport omhandler hvordan governance selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde, kan forbedres.
