@@ -14,9 +14,9 @@ Analysen ser derfor på kommunikationen af processen omkring selvevalueringen, i
 
 ### Hvordan?
 
-Analysen bygger på interviews, dokumentanalyse af emailen, walkthrough, brugertest af audit.os2.eu. Interviewanalysen tager især udgangspunkt i 3 temaer, der åbenbarede sig i empirien: \
-- "Tvetydighed om selvevaluerings årshjul"\
-- "Ikke orienteret om at selvevaluering skal ligge åbent"\
+Analysen bygger på interviews, dokumentanalyse af emailen, walkthrough, brugertest af audit.os2.eu. Interviewanalysen tager især udgangspunkt i 3 temaer, der åbenbarede sig i empirien:
+- "Tvetydighed om selvevaluerings årshjul"
+- "Ikke orienteret om at selvevaluering skal ligge åbent"
 - og "Syn på niv-sætning & vurdering - endelig eller ikke?"
 
 Teori-wise, bruges Hall som blik på forskellen mellem det, OS2 forsøger at kommunikere (encoding), og det produktforvalterne faktisk forstår (decoding). McLuhans begreb om "medium is the message" bruges til at skelne mellem medier og hvad email, hjemmeside og diagram hver især bør bruges til.
@@ -39,19 +39,25 @@ Det bør derfor stå tydeligt allerede inden udfyldelsen, hvilken status dokumen
 
 ### 3. Ingen ved, hvornår vurderingen er endelig
 
-Temaet her viser især et behov for at kunne reagere på sekretariatets vurdering. Manglende tid eller frist til at justere efter vurderingen optræder særligt i et interview, mens ønsket om at kunne rette inden offentliggørelse optræder på tværs af flere interviews. Selvevalueringen opfattes og beskrives flere gange som et arbejdsredskab af alle produktforvalterne, med en forventning om, at bør kunne ændres undervejs - men alle er i tvivl om hvornår og I hvilket stadige, at rapporten offentliggøres for bestyrelsen og lægges op offentligt. 
+Temaet her viser især et behov for at kunne reagere på sekretariatets vurdering. Manglende tid eller frist til at justere efter vurderingen optræder særligt i et interview, mens ønsket om at kunne rette inden offentliggørelse optræder på tværs af flere interviews. Selvevalueringen opfattes og beskrives flere gange som et arbejdsredskab af alle produktforvalterne, med en forventning om, at den bør kunne ændres undervejs - men alle er i tvivl om hvornår og i hvilket stadie rapporten fremlægges for bestyrelsen og lægges op offentligt.
+
+Det eneste interviewede produkt, der på nuværende tidspunkt har modtaget sekretariatets tilbagemelding, var også i tvivl om, hvilken status den havde. De tog efterfølgende dialogen med sekretariatet, blandt andet fordi tilbagemeldingen blev oplevet som mere resolut, end de havde forventet. Det understreger, at der mangler et tydeligt skel mellem den første feedback, dialogen med produktet og den endelige vurdering.
 
 Det centrale er derfor at gøre rækkefølgen tydelig:
 
-**aflevering → feedback → mulighed for rettelser → endelig vurdering → offentliggørelse**
+aflevering → feedback → mulighed for rettelser → endelig vurdering → offentliggørelse
 
-Det skal være klart, hvornår noget stadig er til dialog, og hvornår processen er afsluttet. I Mathias' brugertest af audit.os2.eu blev han stillet til opgave at opnå forståelse for processen. Hans 
+Det bør også afspejles i begreberne. Den første tilbagemelding kan fx omtales som feedback eller foreløbig vurdering, mens endelig vurdering først bruges, når dialogen og muligheden for rettelser er afsluttet. Det skal være klart, hvornår noget stadig er til dialog, og hvornår processen er afsluttet.\
+I Mathias' brugertest af audit.os2.eu måtte han regne næste skridt ud, ved at selv stykke rækkefølgen sammen og gætte på, hvornår noget blev offentligt. Det peger på, at processen godt kan være beskrevet uden nødvendigvis at være tydelig for en produktforvalter, der møder den første gang.
 
 ### Samlet set
 
 På tværs af de tre temaer er problemet det samme: OS2 kommunikerer en proces, men produktforvalterne afkoder ikke nødvendigvis processen på samme måde. Der er altså forskel mellem den tilsigtede kommunikation og den forståelse, modtageren ender med.
 
-Det betyder ikke, at hele processen skal forklares endnu i dybden i både orienteringsemailen, på alle hjemmesides undersider og i proces-diagrammet. Det betyder, at hvert medie har en form, der former hvor høj grad af processen de hver især de kan kommunikere på en meningsfuld og tilgængelig måde. Ifølge McLuhans "medium is the message" teori, har en læser forskellige forventninger til hvor meget og hvilken slags information de kan indtage fra hhv. en email, hjemmeside og et diagram. Kunsten er at skabe god sammenhæng imellem de tre, der understøtter den samme forståelse af forløbet, på hver sin måde.
+Det gælder også selve betegnelserne undervejs. Hvis feedback, evaluering og vurdering bruges om forskellige stadier uden et tydeligt skel, bliver det sværere at forstå, hvornår noget er til dialog, og hvornår det er endeligt.
+
+Det betyder ikke, at hele processen skal forklares endnu i dybden i både orienteringsemailen, på alle hjemmesidens undersider og i procesdiagrammet. Det betyder, at hvert medie har en form, der former hvor høj grad af processen de hver især kan kommunikere på en meningsfuld og tilgængelig måde. Ifølge McLuhans "medium is the message" teori, har en læser forskellige forventninger til hvor meget og hvilken slags information de kan indtage fra hhv. en email, hjemmeside og et diagram. Kunsten er at skabe god sammenhæng imellem de tre, der understøtter den samme forståelse af forløbet, på hver sin måde.
+
 
 # Ændringsforslag: Bedre kommunikation på tværs
 Mit forslag er, at emailen sætter processen i gang, hjemmesiden forklarer den i dybden og diagrammet giver overblikket: 
@@ -72,6 +78,8 @@ Det gennemgående problem, der blev afdækket i analysen omkring hjemmesiden, va
 ### Procesdiagrammet skal give overblik
 
 Diagrammets vigtigste opgave bør være at gøre forløbet overskueligt fra start til slut. Det skal derfor ikke indeholde alle detaljer; de bliver uddybet på hjemmesidens undersider. Diagrammet skal tydeligt vise rækkefølge, ansvar og overgangen fra internt arbejdsforløb til endelig offentlig vurdering.
+
+Diagrammet bør derfor også vise feedback og dialog som et tydeligt stadie før den endelige vurdering, så sekretariatets første tilbagemelding ikke kommer til at fremstå som processens endelige resultat.
 
 På baggrund af interviewempiri, brugertesten med Mathias (som aldrig havde set diagrammet før) og min egen walkthrough-analyse har jeg lavet et forslag til et ny version af procesdiagrammet, hvor processen forhåbentligt kommunikeres tydeligere. 
 

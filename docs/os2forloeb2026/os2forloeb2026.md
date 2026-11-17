@@ -122,20 +122,6 @@ Interviewene bruges både til at belyse konkrete problemer i selve formularen og
 
 ---
 
-## Interviewoverblik
-| Har udfyldt selvevalueringen: | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Produkt/projekt titel** | **Produkt/projekt** | **Dato** | **Fysisk/online** | **Person** | **Rolle** |
-| OS2aiheatcontrol | projekt | 28/8 | online | Jakob Thøtt Nørby | ekstern projektleder |
-| OS2fleetoptimizer | produkt | 28/9 | online | Sofie Buhl | produktkoordinator |
-| OS2rollekatalog | produkt | 6/10 | fysisk | Mette Valbjørn | produktkoordinator |
-| OS2iot & OS2valghalla | produkter | 2/10 | fysisk | Lisbeth W Lorentzen | produktkoordinator |
-| | | | | | |
-| **Har endnu ikke udfyldt selvevalueringen:** | | | | | |
-| OS2sofd | produkt | 20/10 | online | Erling Haunstrup Poulsen | koordinator |
-| OS2ai | projekt | 23/10 | fysisk | Mathias Schütte | product owner |
-
-
 
 ## Interviewoverblik
 

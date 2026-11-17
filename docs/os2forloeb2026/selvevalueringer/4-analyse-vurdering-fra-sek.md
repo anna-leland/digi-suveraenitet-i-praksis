@@ -4,12 +4,71 @@ nav_order: 8
 parent: Specialeforberedende forløb hos OS2 2026
 ---
 
+# Del-analyse 4: Semiotik i selvevaluering og feedback
 
-4. **Vurderings-formular analyse:**
-    - undersøg sekretariatets 'vurderings'-skabelon og lav et udspil til en forbedret version - fx skal der tilføjes to kolonner og slettes en (slet rød/gul/grøn i midten og tilføj yderst til højre: vurdering og anbefaling) 
-- i tvivl hvor meget jeg skal gøre her… fordi R allerede er gået igang med vurderingsformularen.  -> træk input ind fra M interview om hvordan det var at modtage vurderingen.
-- interview input: hvordan de bedst vil forstå/har forstået evalueringen fra sekretariatet (analyse 4)) (mest M)
-- 
+### Hvad undersøges og hovedfund
+
+De første tre analyser har set på selve formularen, audit.os2.eu og kommunikationen af processen. Denne sidste analyse ser på, hvordan selvevalueringen og sekretariatets feedback kommunikeres gennem ord, farver og symboler.
+
+Hovedfundet er, at symbolerne giver et hurtigt overblik, men samtidig kan få processen til at fremstå mere binær og karaktergivende, end den er tænkt. Hvis selvevalueringen skal fungere som dokumentation, øjebliksbillede og arbejdsredskab, bør feedbacken i højere grad signalere, at der er noget, produktet kan arbejde videre med.
+
+### Hvordan?
+
+Analysen bygger især på interviewtemaerne **“Reframing af negativ kommunikation”** og **“Syn på niveausætning og vurdering”** samt en gennemgang af de markeringer, der bruges i selvevalueringen og sekretariatets skabelon til feedback.
+
+Jeg bruger teori om semiotik til at se på, hvad tegn kommunikerer ud over deres bogstavelige betydning. Hos Lacey (2009) er skellet mellem denotation og konnotation relevant: et tegn har både en umiddelbar betydning og de associationer, der følger med det. Shariat & Saucier (2017) peger samtidig på, at ordvalg og informationshierarki påvirker, hvordan et interface bliver oplevet og forstået.
+
+## Fund
+
+### 1. Symbolerne giver overblik, men kommunikationen bliver meget binær
+
+Når produktet udfylder selvevalueringen, bliver hvert krav markeret med:
+
+**✅ opfyldt · ❌ ikke opfyldt · ➖ ikke relevant · ❓ tvivl om hvordan kriteriet evalueres**
+
+Når sekretariatet efterfølgende giver feedback, skifter tegnsystemet til trafiklys:
+
+**🟢 opfyldt · 🟡 delvist opfyldt · 🔴 ikke opfyldt og behov for handling**
+
+Begge systemer gør det hurtigt at orientere sig. Til gengæld har især ❌ og 🔴 stærke konnotationer til fejl, stop eller bestået/dumpet. Det harmonerer dårligt med det billede, der går igen i interviewene, hvor selvevalueringen i højere grad beskrives som et øjebliksbillede og noget, produktet skal kunne arbejde videre med.
+
+### 2. Kombinationen af symbol og skarp formulering gør feedbacken hårdere
+
+Problemet er ikke nødvendigvis trafiklysene alene, men kombinationen af farve, symbol og formulering. Det går også igen i interviewene, hvor flere efterspørger, at vurderingen i højere grad kommunikeres som et øjebliksbillede frem for en endelig dom. Røde markeringer bliver flere gange beskrevet som hårde eller negative, samtidig med at produktforvalterne stadig ønsker en ærlig tilbagemelding.
+
+Eksempelvis er formuleringen:
+
+**“Kravet er ikke opfyldt, og der er behov for handling”**
+
+meget resolut i sit udtryk. Jeg ville i stedet formulere den røde kategori i retning af:
+
+**“Kravet er på nuværende tidspunkt ikke opfyldt og kræver en større indsats.”**
+
+Det ændrer ikke sekretariatets vurdering, men ændrer narrativet fra en endelig konstatering til en status, produktet kan arbejde videre med. En mindre skarp formulering ved siden af trafiklyset – eller i stedet for – kan derfor gøre feedbacken mindre karaktergivende, uden at den bliver mindre tydelig.
 
 
-Midas studier om spørgeskemaer + semiotik fra Interface analyse
+### 3. Feedback, der fremhæver anbefalinger over trafiklys-status 
+
+I skabelonen [assement_template](https://github.com/OS2offdig/governance_report_template/blob/main/assessment_template.md) findes der udover de oprindelige kolonner fra selvevalueringen to ekstra kolonner: "vurdering" (i form af 🟢 / 🟡 / 🔴) og en kolonne kaldt "vurderingsgrundlag". 
+En trafiklysmarkering fortæller først og fremmest status, men ikke nødvendigvis hvorfor vurderingen ser sådan ud, eller hvad produktet kan gøre ved det. 
+
+Det står i kontrast til det dialogværktøj, som det virker til sekretariatet fortæller at selvevalueringen skal være. Desuden fremgår det i interviews, at produktkoordinatorne sætter pris på at få af vide, hvad der manglede, men mest af alt input til, hvad de kunne overveje at gøre fremadrettet. Selvevalueringen kan netop blive en åbenbaring for produkter, som måske uden at vide det, ikke har levet op til forventningerne - eller måske har de, men dokumentationen af det er ikke helt på plads. 
+
+Jeg kan se, i den ene evaluering/feedback som sekretariatet indtil videre har lavet, at der er blevet tilføjet endnu en kolonne kaldt "anbefaling". Det synes jeg fungerer rigtig godt, så produkterne både får indsigt i:
+**Vurderingsgrundlag** – hvorfor sekretariatet vurderer kravet sådan\
+**Anbefaling** – hvad produktet konkret kan arbejde videre med
+Og dermed er farverne faktisk ikke så vigtige. 
+
+## Anbefalinger
+
+Jeg foreslår at beholde muligheden for et hurtigt visuelt overblik, men nedtone den karaktergivende framing omkring symbolerne.
+
+Det kan blandt andet gøres ved at:
+
+* lade den skriftlige forklaring fylde mere end trafiklys-ikonerne og bruge symbolerne som støtte til overblik frem for som det primære budskab
+
+* bruge formuleringer som **“på nuværende tidspunkt ikke opfyldt”** eller **“endnu ikke opfyldt”** frem for blot “ikke opfyldt”
+
+* forsætte med felterne **vurderingsgrundlag** og **anbefaling** (som set i den ene vurdering der er lavet)
+
+På den måde kan feedbacken stadig være tydelig og ærlig, uden at den kommer til at ligne karakterer eller bestået/dumpet. På den både passer evalueringsprocessen bedre til ideen om et arbejds- og dialogværktøj.
