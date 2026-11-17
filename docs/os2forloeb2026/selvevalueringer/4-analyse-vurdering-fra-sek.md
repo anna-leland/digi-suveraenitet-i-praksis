@@ -18,6 +18,11 @@ Analysen bygger især på interviewtemaerne **“Reframing af negativ kommunikat
 
 Jeg bruger teori om semiotik til at se på, hvad tegn kommunikerer ud over deres bogstavelige betydning. Hos Lacey (2009) er skellet mellem denotation og konnotation relevant: et tegn har både en umiddelbar betydning og de associationer, der følger med det. Shariat & Saucier (2017) peger samtidig på, at ordvalg og informationshierarki påvirker, hvordan et interface bliver oplevet og forstået.
 
+Referencer:\
+Lacey, N. (2009). _Image and representation: Key concepts in media studies_ (2nd ed.). Palgrave Macmillan.
+
+Shariat, J., & Saucier, C. S. (2017). _Tragic design: The impact of bad product design and how to fix it_. O’Reilly Media. 
+
 ## Fund
 
 ### 1. Symbolerne giver overblik, men kommunikationen bliver meget binær
@@ -45,6 +50,7 @@ meget resolut i sit udtryk. Jeg ville i stedet formulere den røde kategori i re
 **“Kravet er på nuværende tidspunkt ikke opfyldt og kræver en større indsats.”**
 
 Det ændrer ikke sekretariatets vurdering, men ændrer narrativet fra en endelig konstatering til en status, produktet kan arbejde videre med. En mindre skarp formulering ved siden af trafiklyset – eller i stedet for – kan derfor gøre feedbacken mindre karaktergivende, uden at den bliver mindre tydelig.
+Omformuleringen ville også understøtte, at det ikke er hensigten at alle krav opfyldes i alle projekter og produkter. Det fremgik i interviews med produktkoordinatorerne, at flere af produkterne ikke havde aspirationer mod at stige i niveau - hvorfor man fx markerede nogle krav som "irrelevante". Samtidig andre gik og tog tilløb til på et tidspunkt at stige, og brugte selvevalueringen som en anledning til at se, hvor de skulle forbedre sig, for at tage næste skridt. Derfor ville det være fint i formuleringen at give plads til, at begge dele er okay; hvilket igen understøtter, at selvevalueringen (og feedbacken man får) er en dokumentationen af, hvor produktet ligger pt og så kan man få en anbefaling til, hvis man vil forbedre et punkt - eller lade være.
 
 
 ### 3. Feedback, der fremhæver anbefalinger over trafiklys-status 
@@ -67,7 +73,7 @@ Det kan blandt andet gøres ved at:
 
 * lade den skriftlige forklaring fylde mere end trafiklys-ikonerne og bruge symbolerne som støtte til overblik frem for som det primære budskab
 
-* bruge formuleringer som **“på nuværende tidspunkt ikke opfyldt”** eller **“endnu ikke opfyldt”** frem for blot “ikke opfyldt”
+* bruge formuleringer som **“på nuværende tidspunkt ikke opfyldt”** frem for blot “ikke opfyldt”
 
 * forsætte med felterne **vurderingsgrundlag** og **anbefaling** (som set i den ene vurdering der er lavet)
 

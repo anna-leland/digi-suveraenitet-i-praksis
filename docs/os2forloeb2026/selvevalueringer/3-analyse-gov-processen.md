@@ -21,6 +21,9 @@ Analysen bygger på interviews, dokumentanalyse af emailen, walkthrough, brugert
 
 Teori-wise, bruges Hall som blik på forskellen mellem det, OS2 forsøger at kommunikere (encoding), og det produktforvalterne faktisk forstår (decoding). McLuhans begreb om "medium is the message" bruges til at skelne mellem medier og hvad email, hjemmeside og diagram hver især bør bruges til.
 
+Referencer:\
+
+
 ## Hovedfund
 
 ### 1. Årshjulet bliver ikke forstået ens

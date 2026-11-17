@@ -27,7 +27,7 @@ For en detaljeret gennemgang af, hvordan sitet opleves af en produktforvalter, h
 **Affordances som analytisk linse (Davis, 2020).**\
 Som analytisk blik på brugerfladen inddrager jeg Davis’ affordancebegreb. Frem for blot at spørge, _hvad_ en teknologi muliggør, foreslår Davis at undersøge, _hvordan_ den guider, muliggør eller begrænser bestemte handlinger. I analysen har jeg især brugt begreberne **perception** og **dexterity** som linse: om brugeren kan gennemskue, hvilke funktioner og handlemuligheder sitet tilbyder, og om brugeren har de nødvendige kompetencer til at benytte dem. Dermed bliver det relevant at undersøge, hvordan audit.os2.eu fungerer for produktforvaltere med forskellige grader af teknisk erfaring. Fra de 6 interviews har jeg netop spurgt produktforvalterne til deres kendskab til sitet og hvordan det opleves at navigere der; interviewempirien indgår som baggrund for, hvordan jeg forestiller mig sitet opleves.
 
-Referencer: 
+Referencer:\
 Light, B., Burgess, J., & Duguay, S. (2018). The walkthrough method: An approach to the study of apps. _New Media & Society, 20_(3), 881–900. https://doi.org/10.1177/1461444816675438
 
 Hertzum, M. (2020). _Usability testing: A practitioner's guide to evaluating the user experience_. Morgan & Claypool. https://doi.org/10.1007/978-3-031-02227-2

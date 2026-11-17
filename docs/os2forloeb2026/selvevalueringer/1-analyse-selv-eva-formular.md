@@ -32,7 +32,7 @@ Jeg har analyseret rapporterne ud fra følgende koder, der er udledt af mine dat
 | K5 Problem med relevans/kravniveau | Kravet virker ikke relevant for alle, er for bredt/smalt eller barren kan være sat uhensigtsmæssigt i forhold til produkttype/modenhed. |
 | K6 Overlap/redundans | Kravet overlapper med andre spørgsmål eller får respondenten til at gentage samme oplysninger flere steder. |
 
-**Reference:**\
+Reference:\
 Krosnick, J. A., & Presser, S. (2010). Question and questionnaire design. In P. V. Marsden & J. D. Wright (Eds.), _Handbook of survey research_ (2nd ed., pp. 263–313). Emerald Group Publishing.
 
 ## **MINE FUND - OG HVAD JEG FORESLÅR ÆNDRES:**
