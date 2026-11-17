@@ -62,7 +62,7 @@ Målet er, at selvevalueringen ikke alene opleves som et kontrolkrav, men funger
 
 Analyse af de **43 krav og tilhørende vejledninger** med fokus på, hvor formularen skaber uklarhed, fortolkningsvariation eller uhensigtsmæssige svar.
 
-Analysen munder ud i forslag til blandt andet tydeligere formuleringer, bedre vejledninger, udybede dokumentationskrav og (==evt) svarformater.==
+Analysen munder ud i forslag til tydeligere formuleringer i vejledninger og hvordan dokumentationskravene kan uddybes.
 
 **[Læs analysen →](./selvevalueringer/1-analyse-selv-eva-formular.md)**
 
@@ -89,11 +89,11 @@ Fokus er på, hvor processen skaber uklarhed, og hvordan den bedre kan understø
 
 ---
 
-## 4. Vurderingsformularen
+## 4. Semiotik i selvevaluering og feedback
 
-Analyse af sekretariatets skabelon til vurdering af de indkomne selvevalueringer.
+Semiotisk analyse af, hvordan selvevalueringen og sekretariatets feedback kommunikeres gennem symboler, farver og formuleringer.
 
-Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles mere klart, herunder hvordan der bedst kommunikeres så produktkoordinatorerne kan forstå sekretariatets vurdering og anbefalinger.
+Formålet er at undersøge, hvordan vurderingerne kan formidles tydeligt uden at fremstå som karaktergivning eller en endelig dom. Analysen fokuserer på, hvordan feedbacken i højere grad kan understøtte selvevalueringen som et arbejds- og dialogværktøj med konkrete anbefalinger til forbedringer.
 
 **[Læs analysen →](./selvevalueringer/4-analyse-vurdering-fra-sek.md)**
 
@@ -101,22 +101,29 @@ Formålet er at undersøge, hvordan vurderingen kan struktureres og formidles me
 
 # Metoder, teori og datagrundlag
 
-Analyserne bygger på flere typer empiri og analytiske gennemgange og relevant teori fra Informationsvidenskab.
+Analyserne bygger på forskellige typer empiri, kvalitative undersøgelsesmetoder og relevant teori fra informationsvidenskab.
 
-## Dokumentanalyse
+## Datagrundlag og metoder
 
-- af de første 7 selvevalueringer, der var afleveret 1. september 2026
-- af emailen, der orienterede OS2s produktforvaltere og styregrupper om selvevalueringerne tilbage 11. maj 2026
-- 
+### Dokumentanalyse
 
-## Walkthroughs
+* De første syv selvevalueringer, der var afleveret pr. 1. september 2026.
 
-- eget walkthrough af selvevalueringsformularen
-- UI-walkthrough af audit.os2.eu
+* Emailen af 11. maj 2026, der orienterede OS2's produktforvaltere og styregrupper om selvevalueringerne.
 
-## Interviews
+* Sekretariatets skabelon til vurdering af selvevalueringerne samt den første gennemførte vurdering/evaluering.
 
-Jeg gennemfører kvalitative interviews med forskellige profiler omkring OS2-produkterne, herunder produktkoordinatorer og projektledere på både nyere og ældre produkter; nogle der allerede har udfyldt selvevalueringen, og andre som fortsat er i proces.
+### Walkthroughs og brugertest
+
+* Eget walkthrough af selvevalueringsformularen.
+
+* UI-walkthrough af audit.os2.eu.
+
+* Brugertest af audit.os2.eu.
+
+### Kvalitative interviews
+
+Jeg gennemfører kvalitative interviews med forskellige profiler omkring OS2-produkterne, herunder produktkoordinatorer og projektledere på både nyere og ældre produkter; nogle, der allerede har udfyldt selvevalueringen, og andre, som fortsat er i proces.
 
 Interviewene bruges både til at belyse konkrete problemer i selve formularen og bredere erfaringer med evalueringsprocessen, vurderingen fra sekretariatet og governancearbejdet omkring produkterne.
 
@@ -138,10 +145,43 @@ Interviewene bruges både til at belyse konkrete problemer i selve formularen og
 
 
 
- ## Teori fra Informationsvidenskab 
+## Teoretisk og metodisk grundlag
+
+Analyserne trækker på følgende faglige perspektiver fra Informationsvidenskab:
+
+* **Spørgeskemadesign og respondentadfærd** – Krosnick & Presser (2010).
+
+* **Brugeroplevelse, interaktionsdesign og affordances** – Davis (2020).
+
+* **Kommunikations- og medieteori** – Hall (1993) og McLuhan (1964).
+
+* **Semiotik og interfacekommunikation** – Lacey (2009) og Shariat & Saucier (2017).
+
+* **Kvalitative interviews og kodning** – Tracy (2019).
+
+* **Walkthrough og brugertest** – Light et al. (2018) og Hertzum (2020).
 
 
- 
+## Litteraturliste
+
+Davis, J. L. (2020). _How artifacts afford: The power and politics of everyday things_. MIT Press. <https://doi.org/10.7551/mitpress/11967.001.0001>
+
+Hall, S. (1993). Encoding, decoding. In S. During (Ed.), _The cultural studies reader_ (pp. 507–517). Routledge.
+
+Hertzum, M. (2020). _Usability testing: A practitioner's guide to evaluating the user experience_. Morgan & Claypool. <https://doi.org/10.2200/S00987ED1V01Y202001HCI045>
+
+Krosnick, J. A., & Presser, S. (2010). Question and questionnaire design. In P. V. Marsden & J. D. Wright (Eds.), _Handbook of survey research_ (2nd ed., pp. 263–313). Emerald Group Publishing.
+
+Lacey, N. (2009). _Image and representation: Key concepts in media studies_ (2nd ed.). Palgrave Macmillan.
+
+Light, B., Burgess, J., & Duguay, S. (2018). The walkthrough method: An approach to the study of apps. _New Media & Society, 20_(3), 881–900. <https://doi.org/10.1177/1461444816675438>
+
+McLuhan, M. (1964). _Understanding media: The extensions of man_. McGraw-Hill. (Kapitel 1: The medium is the message).
+
+Shariat, J., & Saucier, C. S. (2017). _Tragic design: The impact of bad product design and how to fix it_. O'Reilly Media.
+
+Tracy, S. J. (2019). _Qualitative research methods: Collecting evidence, crafting analysis, communicating impact_ (2nd ed.). Wiley-Blackwell.
+
 
 
 
