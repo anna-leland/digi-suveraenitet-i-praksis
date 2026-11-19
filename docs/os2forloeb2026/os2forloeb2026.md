@@ -12,47 +12,39 @@ has_toc: true
 
 Mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for alle i fællesskabet. Det gælder produktkoordinatorer, styregrupper, koordinationsgrupper, sekretariatet, bestyrelsen, leverandører og anvendere.
 
-Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med konkrete forslag til forbedringer.
+Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med konkrete forslag til forbedringer af forløbet.
 
 ---
 
 ## Baggrund
 
-OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. Trods OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016 har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra polistisk hold stilles der nu større krav til, at governance omkring produkterne i OS2 er dokumenteret.
+**Historisk kontekst for selvevalueringsprocessen**
 
-Derfor har OS2-sekretariatet med mandat fra bestyrelsen skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gemmengå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveav (sandkasse, niveau 1, 2 eller 3) og halvårligt opdatere rapporten som projektet/produktet udvikler sig. De enkelte vurderinger for produkter og projekter skal på sigt ligge åbent på hjemmesiden os2.eu.
+OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. Selvom OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016, har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra politisk hold, stilles der nu større krav til, at governance niveauerne i OS2s projekter og produkter er dokumenteret.
 
-
-==Betragtninger om hvordan det er blevet modtaget==
-
-
-- Hvordan er den blevet meldt ud, hvordan er den modtaget?
-tidslinje: 11 maj 2026 første besked, deadline 30. juli
-    - måske med lidt blandede følelser virker det som om? 
-    - lidt uoverskueligt og som 'endnu' en opgave i de frivillige styregruppe+koordinationsgruppe og de pressede produktionkoordinatore/forvaltede som har meget at se til
-    - 
-Ifølge sekretariatsleder Rasmus har processen været stejl og allerede synliggjort steder, hvor krav og vejledninger i selvevalueringsformularen har været vanskelige at forstå eller besvare. (Denne feedback dokumenteres bl.a. som issues i GitHub og kan bruges i videreudviklingen af processen.)
-
-
-==hvorfor jeg er blevet bedt om at revidere processen.==
-
-som informationsvidenskaber, der har haft fokus på organisationsetnografi i CWSW og de etnografiske metoder kommunikation og governance inden for GDPR, 
-og som speciale emne har digital suverænitet i praksis som fokus, er en gennemgang af selvevalueringsprocessen et konkret eksempel på hvordan governance bliver udøvet i praksis 
-
-Hvordan jeg skaber mest værdi:
-- Kom med forslag til en reframing af audit-processen:
-    - analysere og komme med bud til hvordan selve formularen kan forberes, men også dokumentationen af 'just the docs' sitet, og på sigt også udpegning af automatiseringer 
-- Gør processen det mere operationaliserbar
-    - kig på skitseringen af processen (diagram i vurderingsgrundlag) -> gør dokumentationen her tydligere, så der var mindre fortolkning 
-Gør den manuelle udfyldning af formulering mere effektiv med en analysegennemgang af selvevalueringen
-- gøre 'krav' og 'retningslinjernene' tydligere beskrevet, bedre vejledninger -  kom med eksempler
-- understøt med data der siger at noget skal ændres, omformuleringer, tages ud, tilføjes -> munde ud i et forslag til en modernisering , og i fremtiden at den har: 
-    - højere automatisering (først formuleres menneskeligt og kodes)
-    - nem og hurtigt at udfylde
-    - skal være tydeligt hvad og hvorfor 
-
+Derfor har OS2-sekretariatet med mandat fra bestyrelsen skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gennemgå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveau (sandkasse, niveau 1, 2 eller 3) og halvårligt opdatere rapporten som projektet/produktet udvikler sig. De enkelte vurderinger for produkter og projekter skal på sigt ligge åbent på hjemmesiden os2.eu.
 
 Målet er, at selvevalueringen ikke alene opleves som et kontrolkrav, men fungerer som et **løbende styrings- og dialogværktøj**, der skaber værdi for alle aktører i OS2-fællesskabet; særligt produktkoordinatorer og sekretariatet. 
+
+**Modtagelsen i produktfællesskaberne - en hård fødsel**
+
+Forløbet blev meldt ud via email 11. maj 2026 og havde frist 30. juli. 
+Konceptet om selvevalueringer blevet modtaget med blandede følelser i produktfællesskaberne, og opleves uoverskueligt for flere og som 'endnu' en opgave i de frivillige styre- og koordinationsgrupper, men særligt for de (i forvejen travle) produktforvaltere, som ender med at skulle koordinere og udfylde selvevalueringen, trods ansvaret for dets indhold ligger hos styregruppen. Over ⅔ af produkterne har bedt om forlængelse af deres frist.
+Ifølge sekretariatsleder Rasmus, har processen indtil videre været stejl og der er allerede synliggjort flere steder, hvor krav og vejledninger i selvevalueringsformularen har været vanskelige at forstå eller besvare. Denne feedback dokumenteres bl.a. som [issues i GitHub](https://github.com/OS2offdig/governance_report_template/issues) og skal bruges i videreudviklingen af processen.
+
+**Min faglige rolle i forløbet**
+
+Netop på grund af den svære modtagelse og de friktioner, som har vist sig i forløbet, er jeg som kandidatstuderende på
+informationsvidenskab, blevet hevet ind i for at analysere og forhåbentlig forbedre processen. 
+I mine studier har jeg haft fokus på organisationsetnografi, interfacedesign, kommunikation samt dokumentation af governance inden for GDPR, som jeg vil springe i spil i dette analysearbejde.
+Eftersom mit forestående specialesamarbejde med OS2 har "digital suverænitet i praksis" som fokus, er en gennemgang af OS2s selvevalueringsproces tilmed et konkret eksempel hvori jeg kan blive klogere på hvordan efterlevelse af governance bliver udøvet i praksis.
+
+**Ønsket om, hvordan analysen kan skabe værdi:**
+
+Min opgave er at undersøge, **hvor i selvevalueringsprocessen problemerne konkret opstår, og hvorfor**. Det gør jeg ved at samle empiri fra interviews, selvevalueringer, email, audit.os2.eu og brugertest og bruge det som datagrundlag for analysen.
+
+På den baggrund skal jeg pege på de steder, hvor der er behov for ændringer, og komme med konkrete forslag til, hvordan formularen, kommunikationen, hjemmesiden og forløbet kan gøres tydeligere og nemmere at arbejde med.
+
 
 ---
 
@@ -123,9 +115,9 @@ Analyserne bygger på forskellige typer empiri, kvalitative undersøgelsesmetode
 
 ### Kvalitative interviews
 
-Jeg gennemfører kvalitative interviews med forskellige profiler omkring OS2-produkterne, herunder produktkoordinatorer og projektledere på både nyere og ældre produkter; nogle, der allerede har udfyldt selvevalueringen, og andre, som fortsat er i proces.
+Jeg har gennemført kvalitative interviews med forskellige profiler omkring OS2-produkterne, herunder produktkoordinatorer, product owners og projektledere på både nyere og ældre produkter; nogle, der allerede har udfyldt selvevalueringen, og andre, som fortsat er i proces.
 
-Interviewene bruges både til at belyse konkrete problemer i selve formularen og bredere erfaringer med evalueringsprocessen, vurderingen fra sekretariatet og governancearbejdet omkring produkterne.
+Empiri fra interviewene bruges i alle 4 analyser, og der spørgers i interviewguiden derfor både ind til konkrete problemer i selve formularen og bredere erfaringer med evalueringsprocessen, vurderingen fra sekretariatet og governancearbejdet omkring produkterne.
 
 ---
 
@@ -143,6 +135,84 @@ Interviewene bruges både til at belyse konkrete problemer i selve formularen og
 | OS2sofd | produkt | 20/10 | online | Erling Haunstrup Poulsen | koordinator |
 | OS2ai | projekt | 23/10 | fysisk | Mathias Schütte | product owner |
 
+
+Test af ny opsætning af tabel
+<table>
+<thead>
+<tr>
+<th>Produkt/projekt titel</th>
+<th>Produkt/projekt</th>
+<th>Dato</th>
+<th>Fysisk/online</th>
+<th>Person</th>
+<th>Rolle</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td colspan="6"><strong>Har udfyldt selv-evalueringen:</strong></td>
+</tr>
+
+<tr>
+<td>OS2aiheatcontrol</td>
+<td>projekt</td>
+<td>28/8</td>
+<td>online</td>
+<td>Jakob Thøtt Nørby</td>
+<td>ekstern projektleder</td>
+</tr>
+
+<tr>
+<td>OS2fleetoptimizer</td>
+<td>produkt</td>
+<td>28/9</td>
+<td>online</td>
+<td>Sofie Buhl</td>
+<td>produktkoordinator</td>
+</tr>
+
+<tr>
+<td>OS2rollekatalog</td>
+<td>produkt</td>
+<td>6/10</td>
+<td>fysisk</td>
+<td>Mette Valbjørn</td>
+<td>produktkoordinator</td>
+</tr>
+
+<tr>
+<td>OS2iot &amp; OS2valghalla</td>
+<td>produkter</td>
+<td>2/10</td>
+<td>fysisk</td>
+<td>Lisbeth W Lorentzen</td>
+<td>produktkoordinator</td>
+</tr>
+
+<tr>
+<td colspan="6"><strong>Har endnu ikke udfyldt selv-evalueringen:</strong></td>
+</tr>
+
+<tr>
+<td>OS2sofd</td>
+<td>produkt</td>
+<td>20/10</td>
+<td>online</td>
+<td>Erling Haunstrup Poulsen</td>
+<td>koordinator</td>
+</tr>
+
+<tr>
+<td>OS2ai</td>
+<td>projekt</td>
+<td>23/10</td>
+<td>fysisk</td>
+<td>Mathias Schütte</td>
+<td>product owner</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Teoretisk og metodisk grundlag
