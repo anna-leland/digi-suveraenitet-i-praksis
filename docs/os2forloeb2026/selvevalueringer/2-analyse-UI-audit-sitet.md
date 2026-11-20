@@ -54,11 +54,11 @@ Forsiden giver et overblik over indholdet på audit.os2.eu, men gør det ikke ty
 
 Dette viste sig også i brugertesten, hvor Mathias var forvirret på forsiden. Han efterlyste et tydeligere svar på: "Hvor skal jeg starte?"
 
-Forsidens "På denne side finder du" fungerer i praksis som en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter. Listen starter med "checklister" til selvevaluering og evaluering, selv om procesbeskrivelsen er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst de to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren. Oversigten besvarer derfor kun delvist Mathias' spørgsmål om "hvor skal jeg starte?" og gør det samtidig uklart, hvem de enkelte dele er til.
+Forsidens "På denne side finder du" fungerer i praksis som en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter. Listen starter med "checklister" til selvevaluering og evaluering, selvom procesbeskrivelsen er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst de to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren.
 
-Med Light et al.s (2018) begreb _environment of expected use_ bliver det relevant, hvilken bruger sitet synes at forudsætte. Her er den forventede bruger ikke tydelig nok.
+Med Light et al.s (2018) begreb _environment of expected use_, kan det konstateres, at den forventede bruger af sitet ikke tydelig nok.
 
-**Retning:** Gør det tydeligere, hvem sitet primært er til, og giv produktforvalteren en klar indgang til processen. Formuleringen "På denne side finder du" kan med fordel ændres til eksempelvis "På audit.os2.eu finder du" eller "Sitet indeholder", fordi linksene fører videre til undersider på sitet og ikke faktisk ligger på forsiden.
+**Retning:** Gør det tydeligere, hvem sitet primært er til, og giv produktforvalteren en klar indgang til processen. Formuleringen "På denne side finder du" kan desuden med fordel ændres til eksempelvis "På audit.os2.eu finder du" eller "Sitet indeholder", fordi linksene fører videre til undersider på sitet og ikke faktisk ligger på forsiden.
 
 ## 2. Begreberne gør det svært at forstå, hvor man er i processen
 
@@ -74,7 +74,7 @@ Derfor bør sproget på sitet tydeligere understøtte, at selvevalueringen har k
 
 En tydeligere opdeling kunne derfor være at omtale sekretariatets første tilbagemelding som **feedback**, mens **(endelig) vurdering** først bruges efter dialogen og muligheden for at rette til. Dermed bliver det lettere at se forskel på produktets selvevaluering, sekretariatets feedback og den efterfølgende vurdering.
 
-OS2 bruger allerede andre steder en "Vidste du?"-boks til at forklare forskellen på beslægtede governancebegreber (indsæt link). En lignende tilgang kunne være relevant her.
+OS2 bruger allerede en "Vidste du?"-boks til at forklare forskellen på beslægtede [governancebegreber på hjemmesiden](https://www.os2.eu/governance). En lignende tilgang kunne være relevant her.
 
 ![vidste-du-ordforklaring-eksempel](../images/vidste-du-ordforklaring-eksempel.png)
 
@@ -82,15 +82,15 @@ OS2 bruger allerede andre steder en "Vidste du?"-boks til at forklare forskellen
 
 ## 3. Navigationen er for omfattende og bygger på begreber, der allerede er svære at skelne
 
-Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder under både "Evalueringer", "Vurderingsgrundlag" og "Rapporter" i forskellige former. Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu vanskeligere at forstå, hvorfor de samme betegnelser dukker op flere steder i menuen.
+Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder under både i menuerne "Evalueringer", "Vurderingsgrundlag" og "Rapporter" i forskellige former. Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu vanskeligere at forstå, hvorfor de samme betegnelser dukker op flere steder i menuen.
 
 Det samme problem opstod i brugertesten. Da Mathias skulle finde procesbeskrivelsen uden at bruge det direkte link på forsiden, begyndte han under "Evalueringer" og måtte gætte sig frem, før han fandt "Processen" under "Vurderingsgrundlag". Sidens placering var ikke intuitiv for ham.
 
 ![nuvaerende-nav-på-audit-sitet](../images/nuvaerende-nav-på-audit-sitet.png)
 
-Forsidens egen oversigt matcher heller ikke navigationens betegnelser særlig godt. Det, der på forsiden kaldes "checkliste til selvevaluering" og "checkliste til evaluering", findes i menuen under _Vurderingsgrundlag_ som henholdsvis _Governancerapporten_ og _Evalueringsrapporten_. "Procesbeskrivelse" hedder i menuen _Processen_, mens "formular" bliver til _Selvevaluering (formular)_. De to sidste punkter beskrives på forsiden som muligheder for at generere henholdsvis en kladde til evalueringsrapporten og en governancerapport, men optræder i menuen som _Evalueringsrapport (generator)_ og _Governancerapport (generator)_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold. Og det er især svært at gøre, når man ikke kender forskellen på de forskellige begreber.
+Forsidens egen oversigt over hjemmesiden matcher heller ikke navigationsmenuen betegnelser særlig godt. Det, der på forsiden kaldes "checkliste til selvevaluering" og "checkliste til evaluering", findes i menuen under _Vurderingsgrundlag_ som henholdsvis _Governancerapporten_ og _Evalueringsrapporten_. Proces-diagrammet omtales på forsiden som "Procesbeskrivelse", men hedder i menuen _Processen_, mens "formular" bliver til _Selvevaluering (formular)_. De to sidste punkter beskrives på forsiden som muligheder for at generere henholdsvis en kladde til evalueringsrapporten og en governancerapport, men optræder i menuen som _Evalueringsrapport (generator)_ og _Governancerapport (generator)_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold. Og det er især svært at gøre, når man ikke kender forskellen på de forskellige begreber.
 
-Nogle undersider er muligvis også irrelevante at have på sitet. Der findes eksempelvis et menupunkt til selvevalueringer under "Rapporter", selv om selvevalueringen betragtes som et arbejdsdokument, som først bør offentliggøres efter sekretariatets feedback og mulighed for rettelser. Det gør det uklart, hvilken rapport en udenforstående egentlig forventes at orientere sig i.
+Nogle undersider er muligvis også irrelevante at have på sitet. Der findes eksempelvis et menupunkt til _Selvevalueringer_ under punktet _Rapporter_, hvor der tidligere har ligget selvevalueringer, men som sidenhen er blevet taget ned. Man kunne med fordel slette denne underside, og efter selvevalueringerne er blevet endeligt vurderet, kan de lægges på en underside kaldt _Vurderede governancerapporter_. Det gør tydeligt, hvilken underside en udenforstående læser egentlig forventes at kunne orientere sig i - og samtidig giver man ikke en produktforvalter det indtryk, at deres første udkast af selvevalueringen vil blive lagt op. 
 
 Overlap mellem siderne gør også strukturen sværere at forstå. Under hovedpunktet _Vurderingsgrundlag_ introduceres selve evalueringsprocessen allerede på oversiden, samtidig med at der findes en særskilt underside med navnet _Processen_, som gennemgår det samme forløb mere udførligt. Det bliver derfor uklart, hvad oversiden _Vurderingsgrundlag_ egentlig skal bruges til, og hvorfor processen først introduceres dér for derefter at få sin egen side.
 Det taler for en tydeligere arbejdsdeling mellem siderne: _Processen_ bør forklare, hvad der sker hvornår og hvem der gør hvad, mens _Vurderingsgrundlaget_ bør koncentrere sig om, hvad produktet bliver vurderet på.
@@ -99,7 +99,7 @@ Derudover findes både "Log" og "Beslutningslog", uden at forskellen mellem dere
 
 Problemet er derfor ikke kun navngivningen af enkelte sider. Selve informationsarkitekturen er blevet svær at aflæse. Nogle sider kan muligvis lægges sammen eller fjernes, mens andre bør have navne, der tydeligere viser, hvor i processen de bliver relevante.
 
-Rækkefølgen kunne også i højere grad følge produktforvalterens proces. En ny bruger har eksempelvis brug for at forstå processen og vurderingsgrundlaget, før vedkommende begynder at udfylde. Forsidens oversigt bør samtidig hænge tydeligt sammen med den struktur, brugeren møder i navigationsmenuen til venstre.
+Rækkefølgen i navigationsmenuen kunne også i højere grad følge produktforvalterens proces. En ny bruger har eksempelvis brug for at forstå processen og vurderingsgrundlaget, før vedkommende begynder at udfylde. Forsidens oversigt bør samtidig hænge tydeligt sammen med den struktur, brugeren møder i navigationsmenuen til venstre.
 
 **Retning:** Forenkle navigationen, reducér gentagelser og lad struktur og navngivning i højere grad følge brugerens vej gennem processen. Vurderingsgrundlaget og processen bør placeres, så de naturligt kommer før selve udfyldelsen, og forsidens oversigt bør afspejle den samme struktur som navigationsmenuen.
 

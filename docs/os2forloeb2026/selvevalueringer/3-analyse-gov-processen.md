@@ -22,23 +22,38 @@ Analysen bygger på interviews, dokumentanalyse af emailen, walkthrough, brugert
 Teori-wise, bruges Hall som blik på forskellen mellem det, OS2 forsøger at kommunikere (encoding), og det produktforvalterne faktisk forstår (decoding). McLuhans begreb om "medium is the message" bruges til at skelne mellem medier og hvad email, hjemmeside og diagram hver især bør bruges til.
 
 Referencer:\
+Hall, S. (1993). Encoding, decoding. In S. During (Ed.), _The cultural studies reader_ (pp. 507–517). Routledge.
+
+McLuhan, M. (1964). _Understanding media: The extensions of man_. McGraw-Hill. (Kapitel 1: The medium is the message).
+
 
 
 ## Hovedfund
 
 ### 1. Årshjulet bliver ikke forstået ens
 
-Det empiriske tema viser, at der ikke er en fælles forståelse af processen. I kodningen af interviews optræder både for korte deadlines og en opfattelse af processen som årlig på tværs af interview, selv om selvevalueringen er tænkt som en halvårlig proces (som beskrevet i orienteringsemailen og på forsiden af audit.os2.eu). Der er også stor usikkerhed om de forskellige frister og om, hvad næste skridt er efter aflevering. Kun to ud af de 6 interviewede havde besøgt audit-sitet, de var begge faret vild derinde og ingen af dem kunne overskue diagrammet.
+Interviewene viser, at der ikke er en fælles forståelse af, hvor ofte selvevalueringen skal gentages. Det er på trods af, at invitationsemailen lægger op til en proces “forår og efterår”, og forsiden på audit.os2.eu beskriver, at evalueringerne offentliggøres to gange årligt.
 
-Det peger på et ret grundlæggende kommunikationsproblem: Produktforvalterne kan godt have modtaget informationen, uden at de dermed har fået en klar mental model af forløbet. 
+Tre af de interviewede produktforvaltere var i tvivl om, hvorvidt processen skulle være årlig eller halvårlig. To var ret sikre på, at den måtte være årlig og ikke burde ske oftere, mens én mente, at den både er og bør være halvårlig, så man løbende har føling med selvevalueringen.
 
-### 2. Det er uklart, hvilken status selvevalueringen har
+Selvom hyppigheden altså allerede er beskrevet både i emailen og på hjemmesiden, er den ikke blevet tydelig nok for produktforvalterne. Om processen fremadrettet bliver årlig eller halvårlig, bør rytmen derfor meldes endnu klarere ud, fx i procesdiagrammet og i toppen af selvevalueringsformularen. Det kan samtidig kommunikeres ud i produktforvalternetværket, at selvevalueringen skal indregnes som en fast del af produktets årshjul og ikke komme som en ny overraskelse hver gang.
 
-Temaet om åbenhed viser et skel mellem generel opbakning til åbenhed og konkret viden om, hvad der bliver offentligt. Flere synes, at åbenhed passer naturligt til OS2, men det betyder ikke, at de forventer, at det de sidder og udfylder, senere bliver offentligt.
+### 2. Åbenhed er ikke kommunikeret tydeligt nok
 
-Hvor det i halvdelen af interviews var implicit, at deres selvevaluering ville blive lagt op offentligt, vidste den anden halvdel af produktforvaltere ikke vidste, at selvevalueringen var åben, og nogle nævnte, at de ville have udfyldt den anderledes med den viden. Det er vigtigt, fordi offentlighed dermed kan påvirke, hvor åbent man beskriver fx mangler eller problemer.
+Temaet om åbenhed i interviewdataen viser, at flere grundlæggende synes, at åbenhed passer naturligt til OS2, men samtidig er usikre på, hvad der konkret bliver offentliggjort og hvornår. Det betyder også, at de ikke nødvendigvis forventer, at det de sidder og udfylder, senere bliver lagt offentligt.
+
+I starten blev de første selvevalueringer, der rullede ind i sensommeren 2026 lagt offentligt op på audit.os2.eu. Nogle produktforvaltere fandt det intuitivt, og enkelte nævnte det ligefrem som hjælpsomt, fordi de kunne bruge de andre produkters besvarelser som inspiration til deres egen.
+
+Til gengæld blev den første vurdering fra sekretariatet også lagt offentligt, mens den stadig var under behandling. Det blev modtaget meget negativt af det pågældende produkt, som reagerede på, at vurderingen og en mulig nedgradering var synlig, før de havde haft mulighed for at kommentere på den eller arbejde videre med forbedringer. Efter dialog med produktet blev både vurderingen og de resterende offentliggjorte selvevalueringer taget ned igen.
+
+Det skift mellem først at lægge materialet åbent og derefter fjerne det har været med til at skabe yderligere usikkerhed om, hvad der egentlig bliver offentligt og hvornår. Den usikkerhed ser også ud til at være nået videre til produkter, som endnu ikke havde udfyldt deres selvevaluering.
+
+Det understreger behovet for fremadrettet at være meget tydelig om, hvornår i processen selvevalueringen og sekretariatets vurdering bliver offentliggjort, og hvad der stadig er internt arbejds- og dialogmateriale.
+ 
+Nogle nævnte, at de ville have udfyldt formularen anderledes, hvis de havde vidst, at den blev offentliggjort. Det kan påvirke, hvor åbent man beskriver mangler og problemer i selvevalueringen såsom info om code reviews eller sikkerhedsopsætning. 
 
 Det bør derfor stå tydeligt allerede inden udfyldelsen, hvilken status dokumentet har, og hvornår noget eventuelt går fra internt arbejdsdokument til offentligt materiale.
+
 
 ### 3. Ingen ved, hvornår vurderingen er endelig
 
@@ -55,7 +70,7 @@ I Mathias' brugertest af audit.os2.eu måtte han regne næste skridt ud, ved at 
 
 ### Samlet set
 
-På tværs af de tre temaer er problemet det samme: OS2 kommunikerer en proces, men produktforvalterne afkoder ikke nødvendigvis processen på samme måde. Der er altså forskel mellem den tilsigtede kommunikation og den forståelse, modtageren ender med.
+På tværs af de tre temaer er problemet det samme: sekretariatet kommunikerer en proces, men produktforvalterne afkoder ikke nødvendigvis processen på samme måde. Der er altså forskel mellem den tilsigtede kommunikation og den forståelse, modtageren ender med.
 
 Det gælder også selve betegnelserne undervejs. Hvis feedback, evaluering og vurdering bruges om forskellige stadier uden et tydeligt skel, bliver det sværere at forstå, hvornår noget er til dialog, og hvornår det er endeligt.
 
@@ -69,24 +84,23 @@ Mit forslag er, at emailen sætter processen i gang, hjemmesiden forklarer den i
 
 Emailen er det første møde med processen for mange produktforvaltere, og vil fremadrettet blive en reminder om "nu er det tid til evaluering - igen". Orienteringsemailen bør derfor først og fremmest fortælle, hvorfor man får den, hvad man skal gøre nu, hvornår fristen er og hvor man går hen for at læse mere.
 
-Den første orienteringsemail fra 11. maj forsøgte i højere grad at rumme hele processen og kommer derfor til at ligne en FAQ. Jeg vil i stedet bruge den som en kort indgang til processen med henvisningslinks der uddyber processen på audit.os2.eu.
+Den første orienteringsemail fra 11. maj forsøgte i højere grad at rumme hele processen og kom derfor til at ligne en FAQ. Den blev så lang, at få kunne huske hvad der stod i den. Fordi det er en email har de også svært ved at finde den frem igen. Jeg ville i stedet bruge emailen som en reminder, med en kort indgang til processen og lade den indeholde henvisningslinks, der uddyber processen ovre på audit.os2.eu.
 
 ### Hjemmesiden skal være det faste referencepunkt med en god navigation
 
 Audit.os2.eu bør være det sted, man går tilbage til, hvis man er i tvivl om frister, næste skridt, feedback eller offentliggørelse. Det betyder også, at emailen mister status som referencepunkt, men bliver en orientering, og hjemmesiden bliver en wiki.
 
 Forslagene til en tydeligere forside og simplere navigation på audit.os2.eu behandles allerede i delanalyse 2. 
-Det gennemgående problem, der blev afdækket i analysen omkring hjemmesiden, var at det som produktforvalter var svært at gennemskue hvor de skulle starte og hvilke undersider der var relevante for dem. Se uddybning af hjemmesidens udfordringer for produktforvalterne [i del-analyse 2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/2-analyse-UI-audit-sitet.html)
+Det gennemgående problem, der blev afdækket i analysen omkring hjemmesiden, var at det som produktforvalter var svært at gennemskue hvor de skulle starte og hvilke undersider der var relevante for dem. Se uddybning af produktforvalternes udfordringer med hjemmesiden [i del-analyse 2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/2-analyse-UI-audit-sitet.html)
 
 ### Procesdiagrammet skal give overblik
 
 Diagrammets vigtigste opgave bør være at gøre forløbet overskueligt fra start til slut. Det skal derfor ikke indeholde alle detaljer; de bliver uddybet på hjemmesidens undersider. Diagrammet skal tydeligt vise rækkefølge, ansvar og overgangen fra internt arbejdsforløb til endelig offentlig vurdering.
 
-Diagrammet bør derfor også vise feedback og dialog som et tydeligt stadie før den endelige vurdering, så sekretariatets første tilbagemelding ikke kommer til at fremstå som processens endelige resultat.
+På baggrund af interviewempiri, brugertesten med Mathias (som aldrig havde set diagrammet før) og min egen walkthrough-analyse, har jeg lavet et forslag til et ny version af procesdiagrammet, hvor processen forhåbentligt kommunikeres tydeligere. 
 
-På baggrund af interviewempiri, brugertesten med Mathias (som aldrig havde set diagrammet før) og min egen walkthrough-analyse har jeg lavet et forslag til et ny version af procesdiagrammet, hvor processen forhåbentligt kommunikeres tydeligere. 
-
-Det oprindelige procesdiagram giver et fint overblik over, at både styregruppe og bestyrelse indgår i processen, men flere af overgangene er svære at forstå. Styregruppen kommer først visuelt ind efter sekretariatets evaluering, selv om styregruppen og produktforvalteren allerede har ansvar for selvevalueringen fra starten. Samtidig er det uklart, hvad “dialog med sekretariatet” dækker over, og hvornår processen går fra første aflevering til feedback, rettelser og endelig vurdering.
+Det oprindelige procesdiagram giver et fint overblik over, at både styregruppe og bestyrelse indgår i processen, men flere af overgangene er svære at forstå. Styregruppen kommer først visuelt ind efter sekretariatets evaluering, selv om styregruppen og produktforvalteren allerede har ansvar for selvevalueringen fra starten. Samtidig er det uklart, hvad “dialog med sekretariatet” dækker over, og hvornår processen går fra første aflevering til feedback, rettelser og endelig vurdering.\
+Diagrammet ville have gavn af at tydeliggøre feedback og dialog som et stadie før den endelige vurdering, så sekretariatets første tilbagemelding ikke kommer til at fremstå som processens endelige resultat. 
 
 Bestyrelsessporet er også svært at aflæse. Det fremgår ikke tydeligt, hvad “generelle tiltag” betyder, eller hvad pilene mellem styregruppe- og bestyrelsessporet viser. Sekretariatet optræder samtidig flere steder i begge spor, selv om sekretariatet i praksis har sin egen rolle mellem produktet og bestyrelsen.
 
@@ -94,7 +108,7 @@ I mit forslag har jeg derfor lavet **tre tydelige spor for styregruppe, sekreta
 første aflevering → sekretariatets feedback → eventuelle rettelser → endelig vurdering.\
 Jeg har også markeret det interne arbejds- og dialogforløb særskilt fra offentliggørelsen, så det bliver tydeligt, hvornår processen går fra intern behandling til et offentligt resultat.
 
-Jeg har samtidig gjort diagrammet **horisontalt og mere lineært**, så processen læses fra venstre mod højre. Det var også noget Mathias efterspurgte i brugertesten, hvor han oplevede det oprindelige diagram som overvældende, især da man ikke kunne overskue det i ét browser vindue, fordi det var så langt. For at udnytte 'dead space' på siden har jeg lavet mit forslag horisontalt. 
+Jeg har samtidig lavet diagrammet **horisontalt og mere lineært**, så processen læses fra venstre mod højre. Det var også noget Mathias efterspurgte i brugertesten, hvor han oplevede det oprindelige diagram som overvældende, især da man ikke kunne overskue det i ét browservindue, fordi det var så højt. Det nye forslag udnytter samtidig 'dead space' på siden ved at lægge diagrammet horisontalt. 
 
 **En note om formater**: Det er mit indtryk, at formuleringerne i tekstboksene til dels er skyld i manglende overblik i diagrammet, men det virker også til, at selve Mermaids-diagram struktur er med til at spænde ben. Jeg har derfor tegnet mit diagram i Figma, men downloadet det som en SVG-fil, så den kan lægges ind i .md-filer og trods man giver afkald på versionsstyringen i Git som Mermaid tilbyder, vil SVG-filen kunne hentes ned og nemt redigeres i fx. Figma og lægges op igen uden at miste kvaliteten, som hvis det havde været fx et PNG.
 
