@@ -87,6 +87,12 @@ Forsidens egen oversigt bruger samtidig andre betegnelser end navigationen. Fx b
 
 Der findes også både _Log_ og _Beslutningslog_, uden at forskellen mellem dem fremgår af navigationen.
 
+
+![Det nuværende navigationsoverblik]({{ '/docs/os2forloeb2026/images/nuvaerende-nav-på-audit-sitet.png' | relative_url }})
+
+
+
+
 ![nuvaerende-nav-på-audit-sitet](../images/nuvaerende-nav-på-audit-sitet.png)
 _Det nuværende navigationsoverblik_
 
