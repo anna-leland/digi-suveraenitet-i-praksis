@@ -9,6 +9,17 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 ~ Intro som kort ridser hvad, hvordan, hvilke fund og ændringsforslag  + se noterne i bunden og lad 'data-drevetø indgå ~
 
+
+* forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning - “skal barren sættes ned?”- R 
+  * forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ? Skal indholde:
+* Kort introduktion: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. Nævn de brugte koder i doku-analysen.
+
+-formular findings nedslag - slag-i-slag af de 22 punkter som har indikation på problemer opsætning overvejes stadig - evt hiv tabellen ind med de 22 rækkers findings Henvis til hvilke som allerede har issues på https\://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres.
+
+* interview-findings: uddybning af specifikke formularpunkter fra interviews
+
+
+
 ## **HVAD UNDERSØGES:**
 Denne del-rapport omhandler hvordan governance selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde, kan forbedres.
 
@@ -40,6 +51,9 @@ Gennem interviews, dokumentanalyser af de individuelle rapporter og en samlet en
 
 De 22 forslag nedenfor kommer med forslag til at rette konkrete formuleringer, men de vigtigste observationer fra mit materiale går på tværs af kravene. De kan forklare, hvorfor de modtagne selvevalueringer kan opleves som mindre fyldestgørende, end man havde håbet fra sekretariatets side, og peger på hvad der kan gøres ved det i et re-design af formularen.
 
+En note om automatiseringer: 
+
+
 ### **Overordnede fund i interviews og dokumentanalyser:**
 
 Ifølge Krosnick & Pressers forskning om survey design (2010, s. 265) bestemmes kvaliteten af et svar af tre forhold: hvor svær opgaven er, hvor god respondenten er til den, og hvor motiveret vedkommende er. Når en af de tre halter, begynder udfylderen at "satisfice" – altså at nøjes med svar, der er gode nok, i stedet for de mest præcise. For sekretariatet betyder det, at en del af de "tynde" svar måske ikke skyldes manglende ambition hos produktforvalterne, men at opgaven er for svær at fortolke og dokumentere – især for dem uden teknisk baggrund – og at motivationen så til gengæld falder, når formularen føles meningsløs at gå til. 
@@ -63,7 +77,7 @@ De fleste interviewpersoner indrømmer, at de ikke er klar over hvad næste skri
 ### **Derfor vil min anbefaling være:** 
 Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og for at få så fyldestgørende og dokumenterede svar som muligt.\
 Motivationen til at gøre sig umage eller at turde at være ærlig om mangler, uden at frygte for konsekvenserne, bliver også i høj grad styret af forventningen til, hvad resultatet skal bruges til.\
-Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som klader: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau – og datakvaliteten i svarerene stiger forhåbentlig.\
+Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som kladder: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau – og datakvaliteten i svarerene stiger forhåbentlig.\
 Helt konkret, bør forløbet skitseres konkret både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes. Hvordan kommunikationen om processen kan forbedres bliver også udfoldet i [del-analyse 3: Processen om goverance i OS2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
 
 
@@ -83,7 +97,7 @@ _Kodet som: K1 Fortolkningsvariation (5), K2 Manglende vejledning (1), K3 Uklart
 Ingen har formel dokumentation på accept udover få, som bruger antallet af tilslutningsaftaler som bevis på accept, men er i tvivl om det er hvad der efterspørges. Andre forstår ikke hvorfor accept fra lokal linjeledelse er afgørende. Forvirringen fremgår både i formularsvarene og i flere interviews.\
 Uddyb derfor hvorfor det er afgørende, så man kan undgå personbundne projekter, der falder til jorden (eller en anden begrundelse). Gør det også klart, at tilslutningsaftaler udgør tilstrækkelig dokumentation.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -98,7 +112,7 @@ _Kodet som: K1 Fortolkningsvariation (4), K3 Uklart dokumentationskrav (1)._
 
 Flere bekræfter, at løsningen bruges på tværs af kommuner/myndigheder, men fortæller ikke **hvordan**. Opforder derfor tydeligere til at komme med eksempler på, hvordan løsningen kan bruges på tværs af myndigheder uden væsentlig lokal tilpasning.
           
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -113,7 +127,7 @@ _Kodet som: K2 Manglende vejledning (4), K3 Uklart dokumentationskrav (1)._
 
 Der henvises i flere svar med links til strategier, men det forklares ikke, **hvordan** produkterne understøtter strategien. Bed derfor tydeligt om eksempler på, hvordan løsningen understøtter strategien. Det kan være en hjælpende hånd til især de af interviewpersonerne som nævnte, at det ikke er noget styregruppen og produktforvalterne tænker meget over til dagligt.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -130,7 +144,7 @@ Flere skriver ikke, hvad deres licens er, men bekræfter bare, at de har én, og
 Henvis derfor evt. med link til OSI's licenstjekker <https://opensource.org/licenses>.\
 Tydeliggør evt. om en henvisning til hvilken licens man bruger er nok, eller om man skal lave et review på, om koden nu også overholder den licens.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -160,12 +174,16 @@ _Ingen indikationer på formularproblem (0/7)._
 
 Nævn evt. også, at hjemmeside kan bruges som eksempel på dokumentation.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 
-### OBS - Hvor er F8 og F9?
+### OBS: Hvor er F8 og F9?
 
-Der mangler punkter F8 og F9, den springer direkte fra F7 til F10. Er dette krav man har taget ud, eller er det en fejl at 8 og 9 springes over?
+Formkravene springer direkte fra F7 til F10. I to interviews blev det nævnt, at de var i tvivl om, hvorvidt F8 og F9 var blevet slettet ved en fejl, eller om det var med vilje.
+
+På [audit-sitet](https://audit.os2.eu/docs/vurderingsgrundlag/assessments_template.html) står det i en sidebemærkning, at F8 og F9 er sammenlagt med F7.
+
+Det kan overvejes at omnummerere kravene, så der ikke er huller i rækkefølgen. Dog giver det måske bedst mening først at gøre det, hvis der på et tidspunkt skal tilføjes, fjernes eller sammenlægges flere krav, så man ikke ændrer på den nummerering, folk allerede er vant til.
 
 ***
 
@@ -299,7 +317,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4)._
 
 Nogen skriver et interval af møder ind og andre skriver bare "ja". Hvis der ønskes konkret dokumentation, skal det tydeliggøres – fjern "evt".
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -314,7 +332,7 @@ _Kodet som: K3 Uklart dokumentationskrav (3)._
 
 Nogen mangler navn på vedkommende, andre mangler arbejdsopgaver. Hvis det er vigtigt skal det nok præciseres. Desuden uklart, om man skal "Navngive" _rollen_ eller medarbejderens _navn_?
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -329,7 +347,7 @@ _Kodet som: K3 Uklart dokumentationskrav (7)._
 
 Der er tvivl om, om hvem der skal orientere bestyrelsen og hvordan sådan en dokumentation skulle se ud. Tvil om det er produktforvalteren eller sekretariatet, der står for det? Flere skriver at deres produkt har eksisteret i OS2 i mange år, og de derfor antager bestyrelsen er bekendt med produktet.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -344,7 +362,7 @@ _Kodet som: K6 Overlap/redundans (7)._
 
 Samme problemer som ovenstående krav G4. Som dokumentation gætter jeg på et referat fra et bestyrelsesmøde kunne være oplagt?
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -360,7 +378,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4)._
 Ét produkt svarer fyldestgørende ved at linke til beskrivelser af styregruppemedlemmer og opgaver via deres kommissorium. De andres beskrivelser er vague.\
 Vejledningen skal tydeliggøres, hvis man ønsker navne og konkrete opgaver beskrevet. HHenvis evt til en beskrivelse af opgaver i en styregruppe på siden ["Arbejdsgrupper"](https://www.os2.eu/arbejdsgrupper) og opfordrer evt. til at de udfylder et kommissorium for styregruppen.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -377,7 +395,7 @@ Flere af produkterne har ikke koordinationsgrupper og for andre er koordinations
 Man kunne overveje hvad har det af betydning, at der står 'anbefaling' og at den ligger på niveau 2, hvis man fra sekretariatets side gerne vil opfordre selv sandkasse projekter til at stare en koordinationsgruppe, trods det ikke er et krav.\
 Overvej, hvad der reelt ønskes af svar på dette spørgsmål. Hvis ønsket er at få indblik i 1) om der er en koordinationsgruppe og 2) hvad de laver, er det nok vigtigt at forklare hvorfor det kan være værdifuldt at skabe en koordinationsgruppe, hvad man kan opnå igennem sådan en. Og gøre det tydeligt, at det er ok hvis der er sammenfald med styregruppen, hvis det er bedre end ingenting. Henvis evt til en beskrivelse af opgaver i en koordinationsgruppe på siden ["Arbejdsgrupper"](https://www.os2.eu/arbejdsgrupper) og opfordrer evt. til at de udfylder et kommissorium for koordinationsgruppen.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -392,7 +410,7 @@ _Kodet som: K2 Manglende vejledning (3)._
 
 Flere svarer, og det fremgår i flere interviews, at en projektmodel kun tolkes som relevant, hvis man stadig er på projekt-niveau – er det tiltænkt som en arbejdsmodel for generelt arbejde et produkt eller kun når man er projekt? Det skal nok præciseres, hvis det fx anbefales til den løbende produktforvaltning eller om det er ved større udviklingsprojekter i produktet.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -408,7 +426,7 @@ _Kodet som: K3 Uklart dokumentationskrav (4), K6 Overlap/redundans (3)._
 Ligende problemer som ved krav G4.\
 Flere er overraskede over, at der lægges op til, at bestyrelsen skal godkende styregruppen. Der er tvivl om hvordan sådan en godkendelse skulle finde sted, når et produkt har kørt i mange år og hvordan man som nyt projekt/produkt tager initiativ til sådan en godkendelse, hvis dette er en procedure. Der efterspørges også hvordan dokumentation skulle se ud; jeg gætter på et referat fra et bestyrelsesmøde kunne være passende?
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et?
+_Der findes endnu ikke et GH-issue om dette krav._
 
 ***
 
@@ -423,45 +441,9 @@ _Kodet som: K2 Manglende vejledning (3)._
 
 Flere er fovirrede over, om 'finansieringsaftalen' er udover den almindelige økonomi til produktet, som finansieres igennem tilslutningsaftaler. Eller om det blot skal bekræftes og dokumenteres, om hvorvidt der i økonomien, baseret på tilslutninger, er sat penge af til koordinering og videreudvikling.
 
-Link til GH-issue: der findes ikke et endnu, bør jeg oprette et? 
+_Der findes endnu ikke et GH-issue om dette krav._ 
 
 
-OPsamling fra kodebog - hvad mangler at komme med?
--
-Uddybning af analysen med fund/koder fra kodebog: 
-sværhedsgrad: 
-- svar muligheder/dropdown/fritekst
-- eksempler på hvordan det svar kunne se ud
-evnen til at udfylde - automatisering:
-- ville være en hjælp, men også en risiko for at miste føling - sætter høje krav til doku - en balance
-motivation:
-- tolkninger: hvem er den for? inddrag koder fra kodebog og lad det tale ind i motivationen
-* evt flere koder, som skal med? 
-
-Uddybning af anbefalinger:
-lav 3 underppunkter hvor de skæres ud i pap - motivationen er godt dækket af, men de andre to mangler at blive uddybet )
-
-
-noter:
-
-- forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning
-        - "skal barren sættes ned?"- R
-    - forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ?
-Skal indholde:
-- Kort introduktion: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. Nævn de brugte koder i doku-analysen.
-
--formular findings nedslag - slag-i-slag af de 22 punkter som har indikation på problemer 
-opsætning overvejes stadig - evt hiv tabellen ind med de 22 rækkers findings 
-Henvis til hvilke som allerede har issues på https://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres. 
-- interview-findings: uddybning af specifikke formularpunkter fra interviews 
-
-Input fra portfolioopgave fra uni: brug indledningen 
-Teori: bl.a. Midas' studier om surveys 
-
-
-F21 - R uddyber: hvad politiske kommunikation skal bruges til: opbakning og kommunikation omkring produktet - hvorfor det skal prioriteres i en kommune? essentielt for niv 3, → ANNAS NOTE: okay, men det skal gøre tydeligt hvorfor!!! den her forklaring skal ind 
-J siger: enten kan man skabe den politiske virkelighed (salg) eller hooker sig op på en dagsorden; her er hvordan vi kan løse problemet. 
-skal der evt være nogle guides til "hvordan holder jeg mit produkt politisk relevant"?
 
 
 

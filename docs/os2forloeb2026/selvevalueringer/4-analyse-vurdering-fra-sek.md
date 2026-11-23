@@ -1,5 +1,5 @@
 ---
-title: 4. Analyse - Vurderingsrapporten fra sekretariatet
+title: 4. Analyse - Semiotik i selvevaluering og feedback
 nav_order: 8
 parent: Specialeforberedende forløb hos OS2 2026
 ---
