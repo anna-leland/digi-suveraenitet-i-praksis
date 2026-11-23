@@ -81,7 +81,7 @@ OS2 bruger allerede en "Vidste du?"-boks til at forklare forskellen på beslægt
 
 ## 3. Navigationen bruger for mange overlappende og skiftende begreber
 
-Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder samtidig forskellige steder under _Evalueringer, Vurderingsgrundlag, Rapporter._ Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu sværere at forstå navigationen.
+Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder samtidig forskellige steder under _Evalueringer, Vurderingsgrundlag og Rapporter._ Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu sværere at forstå navigationen.
 
 Forsidens egen oversigt bruger samtidig andre betegnelser end navigationen. Fx bliver “checkliste til selvevaluering” til _Governancerapporten_, “checkliste til evaluering” til _Evalueringsrapporten_ og “Procesbeskrivelse” til _Processen_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold.
 
