@@ -87,14 +87,9 @@ Forsidens egen oversigt bruger samtidig andre betegnelser end navigationen. Fx b
 
 Der findes også både _Log_ og _Beslutningslog_, uden at forskellen mellem dem fremgår af navigationen.
 
-
+_Det nuværende navigationsoverblik_
 ![Det nuværende navigationsoverblik]({{ '/docs/os2forloeb2026/images/nuvaerende-nav-på-audit-sitet.png' | relative_url }})
 
-
-
-
-![nuvaerende-nav-på-audit-sitet](../images/nuvaerende-nav-på-audit-sitet.png)
-_Det nuværende navigationsoverblik_
 
 **Retning:** Brug de samme begreber på forsiden og i navigationen, og giv siderne navne, der tydeligere fortæller, hvad de indeholder og hvem de er relevante for.
 
@@ -161,7 +156,9 @@ ______
 
 Forslag til ny navigation på audit.os2.eu. Herunder konkrete forslag til hvordan indholdet kunne omstruktureres til de enkelte undersider.
 
-![forslag-ny-nav-på-audit-site](../images/forslag-ny-nav-på-audit-site.png)
+_Forslag til nyt navigationsoverblik_
+![forslag-ny-nav-på-audit-site]({{ '/docs/os2forloeb2026/images/forslag-ny-nav-på-audit-site.png' | relative_url }})
+
 
 ## Forside
 
