@@ -124,7 +124,6 @@ Empiri fra interviewene bruges i alle 4 analyser, og der spørgers i interviewgu
 
 ## Interviewoverblik
 
-Test af ny opsætning af tabel
 <table>
 <thead>
 <tr>

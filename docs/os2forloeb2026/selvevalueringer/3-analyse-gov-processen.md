@@ -42,31 +42,34 @@ Selvom hyppigheden altså allerede er beskrevet både i emailen og på hjemmesid
 
 Temaet om åbenhed i interviewdataen viser, at flere grundlæggende synes, at åbenhed passer naturligt til OS2, men samtidig er usikre på, hvad der konkret bliver offentliggjort og hvornår. Det betyder også, at de ikke nødvendigvis forventer, at det de sidder og udfylder, senere bliver lagt offentligt.
 
-I starten blev de første selvevalueringer, der rullede ind i sensommeren 2026 lagt offentligt op på audit.os2.eu. Nogle produktforvaltere fandt det intuitivt, og enkelte nævnte det ligefrem som hjælpsomt, fordi de kunne bruge de andre produkters besvarelser som inspiration til deres egen.
+I starten blev de første selvevalueringer, der rullede ind i sensommeren 2026, lagt offentligt på audit.os2.eu. Nogle produktforvaltere fandt det intuitivt, og enkelte nævnte det ligefrem som hjælpsomt, fordi de kunne bruge andre produkters besvarelser som inspiration til deres egen.
 
-Til gengæld blev den første vurdering fra sekretariatet også lagt offentligt, mens den stadig var under behandling. Det blev modtaget meget negativt af det pågældende produkt, som reagerede på, at vurderingen og en mulig nedgradering var synlig, før de havde haft mulighed for at kommentere på den eller arbejde videre med forbedringer. Efter dialog med produktet blev både vurderingen og de resterende offentliggjorte selvevalueringer taget ned igen.
+Andre havde derimod opfattet selvevalueringen som et internt arbejdsdokument eller en kladde til sekretariatet og blev overraskede over, at den kunne læses offentligt. Nogle nævnte, at de ville have udfyldt formularen anderledes, hvis de havde vidst det. Det kan påvirke, hvor åbent man beskriver mangler og problemer, fx omkring code reviews eller sikkerhedsopsætning, og dermed også hvor retvisende et billede selvevalueringen giver.
 
-Det skift mellem først at lægge materialet åbent og derefter fjerne det har været med til at skabe yderligere usikkerhed om, hvad der egentlig bliver offentligt og hvornår. Den usikkerhed ser også ud til at være nået videre til produkter, som endnu ikke havde udfyldt deres selvevaluering.
+Den første vurdering fra sekretariatet blev også lagt offentligt, mens den stadig var under behandling. Det blev modtaget meget negativt af det pågældende produkt, som reagerede på, at både vurderingen og en mulig nedgradering var synlig, før de havde haft mulighed for at kommentere eller arbejde videre med forbedringer. Efter dialog med produktet blev vurderingen og de resterende offentliggjorte selvevalueringer taget ned igen.
 
-Det understreger behovet for fremadrettet at være meget tydelig om, hvornår i processen selvevalueringen og sekretariatets vurdering bliver offentliggjort, og hvad der stadig er internt arbejds- og dialogmateriale.
- 
-Nogle nævnte, at de ville have udfyldt formularen anderledes, hvis de havde vidst, at den blev offentliggjort. Det kan påvirke, hvor åbent man beskriver mangler og problemer i selvevalueringen såsom info om code reviews eller sikkerhedsopsætning. 
+Det skift mellem først at lægge materialet åbent og derefter fjerne det har bidraget til usikkerheden om, hvad der bliver offentligt og hvornår. Den usikkerhed ser også ud til at være nået videre til produkter, som endnu ikke havde udfyldt deres selvevaluering.
 
-Det bør derfor stå tydeligt allerede inden udfyldelsen, hvilken status dokumentet har, og hvornår noget eventuelt går fra internt arbejdsdokument til offentligt materiale.
+Det bør derfor kommunikeres tydeligt fra starten, hvilken status selvevalueringen har, hvad der bliver offentliggjort, og på hvilket tidspunkt i processen det sker. Et forslag til en konkret formulering, der kan indsættes over selvevalueringsformularen indgår i fund 6 i analyse 2 om audit.os2.eu-sitet.
 
+### 3. Grænsen mellem feedback og endelig vurdering er uklar
 
-### 3. Ingen ved, hvornår vurderingen er endelig
+Interviewene viser også usikkerhed om, hvornår sekretariatets tilbagemelding skal forstås som feedback, og hvornår der faktisk ligger en endelig vurdering.
 
-Temaet her viser især et behov for at kunne reagere på sekretariatets vurdering. Manglende tid eller frist til at justere efter vurderingen optræder særligt i et interview, mens ønsket om at kunne rette inden offentliggørelse optræder på tværs af flere interviews. Selvevalueringen opfattes og beskrives flere gange som et arbejdsredskab af alle produktforvalterne, med en forventning om, at den bør kunne ændres undervejs - men alle er i tvivl om hvornår og i hvilket stadie rapporten fremlægges for bestyrelsen og lægges op offentligt.
+Selvevalueringen bliver på tværs af interviewene opfattet som et arbejdsredskab, som produktet bør kunne arbejde videre med. Flere forventer derfor også mulighed for at reagere på sekretariatets feedback, forklare deres besvarelse, forbedre dokumentationen eller rette en reel mangel, før vurderingen bliver endelig.
 
-Det eneste interviewede produkt, der på nuværende tidspunkt har modtaget sekretariatets tilbagemelding, var også i tvivl om, hvilken status den havde. De tog efterfølgende dialogen med sekretariatet, blandt andet fordi tilbagemeldingen blev oplevet som mere resolut, end de havde forventet. Det understreger, at der mangler et tydeligt skel mellem den første feedback, dialogen med produktet og den endelige vurdering.
+Det er vigtigt, fordi sekretariatets første tilbagemelding ikke nødvendigvis siger alt om produktets reelle situation. Et krav kan eksempelvis fremstå som ikke opfyldt, fordi dokumentationen i selvevalueringen mangler, selv om produktet i praksis er tættere på at leve op til kravet. Samtidig viser interviewene, at niveauet betyder meget for nogle produkter, og at en mulig nedgradering derfor opleves som noget, der har reel betydning – især hvis denne lægges offentligt, før man får chance for at reagere på det.
+
+Det eneste interviewede produkt, der på nuværende tidspunkt har modtaget sekretariatets tilbagemelding, var også i tvivl om, hvilken status den havde. De tog efterfølgende dialogen med sekretariatet, blandt andet fordi tilbagemeldingen blev oplevet som mere resolut, end de havde forventet.
 
 Det centrale er derfor at gøre rækkefølgen tydelig:
 
-aflevering → feedback → mulighed for rettelser → endelig vurdering → offentliggørelse
+**aflevering → feedback → mulighed for rettelser → endelig vurdering → offentliggørelse**
 
-Det bør også afspejles i begreberne. Den første tilbagemelding kan fx omtales som feedback eller foreløbig vurdering, mens endelig vurdering først bruges, når dialogen og muligheden for rettelser er afsluttet. Det skal være klart, hvornår noget stadig er til dialog, og hvornår processen er afsluttet.\
-I Mathias' brugertest af audit.os2.eu måtte han regne næste skridt ud, ved at selv stykke rækkefølgen sammen og gætte på, hvornår noget blev offentligt. Det peger på, at processen godt kan være beskrevet uden nødvendigvis at være tydelig for en produktforvalter, der møder den første gang.
+Det bør også afspejles i begreberne. Den første tilbagemelding kan fx omtales som **feedback** eller **foreløbig vurdering**, mens **endelig vurdering** først bruges, når dialogen og muligheden for rettelser er afsluttet.
+
+I Mathias' brugertest af audit.os2.eu måtte han selv stykke næste skridt sammen og gætte på, hvornår noget blev offentligt i sin aflæsning af procesdiagrammet og da han navigerede rundt på sitet. Det peger på, at processen godt kan være beskrevet uden nødvendigvis at være tydelig for en produktforvalter, der møder den første gang og derfor ikke er klar over begrebernes betydning og ikke har samme indforståethed omkring processen, som sekretariatet, der har bygget sitet.
+
 
 ### Samlet set
 

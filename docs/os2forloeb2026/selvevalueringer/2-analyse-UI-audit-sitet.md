@@ -43,8 +43,6 @@ Davis, J. L. (2020). _How artifacts afford: The power and politics of everyday 
 
 * Browser: Safari, version 26.5.2 
 
-==* Screenshots gemmes: hvor ?==
-
 
 ## **MINE FUND - OG HVAD JEG FORESLÅR ÆNDRES:**
 
@@ -80,79 +78,76 @@ OS2 bruger allerede en "Vidste du?"-boks til at forklare forskellen på beslægt
 
 **Retning:** Forklar det centrale begrebsapparat og brug betegnelserne mere konsekvent gennem processen. Gør samtidig tydeligt, at selvevalueringen er et arbejds- og dialogværktøj frem for en endelig vurdering. Overvej at bruge _feedback_ om sekretariatets første tilbagemelding og reservere _(endelig) vurdering_ til det tidspunkt, hvor produktet har haft mulighed for dialog og rettelser.
 
-## 3. Navigationen er for omfattende og bygger på begreber, der allerede er svære at skelne
 
-Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder under både i menuerne "Evalueringer", "Vurderingsgrundlag" og "Rapporter" i forskellige former. Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu vanskeligere at forstå, hvorfor de samme betegnelser dukker op flere steder i menuen.
+## 3. Navigationen bruger for mange overlappende og skiftende begreber
 
-Det samme problem opstod i brugertesten. Da Mathias skulle finde procesbeskrivelsen uden at bruge det direkte link på forsiden, begyndte han under "Evalueringer" og måtte gætte sig frem, før han fandt "Processen" under "Vurderingsgrundlag". Sidens placering var ikke intuitiv for ham.
+Navigationsmenuen indeholder mange undersider, hvor flere af navnene minder meget om hinanden. _Selvevaluering, governancerapport_ og _evalueringsrapport_ optræder samtidig forskellige steder under _Evalueringer, Vurderingsgrundlag, Rapporter._ Når forskellen mellem begreberne i forvejen er svær at gennemskue, bliver det endnu sværere at forstå navigationen.
+
+Forsidens egen oversigt bruger samtidig andre betegnelser end navigationen. Fx bliver “checkliste til selvevaluering” til _Governancerapporten_, “checkliste til evaluering” til _Evalueringsrapporten_ og “Procesbeskrivelse” til _Processen_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold.
+
+Der findes også både _Log_ og _Beslutningslog_, uden at forskellen mellem dem fremgår af navigationen.
 
 ![nuvaerende-nav-på-audit-sitet](../images/nuvaerende-nav-på-audit-sitet.png)
+_Det nuværende navigationsoverblik_
 
-Forsidens egen oversigt over hjemmesiden matcher heller ikke navigationsmenuen betegnelser særlig godt. Det, der på forsiden kaldes "checkliste til selvevaluering" og "checkliste til evaluering", findes i menuen under _Vurderingsgrundlag_ som henholdsvis _Governancerapporten_ og _Evalueringsrapporten_. Proces-diagrammet omtales på forsiden som "Procesbeskrivelse", men hedder i menuen _Processen_, mens "formular" bliver til _Selvevaluering (formular)_. De to sidste punkter beskrives på forsiden som muligheder for at generere henholdsvis en kladde til evalueringsrapporten og en governancerapport, men optræder i menuen som _Evalueringsrapport (generator)_ og _Governancerapport (generator)_. Brugeren skal dermed oversætte mellem forsidens ord og navigationens betegnelser for at finde det samme indhold. Og det er især svært at gøre, når man ikke kender forskellen på de forskellige begreber.
+**Retning:** Brug de samme begreber på forsiden og i navigationen, og giv siderne navne, der tydeligere fortæller, hvad de indeholder og hvem de er relevante for.
 
-Nogle undersider er muligvis også irrelevante at have på sitet. Der findes eksempelvis et menupunkt til _Selvevalueringer_ under punktet _Rapporter_, hvor der tidligere har ligget selvevalueringer, men som sidenhen er blevet taget ned. Man kunne med fordel slette denne underside, og efter selvevalueringerne er blevet endeligt vurderet, kan de lægges på en underside kaldt _Vurderede governancerapporter_. Det gør tydeligt, hvilken underside en udenforstående læser egentlig forventes at kunne orientere sig i - og samtidig giver man ikke en produktforvalter det indtryk, at deres første udkast af selvevalueringen vil blive lagt op. 
+## 4. Sidernes struktur følger ikke produktforvalterens vej gennem processen
 
-Overlap mellem siderne gør også strukturen sværere at forstå. Under hovedpunktet _Vurderingsgrundlag_ introduceres selve evalueringsprocessen allerede på oversiden, samtidig med at der findes en særskilt underside med navnet _Processen_, som gennemgår det samme forløb mere udførligt. Det bliver derfor uklart, hvad oversiden _Vurderingsgrundlag_ egentlig skal bruges til, og hvorfor processen først introduceres dér for derefter at få sin egen side.
-Det taler for en tydeligere arbejdsdeling mellem siderne: _Processen_ bør forklare, hvad der sker hvornår og hvem der gør hvad, mens _Vurderingsgrundlaget_ bør koncentrere sig om, hvad produktet bliver vurderet på.
+Problemet handler ikke kun om navngivning. Der er også overlap mellem siderne og en struktur, som ikke altid følger den rækkefølge, produktforvalteren har brug for.
 
-Derudover findes både "Log" og "Beslutningslog", uden at forskellen mellem deres funktioner er tydelig fra navigationen.
+Det viste sig også i brugertesten. Da Mathias skulle finde procesbeskrivelsen uden at bruge linket på forsiden, begyndte han under _Evalueringer_, fordi den lå øverst, og måtte derefter trevle resten af punkterne igennem, før han fandt _Processen_ under _Vurderingsgrundlag_. Placeringen var ikke altså intuitiv for ham.
 
-Problemet er derfor ikke kun navngivningen af enkelte sider. Selve informationsarkitekturen er blevet svær at aflæse. Nogle sider kan muligvis lægges sammen eller fjernes, mens andre bør have navne, der tydeligere viser, hvor i processen de bliver relevante.
+Under _Vurderingsgrundlag_ introduceres selve evalueringsprocessen samtidig allerede på oversiden, selv om der findes en særskilt underside med navnet _Processen_, som gennemgår forløbet mere udførligt. Det bliver derfor uklart, hvad de to sider hver især skal bruges til, når de gentager hinanden så meget.
 
-Rækkefølgen i navigationsmenuen kunne også i højere grad følge produktforvalterens proces. En ny bruger har eksempelvis brug for at forstå processen og vurderingsgrundlaget, før vedkommende begynder at udfylde. Forsidens oversigt bør samtidig hænge tydeligt sammen med den struktur, brugeren møder i navigationsmenuen til venstre.
+Her ville en tydeligere arbejdsdeling hjælpe: _Processen_ bør forklare, hvad der sker hvornår og hvem der gør hvad, mens _Vurderingsgrundlaget_ bør koncentrere sig om, hvad produktet bliver vurderet på.
 
-**Retning:** Forenkle navigationen, reducér gentagelser og lad struktur og navngivning i højere grad følge brugerens vej gennem processen. Vurderingsgrundlaget og processen bør placeres, så de naturligt kommer før selve udfyldelsen, og forsidens oversigt bør afspejle den samme struktur som navigationsmenuen.
+Rækkefølgen i navigationen kan samtidig i højere grad følge produktforvalterens proces. En ny bruger har brug for først at forstå processen og vurderingsgrundlaget, derefter udfylde selvevalueringen og til sidst orientere sig i feedback, vurdering og offentliggørelse.
 
-## 4. Det er uklart, hvilke værktøjer der er til produktforvalteren, og hvilke der er til sekretariatet
+**Retning:** Forenkle informationsarkitekturen, reducér overlap mellem siderne og lad navigationens rækkefølge følge brugerens vej gennem processen.
 
-De to generatorer ligger i den almindelige navigation og bliver også fremhævet på forsiden. Det er imidlertid uklart, om produktforvalterne overhovedet forventes at bruge dem.
 
-Instruktionen øverst i selvevalueringsformularen siger, at produktforvalteren skal eksportere sine svar som JSON og sende filen eller et link til GitHub til sekretariatet. Governancerapport-generatoren beskrives samtidig som et værktøj, der genererer en governancerapport ud fra data fra en selvevaluering, mens evalueringsrapport-generatoren gør noget tilsvarende med evalueringsrapporten. Det peger på, at generatorerne først bliver relevante, efter produktforvalteren har afleveret sin JSON-fil, og derfor snarere hører til sekretariatets arbejdsgang. Det fremgår dog ikke tydeligt nok til, at man kan være sikker på det.
+## 5. Det er uklart, hvilke værktøjer der er til produktforvalteren, og hvilke der er til sekretariatet
 
-Usikkerheden bliver forstærket af, at forsiden direkte linker til muligheden for at "generere en kladde" til evalueringsrapporten. Som produktforvalter kan man derfor med god grund blive i tvivl om, hvorvidt man selv forventes at gøre dette, eller om opgaven stopper, når JSON-filen er sendt.
+Flere dele af sitet fremstår som lige relevante for produktforvalteren, selv om nogle af dem snarere ser ud til at høre til sekretariatets arbejdsgang.
 
-Mathias havde samme oplevelse. Han var i tvivl om, hvad der var tiltænkt ham, og vurderede, at generatorerne "støjer mere eller forvirrer end det gavner", hvis de primært hører til sekretariatets arbejde. Det hænger sammen med hans mere generelle spørgsmål om "hvor skal jeg starte", fordi alle dele af sitet fremstår som noget der er lige vigtigt for brugeren at forholde sig til.
+Et eksempel er de to generatorer, som både ligger i den navigations menuen til venstre og fremhæves på forsiden. Instruktionen i toppen af selvevalueringsformularen siger, at produktforvalteren skal eksportere sine svar som JSON og sende filen eller et GitHub-link til sekretariatet. Der nævnes ikke at man trække sine data igennem governancerapport- og evalueringsrapport-generatorerne. Det peger på, at generatorerne først bliver relevante efter afleveringen og derfor primært hører til sekretariatets arbejde. Hvis generatorne er tiltænkt at bruges at produktforvalterne, er dette ikke tydeligt. 
 
-Det er i sig selv positivt, at OS2 åbent dokumenterer, hvordan processen og værktøjerne fungerer. Åbenhed behøver dog ikke betyde, at alle tekniske værktøjer skal ligge i den primære brugerrettede navigation. Hvis generatorerne alene bruges af sekretariatet, kan de fortsat være offentligt tilgængelige som teknisk dokumentation eller via GitHub uden at fremstå som et trin, produktforvalteren skal igennem.
+Usikkerheden bliver forstærket af, at forsiden direkte linker til muligheden for at “generere en kladde” til evalueringsrapporten. Når en funktion ligger i den primære navigation eller ligefrem fremhæves på forsiden, vil den som produktforvalter let fremstå som noget, man forventes at bruge. Når det samtidig ikke forklares hvordan, hvornår eller hvorfor generatorerne skal bruges, skaber det tvivl om, hvor produktforvalterens opgave egentlig stopper.
 
-Davis' (2020) affordancebegreb er relevant her: At en funktion er synlig og tilgængelig, gør ikke nødvendigvis dens tiltænkte anvendelse tydelig. Når målgruppen er uklar, bliver brugeren nødt til selv at afgøre, hvilke handlemuligheder der faktisk er relevante for vedkommende.
+Mathias havde samme oplevelse i brugertesten. Han var i tvivl om, hvad der var tiltænkt ham, og vurderede, at generatorerne “støjer mere eller forvirrer end det gavner”, hvis de primært er redskaber for sekretariatet. Det hænger sammen med hans mere generelle spørgsmål om, hvor man skal starte, fordi alle dele af sitet fremstår som noget, brugeren bør forholde sig til.
 
-**Retning:** Gør det eksplicit, hvad produktforvalteren skal bruge, og hvad der hører til sekretariatets arbejdsgang. Hvis generatorerne primært er interne arbejdsredskaber, bør de ikke have samme placering i navigationen som produktforvalterens centrale sider. De kan fortsat være offentligt tilgængelige som dokumentation eller værktøjer på GitHub, uden at de nødvendigvis publiceres som en del af den primære brugerrejse på Just the Docs-sitet.
+Davis' (2020) affordancebegreb er relevant her: Når en funktion er synlig, tilgængelig og placeret side om side med andre centrale funktioner, signalerer interfacet også, at den er relevant for brugeren. Men hvis målgruppen ikke er tydelig, bliver produktforvalteren derfor nødt til selv at afgøre, om funktionen faktisk er en del af deres opgave, på et site der allerede har meget andet information.
 
-## 5. Den tekniske løsning forudsætter mere teknisk kunnen, end alle produktforvaltere har
+Det samme gælder siden med selvevalueringer under _Rapporter_. Hvis de første udkast ikke længere skal offentliggøres, er der ikke meget grund til at have en særskilt side til dem i den primære navigation. Efter den endelige vurdering kan de i stedet samles under fx _Vurderede governancerapporter_, så det bliver tydeligt, hvilket materiale der er tiltænkt en offentlig læser.
+
+Det er positivt, at OS2 dokumenterer sine arbejdsmetoder åbent, men åbenhed behøver ikke betyde, at alle tekniske værktøjer skal ligge i den primære brugerrettede navigation. Hvis generatorerne primært er backend-værktøjer for sekretariatet, kan de fortsat være offentligt tilgængelige via GitHub eller teknisk dokumentation uden at fremstå som et trin, produktforvalteren skal igennem. Hvis det derimod er meningen, at produktforvalterne selv skal bruge generatorerne, skal det angives langt tydeligere, herunder hvornår i processen de skal bruges, hvad de skal bruges til og hvordan de hænger sammen med afleveringen.
+
+**Retning:** Gør det eksplicit, hvad produktforvalteren skal bruge, og hvad der hører til sekretariatets arbejdsgang. Funktioner, der fremhæves i navigationen eller på forsiden, bør enten være klart relevante for produktforvalteren eller markeres tydeligt som noget andet. Hvis generatorerne primært er interne arbejdsredskaber, bør de flyttes ud af den primære brugerrejse. Hvis produktforvalterne forventes at bruge dem, skal det forklares tydeligt.
+
+
+## 6. Den tekniske løsning forudsætter mere teknisk kunnen, end nogle produktforvaltere har
 
 Mathias kunne relativt hurtigt forstå flowet fra formular til JSON og videre til GitHub eller mail. Han arbejder selv med JSON og Git, men vurderede samtidig, at mindre tekniske projektledere ville møde en barriere ved netop denne del af processen.
 
-Det stemmer med interviewmaterialet, hvor manglende teknisk baggrund går igen, og hvor der blandt andet efterspørges hjælp til JSON og GitHub.
+Det stemmer med interviewmaterialet, hvor manglende teknisk baggrund går igen, og hvor der blandt andet efterspørges hjælp til JSON og GitHub fx en mere udførlig guide til hvordan man kan downloade filen ned og afleverer ens JSON-fil. Formularen lægger op til, at den kan udfyldes direkte i browseren, hvilket nogle produktforvaltere gjorde, men de var ikke klar over arbejdet ikke ville blive gemt og de mistede derfor deres arbejde efter de refreshede siden. 
 
-Det er derfor ikke nok, at løsningen fungerer teknisk. Med Davis' (2020) begreb _dexterity_ bliver spørgsmålet også, hvilke færdigheder sitet forudsætter hos den bruger, der skal kunne benytte funktionen.
+Med Davis' (2020) begreb _dexterity_ understreges det, at sitets brugervenlighed hænger sammen med hvilke færdigheder sitet forudsætter hos den bruger, der skal kunne benytte funktionen. Interviewdataene tyder på, at der er stor spredning i produktforvalternes tekniske kunnen. Det er derfor nødvendigt at den tekniske barriere for udfyldning rammer laveste fællesnævner, så alle kan være med.
 
 **Retning:** Undersøg om afleveringsflowet kan forklares eller understøttes bedre for produktforvaltere uden teknisk baggrund.
 
-## 6. Det skal være tydeligt, at selvevalueringen er en intern kladde, før noget offentliggøres
+## 7. Formularen skal tydeligt indikere, om selvevalueringen offentliggøres før eller efter mulighed for rettelser
 
-Det fremgår ikke tydeligt nok af audit-sitet, hvad der er et internt arbejdsdokument, og hvornår materialet bliver offentligt. Mathias kunne heller ikke ud fra procesbeskrivelsen se sikkert, hvornår offentliggørelsen sker.
+Det fremgår ikke tydeligt nok af audit-sitet, hvilken status selvevalueringen har, mens produktforvalteren udfylder den. Problematikken omkring åbenhed, offentliggørelse og hvornår vurderingen bliver endelig behandles nærmere i [delanalyse 3 om processen.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
 
-Det er vigtigt, fordi selvevalueringen netop skal kunne bruges som et **ærligt arbejds- og dialogværktøj** mellem produktet og sekretariatet. Produktforvalteren skal kunne beskrive problemer, mangler og risici, uden at første udkast samtidig opleves som en offentlig vurdering af produktet. Det kan eksempelvis være nødvendigt at skrive åbent om manglende code reviews eller andre sikkerhedsrisici, som produktet endnu ikke har fået rettet op på.
+Det kan aflive tvilen om hvorvidt ens selvevaluering lægges åbent op eller ej, hvis det kommunikeres helt klart i toppen af formularen. Produktforvalteren bør vide, hvad besvarelsen skal bruges til, inden man begynder at skrive. Hvis selvevalueringen skal fungere som et arbejds- og dialogværktøj, bør det være tydeligt, at første besvarelse er en kladde til videre dialog – og hvis den kommer til at ligge offentligt, som de første 7 selvevalueringsrapporter gjorde i en periode, så skal det i så fald angives i toppen af formularen.
 
-Interviewmaterialet viser, at denne skelnen ikke har været tydelig nok. Indtil oktober 2026 lå indsendte selvevalueringer tilgængelige på sitet. Flere produktforvaltere havde opfattet deres selvevaluering som et internt arbejdsdokument eller en kladde til sekretariatet og blev derfor overraskede over, at den kunne læses offentligt. Interviewene peger på en oplevelse af at blive eksponeret over for blandt andet bestyrelsen, medlemmerne og potentielle nye anvendere. Flere angav også, at de ville have formuleret deres besvarelse anderledes, hvis de på forhånd havde vidst, at den blev offentliggjort.
-
-Det bliver yderligere følsomt, fordi sekretariatets første feedback kan se mere alvorlig ud, end produktets reelle situation nødvendigvis er. Et rødt trafiklys kan eksempelvis skyldes, at et krav ikke er dokumenteret tilstrækkeligt i selvevalueringen, selv om produktet i praksis kan være tættere på at opfylde kravet. Og det er ærgerligt at have liggende offentligt. Ligeledes er det endnu en grund til at den første tilbagemelding ikke bør fremstå som en endelig dom, før produktet har haft mulighed for at forklare sig, forbedre dokumentationen eller rette en reel mangel.
-
-Interviewene viser samtidig, at niveauet betyder meget for nogle produkter, og at der netop er bekymring for at blive vurderet ned, før der har været mulighed for at reagere på sekretariatets feedback.
-
-Mathias pegede på den samme problematik fra brugerens perspektiv: Hvis man tror, at besvarelsen bliver offentlig, kan det påvirke, hvor åbent man tør skrive. Dermed kan uklar kommunikation om offentliggørelse også påvirke kvaliteten af selvevalueringen. Hvis formålet er at få et retvisende billede af produktets aktuelle governance, bør produktforvalteren vide fra starten, at den første besvarelse er en **kladde til intern behandling**, og at offentliggørelsen først sker senere.
-
-Der bør derfor stå meget tydeligt allerede over selvevalueringsformularen, at besvarelsen **ikke offentliggøres i sin første form**. Først indsendes den til sekretariatet som arbejdsdokument, derefter følger feedback og mulighed for en ny aflevering, og først efter denne dialog udarbejdes den endelige vurdering, som kan offentliggøres.
-
-En fremhævet boks over formularen kunne eksempelvis kommunikere:
+På selve formularen kunne det fx kommunikeres i en fremhævet boks:
 
 > **Selvevalueringen er et arbejdsdokument**\
-> Din første besvarelse bruges internt i dialogen mellem produktet og OS2-sekretariatet og offentliggøres ikke som produktets endelige vurdering. Efter sekretariatets feedback får produktet mulighed for at opdatere besvarelsen og dokumentationen. Først derefter udarbejdes den endelige vurdering, som offentliggøres.
+> Din første besvarelse bruges internt i dialogen mellem produktet og OS2-sekretariatet. Efter sekretariatets feedback får produktet mulighed for at opdatere besvarelsen og dokumentationen, før processen afsluttes.
 
-**Retning:** Gør kladde-status og offentliggørelsesforløbet eksplicit allerede ved selvevalueringsformularen. Produktforvalteren skal vide, at den første besvarelse er et internt arbejds- og dialogdokument, at der følger feedback og mulighed for rettelser, og at det først er den efterfølgende endelige vurdering, der bliver offentlig.
-
-
+**Retning:** Gør dokumentets status tydelig dér, hvor selvevalueringen udfyldes, så produktforvalteren fra starten ved, hvad besvarelsen bruges til.
 
 ______
 

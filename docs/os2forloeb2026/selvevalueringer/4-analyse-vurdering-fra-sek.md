@@ -37,6 +37,10 @@ Når sekretariatet efterfølgende giver feedback, skifter tegnsystemet til trafi
 
 Begge systemer gør det hurtigt at orientere sig. Til gengæld har især ❌ og 🔴 stærke konnotationer til fejl, stop eller bestået/dumpet. Det harmonerer dårligt med det billede, der går igen i interviewene, hvor selvevalueringen i højere grad beskrives som et øjebliksbillede og noget, produktet skal kunne arbejde videre med.
 
+(skal omskrives med en pointe om at det kan føles resolut og alvorligt)
+Det bliver yderligere følsomt, fordi sekretariatets første feedback kan se mere alvorlig ud, end produktets reelle situation nødvendigvis er. Et rødt trafiklys kan eksempelvis skyldes, at et krav ikke er dokumenteret tilstrækkeligt i selvevalueringen, selv om produktet i praksis kan være tættere på at opfylde kravet. Og det er ærgerligt at have liggende offentligt. Ligeledes er det endnu en grund til at den første tilbagemelding ikke bør fremstå som en endelig dom, før produktet har haft mulighed for at forklare sig, forbedre dokumentationen eller rette en reel mangel.
+Der henvises også til [del-analyse 4](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/4-analyse-vurdering-fra-sek.html), hvor der dykkes ned i symbolernes semiotiske betydning for brugeroplevelsen.
+
 ### 2. Kombinationen af symbol og skarp formulering gør feedbacken hårdere
 
 Problemet er ikke nødvendigvis trafiklysene alene, men kombinationen af farve, symbol og formulering. Det går også igen i interviewene, hvor flere efterspørger, at vurderingen i højere grad kommunikeres som et øjebliksbillede frem for en endelig dom. Røde markeringer bliver flere gange beskrevet som hårde eller negative, samtidig med at produktforvalterne stadig ønsker en ærlig tilbagemelding.
