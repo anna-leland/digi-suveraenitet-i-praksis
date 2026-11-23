@@ -7,32 +7,17 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 # 1. **Analyse af selvevalueringsformularen:**
 
-~ Intro som kort ridser hvad, hvordan, hvilke fund og ændringsforslag  + se noterne i bunden og lad 'data-drevetø indgå ~
+### Fokus og hovedfund
 
+Denne analyse undersøger, hvordan OS2's selvevalueringsformular med de 43 governancekrav og tilhørende vejledninger kan forbedres, så kravene bliver lettere at forstå og besvare.
 
-* forslag til revidering af de 43 krav+vejledninger i selvevalueringen: så der er mindre uklare og nemmere at opfylde ved første udfyldning - “skal barren sættes ned?”- R 
-  * forslag til selve formen: skal der være drop-down menu med præ-definerede forslag, færre/flere spørgsmål, flere klare opfordringer/krav på henvisninger/links/evidens ? Skal indholde:
-* Kort introduktion: med forklaring af analysens metode (doku-analyse), at den dermed er datadrevet og har til formål at udpege hvilke punkter som tyder på at være problematiske. Nævn de brugte koder i doku-analysen.
+På tværs af de indsendte selvevalueringer og interviews har jeg fundet indikationer på problemer ved 22 af de 43 krav. Problemerne handler særligt om uklare formuleringer, manglende vejledning, dokumentationskrav og gentagelser. Analysen peger derfor på, hvor formularen kan forbedres, og kommer med konkrete forslag til ændringer af de enkelte krav og vejledninger.
 
--formular findings nedslag - slag-i-slag af de 22 punkter som har indikation på problemer opsætning overvejes stadig - evt hiv tabellen ind med de 22 rækkers findings Henvis til hvilke som allerede har issues på https\://github.com/OS2offdig/governance_report_template/issues og bekræft issuets tekst stemmer med mine findings, eller sig hvordan det kunne opdateres.
+### Metode og teori
 
-* interview-findings: uddybning af specifikke formularpunkter fra interviews
+Analysen bygger på en dokumentanalyse af de første syv indsendte selvevalueringer samt interviews med seks produktforvaltere, hvoraf nogle allerede har udfyldt formularen, mens andre stadig var i gang.
 
-
-
-## **HVAD UNDERSØGES:**
-Denne del-rapport omhandler hvordan governance selvevauleringsformularen, som OS2s produkter og udvalgte projekter er blevet bedt om at udfylde, kan forbedres.
-
-## **HVORDAN**:
-For at blive klogere på hvordan formularen forstås af udfylderne og hvor der opstår misforståelser, har jeg læst og analyseret de 7 rapporter som hidtil er afleveret. Derudover har jeg interviewet 6 produktforvaltere, der repræsenterer både nyere og ældre projekter og produkter; nogle har allerede udfyldt selvevalueringen, og andre er fortsat i proces. De stemmer derfor ikke 1:1 overens med de 7 produkter, der hidtil har afleveret selvevalueringer. De interviewede omtales med alias som PV1-PV6.
-
-Bag analysen ligger teori om spørgeskemadesign fra Krosnick & Presser (2010), som jeg har ladet mig guide af, når jeg har vurderet hvorfor et krav eller vejledningen dertil misforstås - og hvordan et forslag på en reformulering ser ud. Ifølge deres teori, gennemgår en respondent fire kognitive trin, når et spørgsmål besvares:
-* First, they must interpret the question and deduce its intent. → “Hvad mener de med dette governancekrav?”
-* Next, they must search their memories for relevant information, → “Hvilken dokumentation har vi?”
-* and then integrate whatever information comes to mind into a single judgment. → “Lever produktet faktisk op til kravet?”
-* Finally, they must translate the judgment into a response → “Hvordan skal jeg formulere/dokumentere det i formularen?”
-
-Jeg har analyseret rapporterne ud fra følgende koder, der er udledt af mine data, og valgt med udgangspunkt i Krosnick & Pressers (2010) anbefalinger og faldgrupper i spørgsmålsdesign:
+Jeg har kodet besvarelserne ud fra seks typer af problemer og brugt Krosnick & Pressers (2010) teori om spørgeskemadesign til at undersøge, hvorfor krav kan være svære at forstå og besvare. Teorien har samtidig været en hjælp til at vurdere, hvordan formuleringer og vejledninger kan forbedres.
 
 | **Koder** | **Uddybning af koden** |
 | --- | --- |
@@ -46,12 +31,18 @@ Jeg har analyseret rapporterne ud fra følgende koder, der er udledt af mine dat
 Reference:\
 Krosnick, J. A., & Presser, S. (2010). Question and questionnaire design. In P. V. Marsden & J. D. Wright (Eds.), _Handbook of survey research_ (2nd ed., pp. 263–313). Emerald Group Publishing.
 
-## **MINE FUND - OG HVAD JEG FORESLÅR ÆNDRES:**
+## **Fund og ændringsforslag**
 Gennem interviews, dokumentanalyser af de individuelle rapporter og en samlet en tværgående analyse, er jeg kommet frem at 22 ud af 43 af formularens krav, har indikationer på problemer hos produktforvalterne, der har udfyldt formularer. Denne rapport giver først et overblik over generelle tværgående fund, og kommer derefter med konkrete forslag til reformulering af de 22 kravs-vejledninger.
 
 De 22 forslag nedenfor kommer med forslag til at rette konkrete formuleringer, men de vigtigste observationer fra mit materiale går på tværs af kravene. De kan forklare, hvorfor de modtagne selvevalueringer kan opleves som mindre fyldestgørende, end man havde håbet fra sekretariatets side, og peger på hvad der kan gøres ved det i et re-design af formularen.
 
-En note om automatiseringer: 
+#### En note om automatiseringer
+
+Sekretariatet har foreslået automatisering som en mulig måde at gøre udfyldelsen lettere, særligt for produktforvaltere uden stor teknisk viden. Mine interviews peger dog på, at selve udfyldelsen også har en opdragende funktion, fordi produktforvalterne bliver nødt til at forholde sig til og forstå de krav, de skal leve op til.
+
+En af de mere it-kyndige produktforvaltere påpegede desuden, at automatisering ville kræve en del teknisk opsætning, uden nødvendigvis at sikre bedre kvalitet. Eksempelvis kan man automatisere kontrollen af, om et README-dokument eller en beskrivelse af politisk kommunikation findes, men det kræver stadig et menneske at vurdere, om indholdets kvalitet faktisk lever op til kravene.
+
+Det stemmer også med Rasmus' overvejelser om først at lade produktforvalterne få mere føling med kravene og automatisere på sigt. Derfor har jeg valgt ikke at undersøge automatisering nærmere i denne analyse, da jeg vurderer, at mindre ændringer i formularens sprog og vejledning vil kunne forbedre selvevalueringen markant, uden at kræve større tekniske ændringer.
 
 
 ### **Overordnede fund i interviews og dokumentanalyser:**
@@ -75,10 +66,13 @@ Men motivationen til overhovedet at udfylde formularen kan samtidig falde, hvis 
 De fleste interviewpersoner indrømmer, at de ikke er klar over hvad næste skridt er i processen, og mens flere ikke vidste at governance rapporten af deres produkt skulle lægge offentligt, fandt andre produktforvaltere åbenheden implicit. Disse forventninger er fx med til at styre om en produktforvalter henviser direkte til code reviews eller ikke tør, men frygt for at eksponere produktets sårbarheder.
 
 ### **Derfor vil min anbefaling være:** 
-Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og for at få så fyldestgørende og dokumenterede svar som muligt.\
-Motivationen til at gøre sig umage eller at turde at være ærlig om mangler, uden at frygte for konsekvenserne, bliver også i høj grad styret af forventningen til, hvad resultatet skal bruges til.\
-Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som kladder: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau – og datakvaliteten i svarerene stiger forhåbentlig.\
-Helt konkret, bør forløbet skitseres konkret både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes. Hvordan kommunikationen om processen kan forbedres bliver også udfoldet i [del-analyse 3: Processen om goverance i OS2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
+Først og fremmest at reformulere vejledningerne for at kæmpe imod sværhedsgraden og den tekniske barriere, og dermed holde motivationen oppe og for at få så fyldestgørende og dokumenterede svar som muligt. Mine 22 forslag til reformuleringer gennemgåes nedenfor.\
+
+Motivationen til at gøre sig umage eller at turde at være ærlig om mangler, uden at frygte for konsekvenserne, bliver også i høj grad styret af forventningen til, hvad resultatet skal bruges til. Det er derfor en central anbefaling, at selvevalueringen og vurderingen tydeligt kommunikeres som kladder: at selvevauleringen ikke udgives offentligt, før produktforvalteren har modtaget feedback fra sekretariatet og har haft en chance for at rette til. Så falder prisen ved at være ærlig om de ting, man er i tvivl om lever op til ens niveau; og datakvaliteten i svarerene stiger forhåbentlig.
+Helt konkret, bør forløbet skitseres konkret både i invitations-emailen, på audit.os2.eu og kort i toppen af formularen, så man er klædt på inden formularen den udfyldes. 
+- I [del-analyse 2: Analyse af audit.os2.eu hjemmesiden](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/2-analyse-UI-audit-sitet.html) gennemgåes konkrete problemer på audit.os2.eu og forslag til ændringer . 
+- Hvordan kommunikationen om processen kan forbedres bliver også udfoldet i [del-analyse 3: Processen om goverance i OS2.](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-gov-processen.html)
+- Et led i kommunikation handler også om den semiotik, der benyttes. Der dykkes ned i symbolernes betydning i [del-analyse 4: Semiotik i selvevaluering og feedback](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-processen.html).
 
 
 

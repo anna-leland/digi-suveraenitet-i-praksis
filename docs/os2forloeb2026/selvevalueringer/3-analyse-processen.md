@@ -6,13 +6,13 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 # 3. Analyse af processen omkring selvevalueringer i OS2
 
-### Hvad undersøges og hovedfund 
+### Fokus og hovedfund 
 
 Interviewene med produktforvaltere viser en gennemgående forvirring om selvevalueringsprocessen: Hvor ofte foregår den, hvad sker der efter aflevering, hvornår kan man rette til, og hvornår bliver noget offentligt? Problemet er ikke hvordan processen er designet, men hvordan den kommunikeres, når at produktforvalterne ikke står tilbage med den samme forståelse af processen.
 
 Analysen ser derfor på kommunikationen af processen omkring selvevalueringen, især orienterings-emailen produktforvalterne blev sendt tilbage d.11 maj, audit.os2.eu og procesdiagrammet på hjemmesiden. Min hovedanbefaling er derfor at gøre kommunikationen om processen mere entydig på tværs af de tre medier. 
 
-### Hvordan?
+### Metode og teori
 
 Analysen bygger på interviews, dokumentanalyse af emailen, walkthrough, brugertest af audit.os2.eu. Interviewanalysen tager især udgangspunkt i 3 temaer, der åbenbarede sig i empirien:
 - "Tvetydighed om selvevaluerings årshjul"
@@ -28,7 +28,7 @@ McLuhan, M. (1964). _Understanding media: The extensions of man_. McGraw-Hill. 
 
 
 
-## Hovedfund
+## Fund
 
 ### 1. Årshjulet bliver ikke forstået ens
 
@@ -50,7 +50,7 @@ Den første vurdering fra sekretariatet blev også lagt offentligt, mens den sta
 
 Det skift mellem først at lægge materialet åbent og derefter fjerne det har bidraget til usikkerheden om, hvad der bliver offentligt og hvornår. Den usikkerhed ser også ud til at være nået videre til produkter, som endnu ikke havde udfyldt deres selvevaluering.
 
-Det bør derfor kommunikeres tydeligt fra starten, hvilken status selvevalueringen har, hvad der bliver offentliggjort, og på hvilket tidspunkt i processen det sker. Et forslag til en konkret formulering, der kan indsættes over selvevalueringsformularen indgår i fund 6 i analyse 2 om audit.os2.eu-sitet.
+Det bør derfor kommunikeres tydeligt fra starten, hvilken status selvevalueringen har, hvad der bliver offentliggjort, og på hvilket tidspunkt i processen det sker. Et forslag til en konkret formulering, der kan indsættes over selvevalueringsformularen indgår i fund 7 i analyse 2 om audit.os2.eu-sitet.
 
 ### 3. Grænsen mellem feedback og endelig vurdering er uklar
 
@@ -80,8 +80,8 @@ Det gælder også selve betegnelserne undervejs. Hvis feedback, evaluering og vu
 Det betyder ikke, at hele processen skal forklares endnu i dybden i både orienteringsemailen, på alle hjemmesidens undersider og i procesdiagrammet. Det betyder, at hvert medie har en form, der former hvor høj grad af processen de hver især kan kommunikere på en meningsfuld og tilgængelig måde. Ifølge McLuhans "medium is the message" teori, har en læser forskellige forventninger til hvor meget og hvilken slags information de kan indtage fra hhv. en email, hjemmeside og et diagram. Kunsten er at skabe god sammenhæng imellem de tre, der understøtter den samme forståelse af forløbet, på hver sin måde.
 
 
-# Ændringsforslag: Bedre kommunikation på tværs
-Mit forslag er, at emailen sætter processen i gang, hjemmesiden forklarer den i dybden og diagrammet giver overblikket: 
+# Ændringsforslag
+Mit forslag er at skabe bedre kommunikation på tværs, så at emailen sætter processen i gang, hjemmesiden forklarer den i dybden og diagrammet giver overblikket: 
 
 ### Emailen skal være kortere og få produktforvalteren i gang
 

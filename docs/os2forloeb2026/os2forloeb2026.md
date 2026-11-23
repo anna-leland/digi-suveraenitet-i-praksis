@@ -10,9 +10,15 @@ has_toc: true
 
 ### Specialeforberedende forløb hos OS2 · efteråret 2026
 
-Mit arbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for alle i fællesskabet. Det gælder produktkoordinatorer, styregrupper, koordinationsgrupper, sekretariatet, bestyrelsen, leverandører og anvendere.
+Mit analysearbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** undersøger, hvordan governanceprocessen omkring OS2's selvevalueringer kan gøres mere tydelig og understøttende for aktørerne i fællesskabet. Det gælder bl.a. produktkoordinatorer, styregrupper, sekretariatet, bestyrelsen, leverandører og anvendere, som alle i større eller mindre grad er inde over processen.
 
-Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med konkrete forslag til forbedringer af forløbet.
+**Analysernes fokus og afgrænsning**
+
+Analyserne tager primært udgangspunkt i produktforvalternes perspektiv og deres vej gennem selvevalueringsprocessen, da det i praksis ofte er dem, der koordinerer og udfylder selvevalueringen, selvom det overordnede ansvar for indholdet ligger hos styregruppen.
+
+Mit fokus er derfor på, hvordan formularen, hjemmesiden og kommunikationen omkring processen fungerer for dem, der skal bruge den. Analyserne går ikke nærmere ind i leverandørernes perspektiv eller de tekniske aspekter af governancekravene og deres efterlevelse. Det ligger uden for både undersøgelsens fokus og mine primære informationsvidenskabelige kompetencer, som særligt er inden for kommunikation, brugeroplevelse og organisatoriske processer.
+
+Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance-selvevalueringer i 2026 og munder ud i fire analyser med udpegning af problemområder og konkrete forslag til forbedringer af forløbet.
 
 ---
 
@@ -41,7 +47,7 @@ Eftersom mit forestående specialesamarbejde med OS2 har "digital suverænitet i
 
 **Ønsket om, hvordan analysen kan skabe værdi:**
 
-Min opgave er at undersøge, **hvor i selvevalueringsprocessen problemerne konkret opstår, og hvorfor**. Det gør jeg ved at samle empiri fra interviews, selvevalueringer, email, audit.os2.eu og brugertest og bruge det som datagrundlag for analysen.
+Sekretariatsleder Rasmus har stillet mig til opgave at undersøge, **hvor i selvevalueringsprocessen problemerne konkret opstår, og hvorfor** - og at disse fund er datadrevne. Derfor indsamler jeg empiri fra 6 interviews og en brugertest og laver dokumentanalyser af selvevalueringer, audit.os2.eu og bruger det som datagrundlag for analysen.
 
 På den baggrund skal jeg pege på de steder, hvor der er behov for ændringer, og komme med konkrete forslag til, hvordan formularen, kommunikationen, hjemmesiden og forløbet kan gøres tydeligere og nemmere at arbejde med.
 

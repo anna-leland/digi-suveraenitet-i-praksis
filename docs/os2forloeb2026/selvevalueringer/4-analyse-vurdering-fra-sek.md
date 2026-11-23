@@ -4,15 +4,15 @@ nav_order: 8
 parent: Specialeforberedende forløb hos OS2 2026
 ---
 
-# Del-analyse 4: Semiotik i selvevaluering og feedback
+# 4. Analyse af semiotik i selvevaluering og feedback
 
-### Hvad undersøges og hovedfund
+### Fokus og hovedfund
 
 De første tre analyser har set på selve formularen, audit.os2.eu og kommunikationen af processen. Denne sidste analyse ser på, hvordan selvevalueringen og sekretariatets feedback kommunikeres gennem ord, farver og symboler.
 
 Hovedfundet er, at symbolerne giver et hurtigt overblik, men samtidig kan få processen til at fremstå mere binær og karaktergivende, end den er tænkt. Hvis selvevalueringen skal fungere som dokumentation, øjebliksbillede og arbejdsredskab, bør feedbacken i højere grad signalere, at der er noget, produktet kan arbejde videre med.
 
-### Hvordan?
+### Metode og teori
 
 Analysen bygger især på interviewtemaerne **“Reframing af negativ kommunikation”** og **“Syn på niveausætning og vurdering”** samt en gennemgang af de markeringer, der bruges i selvevalueringen og sekretariatets skabelon til feedback.
 
@@ -69,7 +69,7 @@ Jeg kan se, i den ene evaluering/feedback som sekretariatet indtil videre har la
 **Anbefaling** – hvad produktet konkret kan arbejde videre med
 Og dermed er farverne faktisk ikke så vigtige. 
 
-## Anbefalinger
+## Ændringsforslag
 
 Jeg foreslår at beholde muligheden for et hurtigt visuelt overblik, men nedtone den karaktergivende framing omkring symbolerne.
 

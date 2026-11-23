@@ -6,26 +6,17 @@ parent: Specialeforberedende forløb hos OS2 2026
 
 # 2. **Analyse af audit.os2.eu hjemmesiden:**
 
-Denne analyse ser på, hvordan audit.os2.eu fungerer for de produktforvaltere, der skal bruge sitet i forbindelse med selvevalueringen. Jeg har især kigget på, om det er tydeligt, hvor man skal starte, hvordan man finder rundt, hvad de forskellige sider og begreber betyder, og hvilke dele af sitet der faktisk er relevante for produktforvalteren.
+### Fokus og hovedfund
 
-Analysen bygger på min egen gennemgang af sitet, en brugertest med Mathias fra OS2ai og input fra de interviews, jeg har lavet med produktforvaltere. På tværs af materialet går især problemer med navigation, uklare begreber, tekniske barrierer og uklarhed om processen igen.
+Denne analyse undersøger, hvordan audit.os2.eu fungerer for de produktforvaltere, der skal bruge sitet i forbindelse med selvevalueringen. Jeg har særligt fokus på, om det er tydeligt, hvor man skal starte, hvordan man finder rundt, og hvilke dele af sitet der er relevante for produktforvalteren.
 
-På den baggrund peger jeg på en række steder, hvor sitet kan gøres mere overskueligt, og skitserer et forslag til en enklere struktur, hvor navigationen i højere grad følger det forløb, produktforvalteren selv går igennem: fra introduktion og selvevaluering til feedback, rettelser og endelig offentlig vurdering.
+Analysen peger især på problemer med navigation, uklare begreber, tekniske barrierer og formidlingen af processen. På den baggrund kommer jeg med konkrete forslag til, hvordan sitets struktur og indhold kan gøres mere overskueligt og bedre følge produktforvalterens vej gennem selvevalueringen.
 
+### Metode og teori
 
-## **HVAD UNDERSØGES:**
-Analyse af **audit.os2.eu** med fokus på hvordan forløbet formidles med forslag til ændring i struktur og navigation, så sitet bliver mere overskueligt. Der ses blandt andet på skellet mellem brugerrettet indhold og den mere tekniske backend/generator samt organiseringen af sider, overskrifter og beskrivelser. 
+Analysen bygger på min egen gennemgang af audit.os2.eu med inspiration fra walkthrough-metoden (Light et al., 2018), en brugertest med Mathias fra OS2ai (Hertzum, 2020) samt interviews med produktforvaltere.
 
-## **HVORDAN**: 
-
-**Min egen analyse: walkthrough (Light et al., 2018).**\
-Jeg gennemgår audit.os2.eu systematisk med inspiration fra walkthrough-metoden hos Light et al. (2018) og undersøger, hvordan sitets struktur, navigation og indhold guider produktforvalteren gennem governanceprocessen. I analysen inddrager jeg særligt Light et al.s begreb _environment of expected use_ som analytisk blik på, hvilket formål og hvilken brug sitets enkelte dele lægger op til, og hvilken bruger de synes at forudsætte. 
-
-**Brugertest med Mathias fra OS2ai (Hertzum, 2020).**\
-For en detaljeret gennemgang af, hvordan sitet opleves af en produktforvalter, har jeg lavet en brugertest med Mathias, product owner på sandkasseprojektet OS2ai, som ikke har udfyldt selvevalueringen endnu – han ser sitet med friske øjne. Mathias gennemgår en række opgaver, jeg har forberedt, tænker højt undervejs, og jeg observerer ham og følger op med spørgsmål undervejs og efter hver opgave. Det tager udgangspunkt i Hertzums model med grundelementerne: instruktioner og opgaver, verbalisering og aflæsning af brugeren (Hertzum, 2020, s. 2–3).
-
-**Affordances som analytisk linse (Davis, 2020).**\
-Som analytisk blik på brugerfladen inddrager jeg Davis’ affordancebegreb. Frem for blot at spørge, _hvad_ en teknologi muliggør, foreslår Davis at undersøge, _hvordan_ den guider, muliggør eller begrænser bestemte handlinger. I analysen har jeg især brugt begreberne **perception** og **dexterity** som linse: om brugeren kan gennemskue, hvilke funktioner og handlemuligheder sitet tilbyder, og om brugeren har de nødvendige kompetencer til at benytte dem. Dermed bliver det relevant at undersøge, hvordan audit.os2.eu fungerer for produktforvaltere med forskellige grader af teknisk erfaring. Fra de 6 interviews har jeg netop spurgt produktforvalterne til deres kendskab til sitet og hvordan det opleves at navigere der; interviewempirien indgår som baggrund for, hvordan jeg forestiller mig sitet opleves.
+Jeg bruger særligt Light et al.s begreb _environment of expected use_ til at undersøge, hvem sitet henvender sig til, og Davis' (2020) affordancebegreb til at se på, hvordan brugerfladen guider brugeren, og hvilke tekniske færdigheder den forudsætter.
 
 Referencer:\
 Light, B., Burgess, J., & Duguay, S. (2018). The walkthrough method: An approach to the study of apps. _New Media & Society, 20_(3), 881–900. https://doi.org/10.1177/1461444816675438
@@ -35,28 +26,17 @@ Hertzum, M. (2020). _Usability testing: A practitioner's guide to evaluating th
 Davis, J. L. (2020). _How artifacts afford: The power and politics of everyday things_. MIT Press. https://doi.org/10.7551/mitpress/11967.001.0001
 
 
-**Gennemgangsvilkår:**
-
-* Dato for gennemgang: løbende fra d.3 september til 6. november 2026
-
-* Siteversion (stående på forsiden): Version v0.1.0 – udgivet 4. maj 2026
-
-* Browser: Safari, version 26.5.2 
-
-
-## **MINE FUND - OG HVAD JEG FORESLÅR ÆNDRES:**
+## **Fund og ændringsforslag**
 
 ## 1. Det er uklart, hvem sitet henvender sig til, og hvor produktforvalteren skal starte
 
-Forsiden giver et overblik over indholdet på audit.os2.eu, men gør det ikke tydeligt, hvem den primære bruger er. Styregruppen og produkterne omtales i tredje person, mens "du" først dukker op længere nede på siden. Men hvem er "du"? Er sitet både tænkt som offentlig dokumentation af OS2's governance og som arbejdsredskab for dem, der skal gennemføre en selvevaluering? I så fald skal der skelnes tydeligt mellem de to formål, så man som produktforvalter ved, hvor man skal gå hen og levere sin selvevaluering, samtidig med at man som interesseret i OS2's governance-vurderinger stadig kan følge med.
+Forsiden giver et overblik over indholdet på audit.os2.eu, men gør det ikke tydeligt, hvem den primære bruger er. Styregruppen og produkterne omtales i tredje person, mens "du" først dukker op længere nede på siden. Men hvem er "du"? Er sitet både tænkt som offentlig dokumentation af OS2's governance og som arbejdsredskab for dem, der skal gennemføre en selvevaluering? I så fald skal der skelnes tydeligt mellem de to formål, så man som produktforvalter ved, hvor man skal gå hen og levere sin selvevaluering, samtidig med at man som interesseret i OS2's governance-vurderinger stadig kan følge med. Med Light et al.s (2018) begreb _environment of expected use_, kan det konstateres, at den forventede bruger af sitet ikke tydelig nok.
 
-Dette viste sig også i brugertesten, hvor Mathias var forvirret på forsiden. Han efterlyste et tydeligere svar på: "Hvor skal jeg starte?"
+Dette viste sig også i brugertesten, hvor Mathias var forvirret på forsiden. Han efterlyste et tydeligere svar på: "Hvor skal _jeg_ starte?"
 
-Forsidens "På denne side finder du" fungerer i praksis som en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter. Listen starter med "checklister" til selvevaluering og evaluering, selvom procesbeskrivelsen er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst de to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren.
+Forsidens "På denne side finder du" lægger op til at være en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter og matcher heller ikke navigationsmenuen til venstre. Listen starter med "checklister" til selvevaluering og evaluering, selvom procesbeskrivelsen nok er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren.
 
-Med Light et al.s (2018) begreb _environment of expected use_, kan det konstateres, at den forventede bruger af sitet ikke tydelig nok.
-
-**Retning:** Gør det tydeligere, hvem sitet primært er til, og giv produktforvalteren en klar indgang til processen. Formuleringen "På denne side finder du" kan desuden med fordel ændres til eksempelvis "På audit.os2.eu finder du" eller "Sitet indeholder", fordi linksene fører videre til undersider på sitet og ikke faktisk ligger på forsiden.
+Desuden kan formuleringen "På denne side finder du" kan desuden med fordel ændres til eksempelvis "På audit.os2.eu finder du" eller "Sitet indeholder", fordi linksene fører videre til undersider på sitet og ikke faktisk ligger på forsiden.
 
 ## 2. Begreberne gør det svært at forstå, hvor man er i processen
 
@@ -76,8 +56,6 @@ OS2 bruger allerede en "Vidste du?"-boks til at forklare forskellen på beslægt
 
 ![vidste-du-ordforklaring-eksempel](../images/vidste-du-ordforklaring-eksempel.png)
 
-**Retning:** Forklar det centrale begrebsapparat og brug betegnelserne mere konsekvent gennem processen. Gør samtidig tydeligt, at selvevalueringen er et arbejds- og dialogværktøj frem for en endelig vurdering. Overvej at bruge _feedback_ om sekretariatets første tilbagemelding og reservere _(endelig) vurdering_ til det tidspunkt, hvor produktet har haft mulighed for dialog og rettelser.
-
 
 ## 3. Navigationen bruger for mange overlappende og skiftende begreber
 
@@ -87,11 +65,12 @@ Forsidens egen oversigt bruger samtidig andre betegnelser end navigationen. Fx b
 
 Der findes også både _Log_ og _Beslutningslog_, uden at forskellen mellem dem fremgår af navigationen.
 
+Det ville derfor give mening at bruge de samme betegnelser på forsiden og i navigationen, så brugeren ikke skal gætte sig frem til, hvilke sider der indeholder hvad.
+
+
 _Det nuværende navigationsoverblik_
 ![Det nuværende navigationsoverblik]({{ '/docs/os2forloeb2026/images/nuvaerende-nav-på-audit-sitet.png' | relative_url }})
 
-
-**Retning:** Brug de samme begreber på forsiden og i navigationen, og giv siderne navne, der tydeligere fortæller, hvad de indeholder og hvem de er relevante for.
 
 ## 4. Sidernes struktur følger ikke produktforvalterens vej gennem processen
 
@@ -104,8 +83,6 @@ Under _Vurderingsgrundlag_ introduceres selve evalueringsprocessen samtidig al
 Her ville en tydeligere arbejdsdeling hjælpe: _Processen_ bør forklare, hvad der sker hvornår og hvem der gør hvad, mens _Vurderingsgrundlaget_ bør koncentrere sig om, hvad produktet bliver vurderet på.
 
 Rækkefølgen i navigationen kan samtidig i højere grad følge produktforvalterens proces. En ny bruger har brug for først at forstå processen og vurderingsgrundlaget, derefter udfylde selvevalueringen og til sidst orientere sig i feedback, vurdering og offentliggørelse.
-
-**Retning:** Forenkle informationsarkitekturen, reducér overlap mellem siderne og lad navigationens rækkefølge følge brugerens vej gennem processen.
 
 
 ## 5. Det er uklart, hvilke værktøjer der er til produktforvalteren, og hvilke der er til sekretariatet
@@ -124,8 +101,6 @@ Det samme gælder siden med selvevalueringer under _Rapporter_. Hvis de første
 
 Det er positivt, at OS2 dokumenterer sine arbejdsmetoder åbent, men åbenhed behøver ikke betyde, at alle tekniske værktøjer skal ligge i den primære brugerrettede navigation. Hvis generatorerne primært er backend-værktøjer for sekretariatet, kan de fortsat være offentligt tilgængelige via GitHub eller teknisk dokumentation uden at fremstå som et trin, produktforvalteren skal igennem. Hvis det derimod er meningen, at produktforvalterne selv skal bruge generatorerne, skal det angives langt tydeligere, herunder hvornår i processen de skal bruges, hvad de skal bruges til og hvordan de hænger sammen med afleveringen.
 
-**Retning:** Gør det eksplicit, hvad produktforvalteren skal bruge, og hvad der hører til sekretariatets arbejdsgang. Funktioner, der fremhæves i navigationen eller på forsiden, bør enten være klart relevante for produktforvalteren eller markeres tydeligt som noget andet. Hvis generatorerne primært er interne arbejdsredskaber, bør de flyttes ud af den primære brugerrejse. Hvis produktforvalterne forventes at bruge dem, skal det forklares tydeligt.
-
 
 ## 6. Den tekniske løsning forudsætter mere teknisk kunnen, end nogle produktforvaltere har
 
@@ -133,9 +108,8 @@ Mathias kunne relativt hurtigt forstå flowet fra formular til JSON og videre ti
 
 Det stemmer med interviewmaterialet, hvor manglende teknisk baggrund går igen, og hvor der blandt andet efterspørges hjælp til JSON og GitHub fx en mere udførlig guide til hvordan man kan downloade filen ned og afleverer ens JSON-fil. Formularen lægger op til, at den kan udfyldes direkte i browseren, hvilket nogle produktforvaltere gjorde, men de var ikke klar over arbejdet ikke ville blive gemt og de mistede derfor deres arbejde efter de refreshede siden. 
 
-Med Davis' (2020) begreb _dexterity_ understreges det, at sitets brugervenlighed hænger sammen med hvilke færdigheder sitet forudsætter hos den bruger, der skal kunne benytte funktionen. Interviewdataene tyder på, at der er stor spredning i produktforvalternes tekniske kunnen. Det er derfor nødvendigt at den tekniske barriere for udfyldning rammer laveste fællesnævner, så alle kan være med.
+Med Davis' (2020) begreb _dexterity_ understreges det, at sitets brugervenlighed hænger sammen med hvilke færdigheder sitet forudsætter hos den bruger, der skal kunne benytte funktionen. Interviewdataene tyder på, at der er stor spredning i produktforvalternes tekniske kunnen. Det er derfor vigtigt, at afleveringsprocessen også kan gennemføres af produktforvaltere uden teknisk baggrund, fx ved at gøre vejledningen til download og aflevering af JSON-filen mere udførlig.
 
-**Retning:** Undersøg om afleveringsflowet kan forklares eller understøttes bedre for produktforvaltere uden teknisk baggrund.
 
 ## 7. Formularen skal tydeligt indikere, om selvevalueringen offentliggøres før eller efter mulighed for rettelser
 
@@ -147,8 +121,6 @@ På selve formularen kunne det fx kommunikeres i en fremhævet boks:
 
 > **Selvevalueringen er et arbejdsdokument**\
 > Din første besvarelse bruges internt i dialogen mellem produktet og OS2-sekretariatet. Efter sekretariatets feedback får produktet mulighed for at opdatere besvarelsen og dokumentationen, før processen afsluttes.
-
-**Retning:** Gør dokumentets status tydelig dér, hvor selvevalueringen udfyldes, så produktforvalteren fra starten ved, hvad besvarelsen bruges til.
 
 ______
 
