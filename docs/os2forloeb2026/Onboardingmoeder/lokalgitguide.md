@@ -1,4 +1,4 @@
-# Prompt fra Jan
+# Lokal git versionsstyring v. Jan
 
 "Har sovet lidt på hvordan jeg bedst mulitg hjalp dig igang med lokal github... Har du plads i din plan til at vi udvidder scopet lidt til et mere genbrugeligt stykke arbejde?
 

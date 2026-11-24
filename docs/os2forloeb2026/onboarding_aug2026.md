@@ -1,6 +1,6 @@
 ---
 title: Onboarding august 2026
-nav_order: 4
+nav_order: 3
 parent: Specialeforberedende forløb hos OS2 2026
 ---
 
