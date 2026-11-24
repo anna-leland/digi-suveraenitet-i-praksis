@@ -34,7 +34,7 @@ Forsiden giver et overblik over indholdet på audit.os2.eu, men gør det ikke ty
 
 Dette viste sig også i brugertesten, hvor Mathias var forvirret på forsiden. Han efterlyste et tydeligere svar på: "Hvor skal _jeg_ starte?"
 
-Forsidens "På denne side finder du" lægger op til at være en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter og matcher heller ikke navigationsmenuen til venstre. Listen starter med "checklister" til selvevaluering og evaluering, selvom procesbeskrivelsen nok er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren.
+Forsidens "På denne side finder du" lægger op til at være en vejviser gennem audit-sitet, men rækkefølgen afspejler ikke tydeligt et forløb for en ny produktforvalter og matcher heller ikke navigationsmenuen til venstre. Listen starter med "checklister" til selvevaluering og evaluering, selv om procesbeskrivelsen nok er det oplagte sted at begynde, hvis man først skal forstå sammenhængen og forskellen på de to. Derefter følger selvevalueringsformularen og til sidst to generatorer, uden at det er tydeligt, om generatorerne overhovedet er tiltænkt produktforvalteren.
 
 Desuden kan formuleringen "På denne side finder du" kan desuden med fordel ændres til eksempelvis "På audit.os2.eu finder du" eller "Sitet indeholder", fordi linksene fører videre til undersider på sitet og ikke faktisk ligger på forsiden.
 

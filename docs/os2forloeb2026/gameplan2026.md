@@ -1,6 +1,6 @@
 ---
 title: Gameplan efterår 2026
-nav_order: 3
+nav_order: 4
 parent: Specialeforberedende forløb hos OS2 2026
 ---
 

@@ -13,26 +13,27 @@ Dette site dokumenterer mit arbejde hos **OS2 – Offentligt Digitaliseringsfæ
 
 ## 🧭 Formålet med sitet
 
-Sitet fungerer som den formidlede del af arbejdet og samler i open source-ånden åbent analyser og løbende resultater om **digital suverænitet, open source-governance og selvevalueringer af OS2’s produkter** i efteråret 2026.
+Sitet samler i open source-ånden mine analyser og resultater fra efteråret 2026, hvor jeg har undersøgt governanceprocessen omkring OS2's selvevalueringer med fokus på, hvordan den kan gøres tydeligere og lettere at arbejde med for produktforvalterne og sekretariatet.
 
-Arbejdet danner samtidig grundlag for mit efterfølgende specialesamarbejde med OS2 i 2027.
+Arbejdet danner samtidig grundlag for mit efterfølgende specialesamarbejde med OS2 om digital suverænitet i praksis i foråret 2027.
 
 
 # 💼 Specialeforberedende forløb i efteråret 2026
 
-I efteråret 2026 arbejder jeg med følgende opgaver, som jeg løbende vil udgive resultater fra:
+I efteråret 2026 har jeg undersøgt, hvor i selvevalueringsprocessen der opstår problemer og hvorfor, med udgangspunkt i interviews, dokumentanalyser, walkthroughs og brugertest.
 
-- Facilitering og analyse af OS2's governance-selvevalueringer af deres it-produkter samt understøttelse af sekretariatets præsentation til bestyrelsen.
-- Identifikation af problemområder, potentialer for automatisering, behov for kompetenceløft og en mere standardiseret metode til kravsopfyldelse i selvevalueringerne.
-- Analyse af organisatoriske udfordringer ved implementering af open source-governance og digital suverænitet.
-- Dokumentation og formidling af analyser, observationer og løbende resultater.
+Arbejdet er samlet i fire analyser:
+
+* **[Selvevalueringsformularen:](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/1-analyse-selv-eva-formular.html)** Gennemgang af de 43 governancekrav og tilhørende vejledninger med forslag til tydeligere formuleringer og dokumentationskrav.
+* **[audit.os2.eu:](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/2-analyse-UI-audit-sitet.html)** Analyse af hjemmesidens brugeroplevelse, navigation og struktur med forslag til, hvordan den bedre kan understøtte produktforvalternes arbejde.
+* **[Selvevalueringsprocessen:](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/3-analyse-processen.html)** Analyse af, hvordan forløbet kommunikeres, herunder uklarheder om tidsfrister, offentliggørelse, feedback og endelige vurderinger.
+* **[Semiotik i selvevaluering og feedback](https://anna-leland.github.io/digi-suveraenitet-i-praksis/docs/os2forloeb2026/selvevalueringer/4-analyse-vurdering-fra-sek.html)**: Analyse af, hvordan ord, farver og symboler påvirker forståelsen af selvevalueringen og sekretariatets vurderinger, med forslag til tydeligere feedback.
 
 ### Se planer for mit 2026 forløb her:
 [Specialeforberedende forløb hos OS2 2026](./docs/os2forloeb2026/os2forloeb2026.html)
   - [Gameplan 2026](./docs/os2forloeb2026/gameplan2026.html)
   - [Onboarding august 2026](./docs/os2forloeb2026/onboarding_aug2026.html)
-  - Milestones for 2026 fremhævet [på GitHub](https://github.com/anna-leland/digi-suveraenitet-i-praksis/milestones)
-  - En kalenderoversigt for efteråret 2026 i et [project på GitHub](https://github.com/users/anna-leland/projects/1)
+  - Oversit over opgaver formuleret som issues i et [project på GitHub](https://github.com/users/anna-leland/projects/1)
 
 
 # 📚 Specialesamarbejde i foråret 2027

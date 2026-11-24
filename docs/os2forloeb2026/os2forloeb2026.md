@@ -14,7 +14,7 @@ Mit analysearbejde hos **OS2 – Offentligt Digitaliseringsfællesskab** under
 
 **Analysernes fokus og afgrænsning**
 
-Analyserne tager primært udgangspunkt i produktforvalternes perspektiv og deres vej gennem selvevalueringsprocessen, da det i praksis ofte er dem, der koordinerer og udfylder selvevalueringen, selvom det overordnede ansvar for indholdet ligger hos styregruppen.
+Analyserne tager primært udgangspunkt i produktforvalternes perspektiv og deres vej gennem selvevalueringsprocessen, da det i praksis ofte er dem, der koordinerer og udfylder selvevalueringen, selv om det overordnede ansvar for indholdet ligger hos styregruppen.
 
 Mit fokus er derfor på, hvordan formularen, hjemmesiden og kommunikationen omkring processen fungerer for dem, der skal bruge den. Analyserne går ikke nærmere ind i leverandørernes perspektiv eller de tekniske aspekter af governancekravene og deres efterlevelse. Det ligger uden for både undersøgelsens fokus og mine primære informationsvidenskabelige kompetencer, som særligt er inden for kommunikation, brugeroplevelse og organisatoriske processer.
 
@@ -26,7 +26,7 @@ Arbejdet tager udgangspunkt i den første større anvendelse af OS2's governance
 
 **Historisk kontekst for selvevalueringsprocessen**
 
-OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. Selvom OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016, har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra politisk hold, stilles der nu større krav til, at governance niveauerne i OS2s projekter og produkter er dokumenteret.
+OS2 har gennem en længere periode haft fokus på at udbygge produktporteføljen og skabe plads til innovation så fællesskabet kunne vokse. selv om OS2 har haft sin [goverance/styringsmodel](https://boks.os2.eu/s/5mE8j8RLQeM4L7w?dir=/&editing=false&openfile=true) siden 2016, har der ikke været samme fokus på governance, fordi for stramme krav kunne risikere at blive en stopklods for nye produkter, før de for alvor kom i gang. I takt med organisationens professionalisering de senere år og den øgede opmærksomhed på OS2 grundet relevansen for open source og digital suverænitet fra politisk hold, stilles der nu større krav til, at governance niveauerne i OS2s projekter og produkter er dokumenteret.
 
 Derfor har OS2-sekretariatet med mandat fra bestyrelsen skabt en selvevalueringsproces, så produkter og projekter i første omgang selv kan gennemgå deres praksis ud fra governance-kravene, derefter få en vurdering fra sekretariatet om deres produktniveau (sandkasse, niveau 1, 2 eller 3) og halvårligt opdatere rapporten som projektet/produktet udvikler sig. De enkelte vurderinger for produkter og projekter skal på sigt ligge åbent på hjemmesiden os2.eu.
 

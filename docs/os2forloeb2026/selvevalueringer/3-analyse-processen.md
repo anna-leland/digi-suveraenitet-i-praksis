@@ -36,7 +36,7 @@ Interviewene viser, at der ikke er en fælles forståelse af, hvor ofte selveval
 
 Tre af de interviewede produktforvaltere var i tvivl om, hvorvidt processen skulle være årlig eller halvårlig. To var ret sikre på, at den måtte være årlig og ikke burde ske oftere, mens én mente, at den både er og bør være halvårlig, så man løbende har føling med selvevalueringen.
 
-Selvom hyppigheden altså allerede er beskrevet både i emailen og på hjemmesiden, er den ikke blevet tydelig nok for produktforvalterne. Om processen fremadrettet bliver årlig eller halvårlig, bør rytmen derfor meldes endnu klarere ud, fx i procesdiagrammet og i toppen af selvevalueringsformularen. Det kan samtidig kommunikeres ud i produktforvalternetværket, at selvevalueringen skal indregnes som en fast del af produktets årshjul og ikke komme som en ny overraskelse hver gang.
+Selv om hyppigheden altså allerede er beskrevet både i emailen og på hjemmesiden, er den ikke blevet tydelig nok for produktforvalterne. Om processen fremadrettet bliver årlig eller halvårlig, bør rytmen derfor meldes endnu klarere ud, fx i procesdiagrammet og i toppen af selvevalueringsformularen. Det kan samtidig kommunikeres ud i produktforvalternetværket, at selvevalueringen skal indregnes som en fast del af produktets årshjul og ikke komme som en ny overraskelse hver gang.
 
 ### 2. Åbenhed er ikke kommunikeret tydeligt nok
 
